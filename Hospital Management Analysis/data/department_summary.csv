@@ -1,0 +1,11 @@
+department,monthly_target_patients,available_beds,staff_count
+Cardiology,448,38,18
+Neurology,256,57,17
+Orthopedics,556,53,18
+Pediatrics,504,39,30
+General Medicine,209,48,16
+Dermatology,412,67,10
+ENT,560,69,31
+Gynecology,436,67,12
+Oncology,433,32,30
+Emergency,422,21,8

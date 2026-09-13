@@ -1,0 +1,41 @@
+doctor_id,doctor_name,department,experience_years,consultation_fee
+D001,Dr. Aarav Sharma,General Medicine,24,600
+D002,Dr. Vivaan Patil,Emergency,27,400
+D003,Dr. Aditya Deshmukh,General Medicine,8,600
+D004,Dr. Arjun Kulkarni,Dermatology,21,400
+D005,Dr. Rahul Joshi,Gynecology,26,300
+D006,Dr. Rohan Singh,Neurology,13,1200
+D007,Dr. Amit Gupta,Dermatology,17,750
+D008,Dr. Karan Pawar,Cardiology,17,600
+D009,Dr. Vikram Jadhav,Pediatrics,12,400
+D010,Dr. Raj More,Emergency,22,500
+D011,Dr. Ananya Khan,Orthopedics,5,1200
+D012,Dr. Priya Verma,Oncology,14,600
+D013,Dr. Sneha Shah,Orthopedics,8,1000
+D014,Dr. Pooja Mishra,Dermatology,5,300
+D015,Dr. Neha Yadav,Cardiology,16,300
+D016,Dr. Aisha Sharma,Dermatology,20,500
+D017,Dr. Isha Patil,Pediatrics,10,400
+D018,Dr. Kavya Deshmukh,Gynecology,12,600
+D019,Dr. Riya Kulkarni,Oncology,9,1200
+D020,Dr. Meera Joshi,Pediatrics,2,400
+D021,Dr. Aarav Singh,Emergency,24,300
+D022,Dr. Vivaan Gupta,Emergency,26,400
+D023,Dr. Aditya Pawar,Dermatology,25,300
+D024,Dr. Arjun Jadhav,Cardiology,9,400
+D025,Dr. Rahul More,Pediatrics,14,500
+D026,Dr. Rohan Khan,ENT,23,750
+D027,Dr. Amit Verma,Cardiology,28,500
+D028,Dr. Karan Shah,Gynecology,5,500
+D029,Dr. Vikram Mishra,Emergency,9,750
+D030,Dr. Raj Yadav,Dermatology,4,750
+D031,Dr. Ananya Sharma,General Medicine,30,600
+D032,Dr. Priya Patil,Emergency,10,1200
+D033,Dr. Sneha Deshmukh,Oncology,30,1200
+D034,Dr. Pooja Kulkarni,Neurology,3,600
+D035,Dr. Neha Joshi,General Medicine,3,500
+D036,Dr. Aisha Singh,Dermatology,29,500
+D037,Dr. Isha Gupta,ENT,14,300
+D038,Dr. Kavya Pawar,General Medicine,16,300
+D039,Dr. Riya Jadhav,Oncology,29,1200
+D040,Dr. Meera More,Cardiology,24,600

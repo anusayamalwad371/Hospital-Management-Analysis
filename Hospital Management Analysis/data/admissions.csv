@@ -1,0 +1,701 @@
+admission_id,patient_id,doctor_id,department,admission_date,discharge_date,admission_type,room_type,outcome
+ADM00001,P0280,D011,Dermatology,2025-08-12,2025-08-20,Elective,Private,Referred
+ADM00002,P0218,D038,Neurology,2025-09-13,2025-09-14,Elective,Semi-Private,Recovered
+ADM00003,P0175,D021,Gynecology,2025-06-29,2025-07-14,Transfer,ICU,Improved
+ADM00004,P0234,D030,Pediatrics,2025-01-20,2025-01-24,Transfer,Private,Recovered
+ADM00005,P0437,D010,General Medicine,2025-04-22,2025-04-28,Elective,Private,Recovered
+ADM00006,P0252,D026,Gynecology,2025-04-30,2025-05-13,Elective,Private,Recovered
+ADM00007,P0295,D027,Gynecology,2025-07-13,2025-07-17,Emergency,Semi-Private,Recovered
+ADM00008,P0451,D008,Dermatology,2025-04-21,2025-04-27,Elective,Private,Improved
+ADM00009,P0322,D039,Pediatrics,2025-07-29,2025-08-03,Elective,General Ward,Recovered
+ADM00010,P0006,D008,Cardiology,2025-01-01,2025-01-15,Elective,General Ward,Referred
+ADM00011,P0021,D008,ENT,2025-02-27,2025-03-08,Emergency,Semi-Private,Improved
+ADM00012,P0073,D034,Gynecology,2025-04-03,2025-04-13,Emergency,Semi-Private,Improved
+ADM00013,P0330,D016,Oncology,2025-08-09,2025-08-18,Emergency,Semi-Private,Improved
+ADM00014,P0036,D013,Neurology,2025-07-30,2025-08-03,Emergency,Semi-Private,Recovered
+ADM00015,P0387,D023,Cardiology,2025-08-20,2025-09-02,Elective,General Ward,Recovered
+ADM00016,P0233,D012,Pediatrics,2025-09-19,2025-10-03,Emergency,Semi-Private,Improved
+ADM00017,P0216,D027,General Medicine,2025-12-30,2026-01-03,Emergency,General Ward,Recovered
+ADM00018,P0470,D022,Emergency,2025-04-13,2025-04-25,Emergency,ICU,Recovered
+ADM00019,P0497,D032,Cardiology,2025-02-19,2025-02-27,Elective,ICU,Recovered
+ADM00020,P0206,D027,General Medicine,2025-04-20,2025-04-30,Elective,ICU,Improved
+ADM00021,P0426,D002,Dermatology,2025-03-29,2025-04-13,Emergency,General Ward,Recovered
+ADM00022,P0429,D033,Orthopedics,2025-01-20,2025-01-24,Elective,Semi-Private,Recovered
+ADM00023,P0044,D026,ENT,2025-01-14,2025-01-16,Elective,ICU,Recovered
+ADM00024,P0091,D028,Dermatology,2025-05-13,2025-05-26,Emergency,ICU,Expired
+ADM00025,P0417,D019,Pediatrics,2025-10-23,2025-11-05,Elective,Private,Recovered
+ADM00026,P0316,D005,Orthopedics,2025-02-03,2025-02-17,Emergency,Semi-Private,Improved
+ADM00027,P0470,D033,General Medicine,2025-07-27,2025-08-11,Elective,Semi-Private,Improved
+ADM00028,P0093,D020,Orthopedics,2025-10-28,2025-10-30,Emergency,Private,Improved
+ADM00029,P0467,D030,Emergency,2025-07-18,2025-07-19,Transfer,General Ward,Recovered
+ADM00030,P0339,D008,Oncology,2025-03-21,2025-03-26,Emergency,Semi-Private,Improved
+ADM00031,P0454,D038,Oncology,2025-03-12,2025-03-27,Elective,Private,Recovered
+ADM00032,P0493,D017,Dermatology,2025-06-04,2025-06-10,Transfer,Private,Recovered
+ADM00033,P0083,D001,Dermatology,2025-03-19,2025-03-28,Emergency,Semi-Private,Improved
+ADM00034,P0333,D003,Pediatrics,2025-03-19,2025-03-24,Elective,Semi-Private,Improved
+ADM00035,P0282,D026,Pediatrics,2025-06-21,2025-07-04,Elective,ICU,Improved
+ADM00036,P0470,D031,Neurology,2025-10-16,2025-10-22,Elective,Semi-Private,Referred
+ADM00037,P0021,D008,Emergency,2025-02-02,2025-02-08,Emergency,Private,Recovered
+ADM00038,P0228,D008,Pediatrics,2025-10-27,2025-10-30,Emergency,Private,Referred
+ADM00039,P0376,D035,Gynecology,2025-10-03,2025-10-15,Elective,Private,Recovered
+ADM00040,P0130,D039,Emergency,2025-01-07,2025-01-11,Elective,Private,Improved
+ADM00041,P0175,D028,Neurology,2025-06-09,2025-06-10,Elective,Semi-Private,Recovered
+ADM00042,P0108,D004,Oncology,2025-08-28,2025-09-01,Emergency,Semi-Private,Recovered
+ADM00043,P0414,D016,Cardiology,2025-01-24,2025-01-25,Emergency,Semi-Private,Recovered
+ADM00044,P0283,D013,Neurology,2025-08-02,2025-08-17,Elective,General Ward,Recovered
+ADM00045,P0071,D020,Neurology,2025-03-11,2025-03-16,Elective,General Ward,Recovered
+ADM00046,P0404,D005,Dermatology,2025-08-04,2025-08-15,Elective,General Ward,Recovered
+ADM00047,P0050,D037,ENT,2025-04-14,2025-04-25,Emergency,Private,Recovered
+ADM00048,P0095,D020,Orthopedics,2025-08-03,2025-08-11,Emergency,General Ward,Improved
+ADM00049,P0279,D024,Oncology,2025-02-23,2025-03-03,Emergency,General Ward,Recovered
+ADM00050,P0397,D036,General Medicine,2025-10-21,2025-10-26,Emergency,General Ward,Recovered
+ADM00051,P0337,D034,General Medicine,2025-11-26,2025-12-10,Emergency,Private,Recovered
+ADM00052,P0132,D034,Pediatrics,2025-12-02,2025-12-12,Elective,General Ward,Recovered
+ADM00053,P0398,D019,Oncology,2025-07-22,2025-07-24,Elective,Semi-Private,Improved
+ADM00054,P0276,D017,Gynecology,2025-10-15,2025-10-27,Elective,General Ward,Referred
+ADM00055,P0380,D005,Pediatrics,2025-02-14,2025-02-20,Emergency,Private,Recovered
+ADM00056,P0013,D025,Pediatrics,2025-11-13,2025-11-14,Emergency,ICU,Improved
+ADM00057,P0003,D018,Neurology,2025-07-17,2025-07-24,Elective,ICU,Improved
+ADM00058,P0474,D008,Oncology,2025-08-04,2025-08-15,Transfer,Semi-Private,Recovered
+ADM00059,P0474,D027,Orthopedics,2025-11-05,2025-11-09,Elective,Semi-Private,Improved
+ADM00060,P0466,D015,Pediatrics,2025-11-28,2025-12-03,Elective,Semi-Private,Recovered
+ADM00061,P0224,D013,ENT,2025-07-03,2025-07-09,Elective,General Ward,Recovered
+ADM00062,P0462,D016,Emergency,2025-01-27,2025-02-07,Elective,Semi-Private,Recovered
+ADM00063,P0175,D022,Gynecology,2025-06-15,2025-06-16,Emergency,General Ward,Recovered
+ADM00064,P0387,D020,Gynecology,2025-11-14,2025-11-23,Elective,Private,Improved
+ADM00065,P0385,D013,Pediatrics,2025-10-01,2025-10-11,Emergency,General Ward,Recovered
+ADM00066,P0090,D020,ENT,2025-12-31,2026-01-04,Elective,Semi-Private,Recovered
+ADM00067,P0408,D002,Emergency,2025-04-13,2025-04-21,Elective,Semi-Private,Recovered
+ADM00068,P0241,D035,Cardiology,2025-11-29,2025-12-04,Elective,Semi-Private,Improved
+ADM00069,P0035,D019,Dermatology,2025-04-14,2025-04-25,Emergency,Private,Improved
+ADM00070,P0014,D037,Dermatology,2025-09-02,2025-09-10,Elective,Private,Improved
+ADM00071,P0195,D006,Dermatology,2025-11-01,2025-11-16,Elective,Private,Recovered
+ADM00072,P0397,D014,Neurology,2025-06-18,2025-06-19,Elective,Semi-Private,Improved
+ADM00073,P0431,D004,Gynecology,2025-04-26,2025-05-04,Elective,General Ward,Recovered
+ADM00074,P0306,D022,General Medicine,2025-05-21,2025-06-01,Transfer,Semi-Private,Recovered
+ADM00075,P0334,D039,General Medicine,2025-12-22,2026-01-04,Emergency,ICU,Recovered
+ADM00076,P0213,D036,Neurology,2025-05-05,2025-05-16,Elective,ICU,Recovered
+ADM00077,P0410,D034,Pediatrics,2025-01-25,2025-01-29,Emergency,Private,Improved
+ADM00078,P0003,D027,Oncology,2025-07-13,2025-07-15,Emergency,General Ward,Referred
+ADM00079,P0179,D007,Oncology,2025-04-10,2025-04-21,Transfer,General Ward,Improved
+ADM00080,P0040,D003,Dermatology,2025-01-05,2025-01-11,Transfer,Semi-Private,Recovered
+ADM00081,P0452,D033,Oncology,2025-01-19,2025-01-21,Emergency,Private,Recovered
+ADM00082,P0164,D002,Pediatrics,2025-06-19,2025-06-24,Emergency,Private,Recovered
+ADM00083,P0307,D016,Cardiology,2025-10-01,2025-10-03,Emergency,Private,Improved
+ADM00084,P0235,D025,Neurology,2025-09-11,2025-09-14,Elective,Semi-Private,Improved
+ADM00085,P0257,D015,Cardiology,2025-05-01,2025-05-12,Emergency,General Ward,Expired
+ADM00086,P0360,D024,Gynecology,2025-02-01,2025-02-07,Emergency,General Ward,Recovered
+ADM00087,P0495,D015,Oncology,2025-05-29,2025-05-30,Emergency,General Ward,Improved
+ADM00088,P0417,D031,Emergency,2025-09-23,2025-09-29,Elective,Semi-Private,Improved
+ADM00089,P0391,D014,Dermatology,2025-02-06,2025-02-09,Transfer,General Ward,Referred
+ADM00090,P0373,D014,Neurology,2025-06-26,2025-07-03,Emergency,Private,Improved
+ADM00091,P0116,D006,Dermatology,2025-12-08,2025-12-10,Elective,Private,Improved
+ADM00092,P0052,D014,Oncology,2025-01-13,2025-01-27,Emergency,General Ward,Improved
+ADM00093,P0376,D017,Orthopedics,2025-07-02,2025-07-08,Elective,General Ward,Improved
+ADM00094,P0395,D018,Oncology,2025-05-25,2025-06-02,Elective,General Ward,Recovered
+ADM00095,P0411,D020,Neurology,2025-09-22,2025-10-07,Emergency,Private,Recovered
+ADM00096,P0142,D017,General Medicine,2025-03-29,2025-04-13,Emergency,Semi-Private,Recovered
+ADM00097,P0086,D016,Neurology,2025-02-15,2025-03-02,Elective,General Ward,Recovered
+ADM00098,P0464,D040,ENT,2025-04-29,2025-04-30,Emergency,Private,Improved
+ADM00099,P0046,D039,Emergency,2025-01-19,2025-01-30,Elective,Semi-Private,Recovered
+ADM00100,P0332,D032,Oncology,2025-08-08,2025-08-19,Elective,Semi-Private,Recovered
+ADM00101,P0497,D009,ENT,2025-08-21,2025-09-03,Emergency,Private,Recovered
+ADM00102,P0238,D027,General Medicine,2025-04-04,2025-04-13,Elective,Private,Improved
+ADM00103,P0010,D033,Pediatrics,2025-09-08,2025-09-13,Elective,Private,Recovered
+ADM00104,P0152,D010,Pediatrics,2025-09-07,2025-09-12,Elective,Semi-Private,Recovered
+ADM00105,P0061,D017,Emergency,2025-10-09,2025-10-22,Emergency,General Ward,Recovered
+ADM00106,P0494,D036,Gynecology,2025-08-20,2025-09-01,Elective,Private,Recovered
+ADM00107,P0018,D017,Emergency,2025-02-15,2025-02-20,Elective,Semi-Private,Improved
+ADM00108,P0086,D018,Emergency,2025-02-15,2025-02-21,Elective,Private,Recovered
+ADM00109,P0137,D023,Emergency,2025-01-14,2025-01-16,Elective,Private,Improved
+ADM00110,P0401,D034,Emergency,2025-03-26,2025-04-01,Emergency,ICU,Improved
+ADM00111,P0230,D008,Emergency,2025-11-15,2025-11-29,Elective,General Ward,Expired
+ADM00112,P0128,D013,Cardiology,2025-11-24,2025-12-05,Elective,General Ward,Recovered
+ADM00113,P0104,D023,General Medicine,2025-01-03,2025-01-07,Emergency,General Ward,Recovered
+ADM00114,P0186,D020,Neurology,2025-01-28,2025-02-05,Elective,Private,Recovered
+ADM00115,P0397,D022,Oncology,2025-06-06,2025-06-19,Emergency,General Ward,Recovered
+ADM00116,P0178,D023,ENT,2025-12-09,2025-12-20,Emergency,General Ward,Improved
+ADM00117,P0357,D035,Emergency,2025-11-29,2025-12-08,Transfer,General Ward,Recovered
+ADM00118,P0006,D003,Gynecology,2025-11-28,2025-12-07,Emergency,General Ward,Recovered
+ADM00119,P0341,D034,Dermatology,2025-06-24,2025-07-02,Emergency,General Ward,Improved
+ADM00120,P0307,D033,Oncology,2025-04-24,2025-04-27,Elective,General Ward,Improved
+ADM00121,P0036,D017,Dermatology,2025-11-27,2025-12-07,Transfer,Private,Recovered
+ADM00122,P0327,D019,ENT,2025-09-07,2025-09-18,Transfer,General Ward,Recovered
+ADM00123,P0356,D030,ENT,2025-02-28,2025-03-11,Elective,General Ward,Recovered
+ADM00124,P0281,D023,Oncology,2025-07-22,2025-07-26,Emergency,Private,Referred
+ADM00125,P0395,D015,Gynecology,2025-11-11,2025-11-12,Transfer,Private,Improved
+ADM00126,P0300,D014,Cardiology,2025-08-27,2025-09-05,Elective,General Ward,Improved
+ADM00127,P0014,D002,Pediatrics,2025-08-22,2025-08-27,Elective,General Ward,Referred
+ADM00128,P0237,D039,ENT,2025-10-30,2025-11-05,Elective,Private,Recovered
+ADM00129,P0285,D018,Gynecology,2025-04-05,2025-04-08,Elective,General Ward,Recovered
+ADM00130,P0330,D006,ENT,2025-05-21,2025-06-01,Emergency,General Ward,Recovered
+ADM00131,P0050,D032,Orthopedics,2025-11-30,2025-12-10,Elective,General Ward,Improved
+ADM00132,P0496,D021,Pediatrics,2025-04-23,2025-05-01,Elective,General Ward,Referred
+ADM00133,P0261,D040,ENT,2025-04-19,2025-05-04,Emergency,Semi-Private,Recovered
+ADM00134,P0456,D028,Gynecology,2025-12-28,2026-01-04,Emergency,Private,Recovered
+ADM00135,P0110,D027,ENT,2025-12-11,2025-12-12,Elective,Private,Referred
+ADM00136,P0197,D002,Dermatology,2025-10-16,2025-10-26,Emergency,Semi-Private,Recovered
+ADM00137,P0378,D033,Oncology,2025-04-07,2025-04-19,Emergency,Semi-Private,Improved
+ADM00138,P0252,D016,Oncology,2025-12-01,2025-12-06,Elective,Semi-Private,Recovered
+ADM00139,P0088,D039,ENT,2025-01-16,2025-01-26,Elective,Semi-Private,Recovered
+ADM00140,P0488,D022,Gynecology,2025-02-13,2025-02-22,Elective,General Ward,Recovered
+ADM00141,P0313,D013,Dermatology,2025-08-18,2025-08-30,Elective,Private,Improved
+ADM00142,P0026,D002,Cardiology,2025-04-18,2025-04-29,Elective,Private,Improved
+ADM00143,P0262,D014,Cardiology,2025-08-05,2025-08-17,Elective,General Ward,Recovered
+ADM00144,P0144,D038,Dermatology,2025-09-17,2025-09-23,Emergency,Private,Improved
+ADM00145,P0060,D028,Neurology,2025-11-08,2025-11-16,Elective,Semi-Private,Improved
+ADM00146,P0356,D007,Gynecology,2025-11-16,2025-11-26,Elective,Semi-Private,Improved
+ADM00147,P0268,D018,Cardiology,2025-07-15,2025-07-16,Emergency,General Ward,Recovered
+ADM00148,P0075,D036,Neurology,2025-04-05,2025-04-15,Emergency,Private,Referred
+ADM00149,P0003,D036,Gynecology,2025-02-25,2025-03-08,Elective,Private,Recovered
+ADM00150,P0063,D004,Dermatology,2025-02-01,2025-02-08,Emergency,Private,Recovered
+ADM00151,P0236,D030,Emergency,2025-08-19,2025-08-22,Emergency,General Ward,Recovered
+ADM00152,P0448,D024,Neurology,2025-01-09,2025-01-18,Elective,General Ward,Recovered
+ADM00153,P0446,D020,Neurology,2025-07-10,2025-07-16,Elective,Semi-Private,Referred
+ADM00154,P0229,D031,ENT,2025-12-27,2026-01-01,Elective,Semi-Private,Recovered
+ADM00155,P0390,D024,General Medicine,2025-07-19,2025-07-27,Emergency,Semi-Private,Recovered
+ADM00156,P0275,D007,General Medicine,2025-11-30,2025-12-08,Emergency,ICU,Improved
+ADM00157,P0018,D026,Gynecology,2025-06-10,2025-06-22,Elective,Private,Improved
+ADM00158,P0080,D013,ENT,2025-03-28,2025-04-09,Emergency,Semi-Private,Improved
+ADM00159,P0215,D008,Oncology,2025-01-21,2025-01-24,Elective,General Ward,Recovered
+ADM00160,P0171,D005,Pediatrics,2025-11-07,2025-11-09,Emergency,General Ward,Improved
+ADM00161,P0485,D013,Emergency,2025-03-17,2025-04-01,Transfer,Private,Recovered
+ADM00162,P0329,D029,Pediatrics,2025-05-21,2025-05-23,Elective,Private,Expired
+ADM00163,P0255,D020,Neurology,2025-05-06,2025-05-20,Emergency,Private,Improved
+ADM00164,P0387,D014,Orthopedics,2025-09-08,2025-09-13,Elective,Semi-Private,Improved
+ADM00165,P0126,D032,Cardiology,2025-03-25,2025-04-04,Emergency,General Ward,Recovered
+ADM00166,P0255,D027,Cardiology,2025-02-17,2025-03-01,Emergency,ICU,Recovered
+ADM00167,P0072,D025,ENT,2025-03-19,2025-03-26,Elective,ICU,Recovered
+ADM00168,P0038,D004,General Medicine,2025-01-30,2025-02-07,Emergency,Semi-Private,Recovered
+ADM00169,P0324,D021,Orthopedics,2025-10-12,2025-10-22,Elective,General Ward,Recovered
+ADM00170,P0204,D018,ENT,2025-05-16,2025-05-31,Emergency,Semi-Private,Improved
+ADM00171,P0172,D039,Neurology,2025-05-20,2025-05-28,Emergency,Private,Recovered
+ADM00172,P0223,D015,Orthopedics,2025-02-10,2025-02-23,Emergency,Private,Improved
+ADM00173,P0217,D038,Cardiology,2025-10-09,2025-10-21,Elective,Private,Recovered
+ADM00174,P0245,D024,Gynecology,2025-02-19,2025-02-27,Elective,General Ward,Recovered
+ADM00175,P0336,D008,Neurology,2025-09-15,2025-09-30,Emergency,General Ward,Improved
+ADM00176,P0191,D028,ENT,2025-11-07,2025-11-17,Emergency,General Ward,Improved
+ADM00177,P0298,D021,Oncology,2025-12-26,2026-01-07,Transfer,ICU,Recovered
+ADM00178,P0320,D016,Dermatology,2025-09-27,2025-10-08,Transfer,Semi-Private,Recovered
+ADM00179,P0182,D016,Neurology,2025-05-14,2025-05-17,Elective,Private,Improved
+ADM00180,P0334,D035,Neurology,2025-08-22,2025-09-05,Elective,General Ward,Recovered
+ADM00181,P0383,D017,Oncology,2025-05-08,2025-05-19,Elective,ICU,Recovered
+ADM00182,P0205,D009,Emergency,2025-04-14,2025-04-16,Emergency,Private,Improved
+ADM00183,P0361,D035,Gynecology,2025-09-11,2025-09-24,Emergency,General Ward,Recovered
+ADM00184,P0199,D029,Oncology,2025-04-05,2025-04-09,Emergency,Private,Recovered
+ADM00185,P0332,D039,Pediatrics,2025-12-03,2025-12-18,Elective,General Ward,Referred
+ADM00186,P0165,D018,Pediatrics,2025-08-05,2025-08-06,Elective,General Ward,Improved
+ADM00187,P0242,D012,Neurology,2025-03-02,2025-03-05,Elective,General Ward,Recovered
+ADM00188,P0388,D019,Emergency,2025-09-25,2025-10-06,Emergency,ICU,Recovered
+ADM00189,P0130,D022,Cardiology,2025-08-29,2025-09-07,Elective,ICU,Recovered
+ADM00190,P0227,D015,Emergency,2025-01-13,2025-01-20,Elective,General Ward,Improved
+ADM00191,P0122,D001,Pediatrics,2025-05-27,2025-06-03,Elective,Private,Improved
+ADM00192,P0044,D002,Emergency,2025-08-28,2025-08-29,Emergency,Private,Recovered
+ADM00193,P0451,D008,Emergency,2025-03-30,2025-04-06,Elective,Private,Recovered
+ADM00194,P0196,D022,Gynecology,2025-04-05,2025-04-15,Emergency,General Ward,Recovered
+ADM00195,P0358,D025,Neurology,2025-11-11,2025-11-18,Elective,Semi-Private,Recovered
+ADM00196,P0204,D002,Gynecology,2025-10-20,2025-10-24,Elective,Private,Improved
+ADM00197,P0467,D009,Cardiology,2025-01-25,2025-02-01,Emergency,General Ward,Recovered
+ADM00198,P0458,D009,Cardiology,2025-09-29,2025-10-07,Elective,General Ward,Recovered
+ADM00199,P0318,D013,Pediatrics,2025-06-15,2025-06-18,Emergency,Private,Recovered
+ADM00200,P0257,D006,ENT,2025-09-07,2025-09-20,Elective,General Ward,Recovered
+ADM00201,P0017,D030,Oncology,2025-03-28,2025-04-07,Emergency,ICU,Recovered
+ADM00202,P0272,D015,General Medicine,2025-05-22,2025-05-24,Elective,General Ward,Improved
+ADM00203,P0009,D015,Neurology,2025-05-14,2025-05-21,Transfer,ICU,Improved
+ADM00204,P0249,D007,ENT,2025-10-06,2025-10-11,Emergency,General Ward,Referred
+ADM00205,P0437,D011,Neurology,2025-05-06,2025-05-11,Elective,General Ward,Referred
+ADM00206,P0201,D040,Oncology,2025-11-12,2025-11-26,Elective,General Ward,Improved
+ADM00207,P0059,D038,Oncology,2025-05-21,2025-05-26,Emergency,Private,Improved
+ADM00208,P0375,D040,Orthopedics,2025-12-22,2026-01-06,Elective,Private,Referred
+ADM00209,P0393,D002,Gynecology,2025-04-13,2025-04-20,Elective,General Ward,Recovered
+ADM00210,P0140,D039,Pediatrics,2025-08-14,2025-08-23,Transfer,General Ward,Recovered
+ADM00211,P0119,D010,Orthopedics,2025-03-04,2025-03-15,Elective,Semi-Private,Recovered
+ADM00212,P0041,D017,Cardiology,2025-10-21,2025-10-29,Elective,Semi-Private,Improved
+ADM00213,P0399,D007,General Medicine,2025-11-02,2025-11-08,Elective,Private,Improved
+ADM00214,P0322,D040,Pediatrics,2025-09-11,2025-09-18,Elective,General Ward,Recovered
+ADM00215,P0331,D039,Cardiology,2025-06-29,2025-07-08,Elective,Semi-Private,Recovered
+ADM00216,P0267,D004,Emergency,2025-02-09,2025-02-23,Emergency,Private,Recovered
+ADM00217,P0008,D035,Gynecology,2025-09-21,2025-10-02,Elective,ICU,Recovered
+ADM00218,P0183,D036,Gynecology,2025-07-08,2025-07-14,Elective,Private,Recovered
+ADM00219,P0480,D031,Gynecology,2025-01-08,2025-01-09,Elective,General Ward,Recovered
+ADM00220,P0134,D025,Orthopedics,2025-04-14,2025-04-18,Elective,General Ward,Recovered
+ADM00221,P0181,D013,Dermatology,2025-08-13,2025-08-21,Emergency,Semi-Private,Improved
+ADM00222,P0404,D018,ENT,2025-02-03,2025-02-10,Transfer,Semi-Private,Improved
+ADM00223,P0423,D021,Oncology,2025-08-24,2025-08-27,Elective,Private,Improved
+ADM00224,P0355,D001,General Medicine,2025-08-16,2025-08-26,Elective,Private,Improved
+ADM00225,P0072,D036,Oncology,2025-07-07,2025-07-10,Emergency,Semi-Private,Improved
+ADM00226,P0498,D008,Dermatology,2025-11-09,2025-11-20,Emergency,Semi-Private,Improved
+ADM00227,P0113,D021,Emergency,2025-01-22,2025-01-25,Elective,Semi-Private,Improved
+ADM00228,P0107,D021,Emergency,2025-12-09,2025-12-21,Transfer,General Ward,Improved
+ADM00229,P0290,D027,Emergency,2025-02-09,2025-02-24,Emergency,General Ward,Recovered
+ADM00230,P0313,D019,Pediatrics,2025-06-22,2025-06-23,Emergency,Semi-Private,Recovered
+ADM00231,P0117,D023,Cardiology,2025-06-28,2025-07-13,Elective,General Ward,Improved
+ADM00232,P0120,D035,Cardiology,2025-03-27,2025-04-06,Emergency,General Ward,Recovered
+ADM00233,P0147,D040,Emergency,2025-05-13,2025-05-14,Emergency,General Ward,Recovered
+ADM00234,P0327,D005,General Medicine,2025-12-17,2025-12-23,Elective,General Ward,Recovered
+ADM00235,P0415,D008,Orthopedics,2025-01-13,2025-01-27,Transfer,General Ward,Recovered
+ADM00236,P0210,D011,General Medicine,2025-01-28,2025-02-11,Emergency,Private,Expired
+ADM00237,P0296,D016,General Medicine,2025-03-25,2025-03-26,Elective,Semi-Private,Recovered
+ADM00238,P0398,D039,Cardiology,2025-11-14,2025-11-19,Emergency,Semi-Private,Recovered
+ADM00239,P0103,D024,Gynecology,2025-12-15,2025-12-19,Emergency,Semi-Private,Recovered
+ADM00240,P0124,D021,General Medicine,2025-12-09,2025-12-14,Emergency,ICU,Improved
+ADM00241,P0245,D023,General Medicine,2025-10-07,2025-10-14,Elective,General Ward,Improved
+ADM00242,P0379,D038,Oncology,2025-12-20,2025-12-26,Emergency,Semi-Private,Improved
+ADM00243,P0356,D008,Gynecology,2025-09-20,2025-10-02,Elective,General Ward,Improved
+ADM00244,P0209,D007,Cardiology,2025-06-15,2025-06-24,Emergency,Semi-Private,Recovered
+ADM00245,P0421,D002,Orthopedics,2025-10-20,2025-10-26,Emergency,ICU,Recovered
+ADM00246,P0428,D030,ENT,2025-03-09,2025-03-18,Emergency,Private,Recovered
+ADM00247,P0393,D013,Cardiology,2025-08-14,2025-08-18,Elective,Private,Improved
+ADM00248,P0314,D023,Cardiology,2025-06-19,2025-06-20,Elective,Semi-Private,Improved
+ADM00249,P0404,D029,General Medicine,2025-03-27,2025-03-28,Elective,Private,Recovered
+ADM00250,P0109,D038,Oncology,2025-05-13,2025-05-23,Elective,General Ward,Recovered
+ADM00251,P0377,D037,Dermatology,2025-06-27,2025-07-04,Emergency,Semi-Private,Recovered
+ADM00252,P0348,D020,Emergency,2025-12-09,2025-12-22,Elective,Semi-Private,Improved
+ADM00253,P0050,D033,Neurology,2025-09-09,2025-09-22,Emergency,General Ward,Recovered
+ADM00254,P0404,D029,Oncology,2025-01-15,2025-01-28,Elective,General Ward,Recovered
+ADM00255,P0105,D015,Dermatology,2025-08-11,2025-08-14,Emergency,Private,Recovered
+ADM00256,P0420,D023,General Medicine,2025-07-20,2025-07-22,Emergency,General Ward,Improved
+ADM00257,P0373,D003,General Medicine,2025-04-17,2025-05-01,Elective,General Ward,Improved
+ADM00258,P0027,D037,Orthopedics,2025-09-07,2025-09-13,Elective,Semi-Private,Recovered
+ADM00259,P0456,D029,Dermatology,2025-03-30,2025-04-05,Transfer,General Ward,Improved
+ADM00260,P0288,D008,Pediatrics,2025-05-05,2025-05-18,Elective,Private,Recovered
+ADM00261,P0257,D022,Emergency,2025-04-23,2025-04-30,Elective,Semi-Private,Expired
+ADM00262,P0273,D029,Neurology,2025-05-17,2025-05-22,Emergency,Private,Recovered
+ADM00263,P0137,D002,Orthopedics,2025-09-04,2025-09-12,Transfer,General Ward,Improved
+ADM00264,P0340,D001,Oncology,2025-06-15,2025-06-22,Elective,Private,Recovered
+ADM00265,P0301,D020,Oncology,2025-05-30,2025-06-01,Elective,Private,Recovered
+ADM00266,P0480,D021,Dermatology,2025-12-29,2026-01-13,Emergency,General Ward,Improved
+ADM00267,P0322,D037,Emergency,2025-12-09,2025-12-10,Elective,General Ward,Recovered
+ADM00268,P0032,D008,Emergency,2025-03-09,2025-03-22,Emergency,Private,Recovered
+ADM00269,P0045,D027,Oncology,2025-08-09,2025-08-23,Elective,General Ward,Recovered
+ADM00270,P0265,D035,Pediatrics,2025-09-28,2025-10-07,Elective,General Ward,Recovered
+ADM00271,P0030,D006,General Medicine,2025-11-17,2025-11-22,Transfer,General Ward,Recovered
+ADM00272,P0084,D019,Emergency,2025-11-06,2025-11-18,Elective,General Ward,Recovered
+ADM00273,P0166,D018,Dermatology,2025-12-15,2025-12-26,Elective,General Ward,Improved
+ADM00274,P0316,D001,Oncology,2025-01-20,2025-01-25,Emergency,Semi-Private,Improved
+ADM00275,P0001,D025,General Medicine,2025-10-16,2025-10-28,Elective,Private,Recovered
+ADM00276,P0249,D027,Gynecology,2025-04-10,2025-04-20,Elective,General Ward,Improved
+ADM00277,P0261,D007,Cardiology,2025-09-09,2025-09-13,Elective,Private,Referred
+ADM00278,P0063,D029,General Medicine,2025-03-18,2025-03-20,Elective,Semi-Private,Recovered
+ADM00279,P0483,D031,Emergency,2025-05-15,2025-05-20,Elective,ICU,Recovered
+ADM00280,P0164,D036,Cardiology,2025-06-22,2025-06-24,Emergency,ICU,Improved
+ADM00281,P0321,D019,Emergency,2025-12-29,2026-01-10,Elective,Private,Improved
+ADM00282,P0334,D006,Dermatology,2025-07-20,2025-07-27,Emergency,ICU,Recovered
+ADM00283,P0201,D025,ENT,2025-08-05,2025-08-16,Elective,Private,Recovered
+ADM00284,P0222,D031,General Medicine,2025-07-27,2025-08-05,Elective,Private,Recovered
+ADM00285,P0152,D009,Cardiology,2025-03-15,2025-03-24,Emergency,General Ward,Expired
+ADM00286,P0132,D020,Dermatology,2025-01-11,2025-01-22,Elective,General Ward,Recovered
+ADM00287,P0114,D010,Emergency,2025-10-14,2025-10-20,Elective,Private,Expired
+ADM00288,P0462,D037,General Medicine,2025-09-13,2025-09-14,Elective,Semi-Private,Recovered
+ADM00289,P0217,D027,Dermatology,2025-01-12,2025-01-25,Emergency,Private,Recovered
+ADM00290,P0196,D013,Emergency,2025-03-19,2025-03-25,Emergency,Private,Recovered
+ADM00291,P0281,D002,ENT,2025-06-21,2025-06-26,Elective,General Ward,Improved
+ADM00292,P0202,D021,ENT,2025-04-06,2025-04-10,Emergency,Private,Recovered
+ADM00293,P0483,D033,Neurology,2025-11-02,2025-11-14,Elective,General Ward,Recovered
+ADM00294,P0135,D024,Orthopedics,2025-09-30,2025-10-06,Elective,General Ward,Improved
+ADM00295,P0234,D034,Dermatology,2025-06-28,2025-07-04,Emergency,Semi-Private,Expired
+ADM00296,P0141,D009,Orthopedics,2025-03-05,2025-03-19,Elective,General Ward,Recovered
+ADM00297,P0196,D002,Neurology,2025-05-12,2025-05-18,Elective,Semi-Private,Recovered
+ADM00298,P0498,D030,Pediatrics,2025-12-09,2025-12-11,Elective,Semi-Private,Improved
+ADM00299,P0043,D022,General Medicine,2025-09-29,2025-10-14,Elective,General Ward,Improved
+ADM00300,P0057,D011,Emergency,2025-11-15,2025-11-29,Elective,Private,Recovered
+ADM00301,P0420,D017,Oncology,2025-11-28,2025-12-05,Emergency,Semi-Private,Referred
+ADM00302,P0142,D036,Orthopedics,2025-12-07,2025-12-21,Elective,General Ward,Recovered
+ADM00303,P0210,D013,Orthopedics,2025-04-19,2025-04-23,Emergency,General Ward,Improved
+ADM00304,P0072,D007,Dermatology,2025-09-30,2025-10-13,Transfer,Private,Recovered
+ADM00305,P0224,D016,General Medicine,2025-06-17,2025-07-02,Elective,Private,Improved
+ADM00306,P0027,D033,Dermatology,2025-06-29,2025-07-11,Elective,General Ward,Recovered
+ADM00307,P0128,D001,ENT,2025-02-27,2025-03-08,Elective,General Ward,Improved
+ADM00308,P0106,D011,Orthopedics,2025-03-20,2025-03-30,Emergency,Private,Referred
+ADM00309,P0165,D006,General Medicine,2025-03-02,2025-03-04,Transfer,Semi-Private,Recovered
+ADM00310,P0215,D020,Gynecology,2025-05-01,2025-05-06,Emergency,General Ward,Recovered
+ADM00311,P0071,D035,Pediatrics,2025-07-26,2025-08-09,Emergency,Semi-Private,Recovered
+ADM00312,P0204,D037,Emergency,2025-02-03,2025-02-07,Emergency,Semi-Private,Referred
+ADM00313,P0153,D026,Neurology,2025-03-11,2025-03-20,Transfer,Private,Expired
+ADM00314,P0067,D012,Pediatrics,2025-01-17,2025-01-21,Elective,General Ward,Improved
+ADM00315,P0090,D030,Neurology,2025-01-20,2025-01-28,Elective,Semi-Private,Recovered
+ADM00316,P0260,D028,Orthopedics,2025-11-11,2025-11-19,Elective,General Ward,Referred
+ADM00317,P0362,D027,Pediatrics,2025-03-10,2025-03-16,Elective,ICU,Recovered
+ADM00318,P0228,D019,Pediatrics,2025-08-03,2025-08-09,Elective,Private,Recovered
+ADM00319,P0079,D005,Emergency,2025-06-10,2025-06-21,Elective,Private,Recovered
+ADM00320,P0096,D005,Oncology,2025-04-12,2025-04-20,Elective,Private,Recovered
+ADM00321,P0349,D027,Emergency,2025-07-25,2025-08-06,Emergency,Semi-Private,Improved
+ADM00322,P0330,D028,Dermatology,2025-05-25,2025-06-07,Emergency,ICU,Improved
+ADM00323,P0469,D026,Oncology,2025-02-26,2025-03-10,Elective,General Ward,Recovered
+ADM00324,P0382,D027,Pediatrics,2025-03-24,2025-04-03,Elective,Private,Recovered
+ADM00325,P0246,D021,Oncology,2025-09-26,2025-10-05,Elective,General Ward,Recovered
+ADM00326,P0272,D001,Oncology,2025-07-06,2025-07-21,Elective,General Ward,Improved
+ADM00327,P0495,D028,Dermatology,2025-01-06,2025-01-11,Emergency,Semi-Private,Recovered
+ADM00328,P0403,D015,General Medicine,2025-12-19,2025-12-30,Elective,Private,Recovered
+ADM00329,P0157,D017,Orthopedics,2025-12-16,2025-12-17,Elective,Private,Improved
+ADM00330,P0116,D026,General Medicine,2025-04-20,2025-04-21,Emergency,Semi-Private,Improved
+ADM00331,P0435,D020,Orthopedics,2025-05-18,2025-06-02,Elective,Semi-Private,Referred
+ADM00332,P0018,D025,General Medicine,2025-02-20,2025-02-22,Emergency,ICU,Expired
+ADM00333,P0442,D013,General Medicine,2025-02-20,2025-03-02,Elective,General Ward,Improved
+ADM00334,P0172,D033,Neurology,2025-03-28,2025-04-07,Emergency,Private,Recovered
+ADM00335,P0016,D025,Oncology,2025-03-09,2025-03-14,Transfer,Semi-Private,Improved
+ADM00336,P0449,D008,ENT,2025-03-25,2025-03-29,Elective,General Ward,Recovered
+ADM00337,P0240,D005,Dermatology,2025-02-11,2025-02-12,Emergency,General Ward,Improved
+ADM00338,P0386,D006,General Medicine,2025-08-07,2025-08-11,Elective,Semi-Private,Recovered
+ADM00339,P0056,D023,Pediatrics,2025-02-26,2025-03-02,Elective,General Ward,Improved
+ADM00340,P0079,D030,Gynecology,2025-08-14,2025-08-24,Elective,General Ward,Recovered
+ADM00341,P0103,D014,Neurology,2025-07-15,2025-07-19,Elective,General Ward,Recovered
+ADM00342,P0284,D023,Gynecology,2025-09-05,2025-09-06,Emergency,General Ward,Improved
+ADM00343,P0193,D011,Cardiology,2025-06-15,2025-06-24,Elective,Semi-Private,Recovered
+ADM00344,P0005,D031,Emergency,2025-03-03,2025-03-17,Elective,Private,Referred
+ADM00345,P0106,D006,Cardiology,2025-09-20,2025-09-23,Emergency,General Ward,Recovered
+ADM00346,P0278,D011,Orthopedics,2025-04-22,2025-05-05,Elective,Semi-Private,Improved
+ADM00347,P0373,D013,General Medicine,2025-09-10,2025-09-14,Transfer,General Ward,Referred
+ADM00348,P0100,D012,Dermatology,2025-07-18,2025-07-23,Elective,Semi-Private,Improved
+ADM00349,P0238,D002,Pediatrics,2025-06-27,2025-07-10,Elective,Private,Recovered
+ADM00350,P0269,D035,ENT,2025-01-26,2025-02-08,Emergency,Semi-Private,Recovered
+ADM00351,P0321,D036,ENT,2025-09-03,2025-09-10,Elective,Private,Recovered
+ADM00352,P0400,D017,Neurology,2025-01-19,2025-01-25,Emergency,Semi-Private,Improved
+ADM00353,P0489,D028,Neurology,2025-09-22,2025-09-27,Emergency,Semi-Private,Improved
+ADM00354,P0086,D028,Neurology,2025-11-13,2025-11-21,Elective,Semi-Private,Referred
+ADM00355,P0320,D022,Neurology,2025-01-20,2025-02-03,Elective,Private,Recovered
+ADM00356,P0032,D038,Oncology,2025-04-16,2025-04-17,Elective,ICU,Recovered
+ADM00357,P0336,D007,General Medicine,2025-08-25,2025-09-01,Emergency,Semi-Private,Recovered
+ADM00358,P0051,D015,Gynecology,2025-11-02,2025-11-14,Elective,Private,Improved
+ADM00359,P0079,D032,General Medicine,2025-09-03,2025-09-09,Transfer,General Ward,Recovered
+ADM00360,P0186,D011,General Medicine,2025-03-22,2025-04-02,Elective,ICU,Recovered
+ADM00361,P0174,D024,Cardiology,2025-05-30,2025-06-04,Elective,General Ward,Improved
+ADM00362,P0436,D003,Dermatology,2025-01-10,2025-01-17,Transfer,General Ward,Recovered
+ADM00363,P0106,D030,Pediatrics,2025-11-17,2025-11-20,Elective,General Ward,Improved
+ADM00364,P0063,D006,Orthopedics,2025-08-12,2025-08-13,Emergency,ICU,Recovered
+ADM00365,P0076,D002,Dermatology,2025-09-21,2025-09-30,Emergency,Private,Recovered
+ADM00366,P0316,D014,Neurology,2025-05-29,2025-05-31,Transfer,ICU,Recovered
+ADM00367,P0321,D018,Gynecology,2025-10-05,2025-10-18,Elective,Private,Referred
+ADM00368,P0373,D031,Cardiology,2025-10-01,2025-10-11,Emergency,Semi-Private,Recovered
+ADM00369,P0081,D013,Oncology,2025-07-13,2025-07-28,Elective,ICU,Recovered
+ADM00370,P0361,D026,Gynecology,2025-06-21,2025-06-24,Elective,ICU,Recovered
+ADM00371,P0128,D012,Cardiology,2025-09-22,2025-09-30,Transfer,Semi-Private,Recovered
+ADM00372,P0183,D018,Emergency,2025-11-06,2025-11-18,Emergency,General Ward,Improved
+ADM00373,P0243,D009,Oncology,2025-01-26,2025-02-05,Elective,Private,Recovered
+ADM00374,P0185,D021,Neurology,2025-12-16,2025-12-25,Elective,ICU,Referred
+ADM00375,P0498,D040,Orthopedics,2025-12-22,2026-01-04,Elective,Private,Recovered
+ADM00376,P0220,D024,Neurology,2025-01-26,2025-01-29,Emergency,Private,Referred
+ADM00377,P0071,D034,Gynecology,2025-02-03,2025-02-09,Transfer,ICU,Improved
+ADM00378,P0457,D008,Neurology,2025-09-21,2025-09-28,Elective,Private,Improved
+ADM00379,P0342,D033,Emergency,2025-05-18,2025-06-02,Elective,Private,Improved
+ADM00380,P0154,D023,Neurology,2025-10-31,2025-11-01,Elective,Private,Recovered
+ADM00381,P0245,D013,Cardiology,2025-07-02,2025-07-16,Emergency,General Ward,Improved
+ADM00382,P0140,D014,ENT,2025-12-29,2026-01-05,Transfer,Semi-Private,Recovered
+ADM00383,P0071,D014,Neurology,2025-08-30,2025-09-03,Elective,Semi-Private,Recovered
+ADM00384,P0046,D016,Emergency,2025-02-23,2025-02-28,Elective,Private,Improved
+ADM00385,P0047,D038,General Medicine,2025-06-17,2025-06-25,Emergency,Semi-Private,Recovered
+ADM00386,P0079,D039,General Medicine,2025-04-29,2025-05-03,Elective,General Ward,Improved
+ADM00387,P0422,D026,Orthopedics,2025-05-23,2025-06-07,Elective,General Ward,Recovered
+ADM00388,P0149,D026,Orthopedics,2025-03-22,2025-03-26,Elective,Private,Recovered
+ADM00389,P0398,D001,Orthopedics,2025-09-02,2025-09-10,Transfer,Semi-Private,Referred
+ADM00390,P0130,D032,Dermatology,2025-12-18,2026-01-02,Elective,General Ward,Improved
+ADM00391,P0456,D015,Pediatrics,2025-12-24,2025-12-29,Elective,General Ward,Improved
+ADM00392,P0127,D021,Orthopedics,2025-03-03,2025-03-16,Elective,Semi-Private,Improved
+ADM00393,P0365,D018,Neurology,2025-02-15,2025-02-21,Elective,General Ward,Referred
+ADM00394,P0119,D030,Orthopedics,2025-03-28,2025-04-09,Elective,General Ward,Recovered
+ADM00395,P0454,D013,Pediatrics,2025-04-09,2025-04-20,Elective,General Ward,Improved
+ADM00396,P0485,D024,Dermatology,2025-10-22,2025-11-05,Emergency,Semi-Private,Recovered
+ADM00397,P0357,D030,Pediatrics,2025-02-22,2025-02-27,Emergency,Semi-Private,Recovered
+ADM00398,P0417,D002,Gynecology,2025-07-11,2025-07-12,Elective,General Ward,Recovered
+ADM00399,P0489,D019,Orthopedics,2025-03-21,2025-03-28,Transfer,Private,Recovered
+ADM00400,P0262,D025,Orthopedics,2025-01-16,2025-01-22,Emergency,General Ward,Improved
+ADM00401,P0244,D014,Orthopedics,2025-12-26,2025-12-28,Emergency,General Ward,Referred
+ADM00402,P0474,D006,Gynecology,2025-11-22,2025-12-03,Emergency,General Ward,Improved
+ADM00403,P0382,D012,Pediatrics,2025-07-13,2025-07-20,Elective,General Ward,Improved
+ADM00404,P0103,D020,Cardiology,2025-05-21,2025-05-27,Elective,General Ward,Recovered
+ADM00405,P0489,D023,Neurology,2025-04-18,2025-04-23,Emergency,General Ward,Recovered
+ADM00406,P0037,D030,Emergency,2025-10-30,2025-11-07,Elective,Semi-Private,Recovered
+ADM00407,P0142,D030,Neurology,2025-09-22,2025-09-27,Elective,Semi-Private,Improved
+ADM00408,P0037,D038,Orthopedics,2025-10-17,2025-10-28,Elective,Semi-Private,Recovered
+ADM00409,P0008,D030,Dermatology,2025-07-28,2025-07-30,Elective,Private,Recovered
+ADM00410,P0231,D030,Gynecology,2025-06-14,2025-06-20,Emergency,General Ward,Referred
+ADM00411,P0333,D036,Cardiology,2025-12-08,2025-12-22,Elective,ICU,Improved
+ADM00412,P0397,D034,Oncology,2025-11-16,2025-11-28,Emergency,General Ward,Improved
+ADM00413,P0296,D016,Cardiology,2025-06-01,2025-06-02,Emergency,Private,Improved
+ADM00414,P0107,D024,Emergency,2025-10-17,2025-10-22,Elective,General Ward,Recovered
+ADM00415,P0348,D014,Neurology,2025-09-25,2025-10-09,Emergency,Private,Recovered
+ADM00416,P0442,D026,Orthopedics,2025-05-31,2025-06-06,Elective,Semi-Private,Improved
+ADM00417,P0018,D008,ENT,2025-07-26,2025-08-10,Emergency,General Ward,Improved
+ADM00418,P0313,D014,Oncology,2025-09-12,2025-09-19,Emergency,Semi-Private,Improved
+ADM00419,P0083,D031,Orthopedics,2025-12-19,2026-01-02,Elective,General Ward,Recovered
+ADM00420,P0422,D002,Gynecology,2025-05-21,2025-05-23,Elective,Private,Improved
+ADM00421,P0288,D004,Oncology,2025-12-09,2025-12-10,Elective,Private,Recovered
+ADM00422,P0470,D001,Emergency,2025-12-24,2025-12-30,Elective,General Ward,Recovered
+ADM00423,P0194,D020,ENT,2025-04-06,2025-04-09,Elective,General Ward,Recovered
+ADM00424,P0461,D014,Pediatrics,2025-08-15,2025-08-20,Elective,General Ward,Recovered
+ADM00425,P0215,D040,Pediatrics,2025-07-12,2025-07-24,Elective,Private,Recovered
+ADM00426,P0281,D025,Pediatrics,2025-10-30,2025-11-14,Emergency,General Ward,Recovered
+ADM00427,P0220,D025,Dermatology,2025-11-10,2025-11-21,Emergency,Semi-Private,Improved
+ADM00428,P0442,D003,Pediatrics,2025-04-28,2025-05-11,Elective,ICU,Improved
+ADM00429,P0459,D005,General Medicine,2025-01-05,2025-01-20,Emergency,General Ward,Recovered
+ADM00430,P0289,D038,Oncology,2025-12-18,2025-12-20,Emergency,ICU,Recovered
+ADM00431,P0344,D026,ENT,2025-08-31,2025-09-15,Emergency,Semi-Private,Expired
+ADM00432,P0194,D040,Gynecology,2025-01-21,2025-01-22,Emergency,General Ward,Recovered
+ADM00433,P0158,D038,General Medicine,2025-06-01,2025-06-02,Emergency,Semi-Private,Recovered
+ADM00434,P0465,D038,General Medicine,2025-05-08,2025-05-21,Emergency,Private,Improved
+ADM00435,P0104,D004,ENT,2025-05-04,2025-05-15,Emergency,Semi-Private,Recovered
+ADM00436,P0034,D007,Gynecology,2025-05-26,2025-05-30,Emergency,General Ward,Improved
+ADM00437,P0102,D030,Oncology,2025-10-04,2025-10-14,Elective,General Ward,Improved
+ADM00438,P0127,D030,Neurology,2025-11-06,2025-11-19,Emergency,Private,Expired
+ADM00439,P0214,D019,Orthopedics,2025-06-01,2025-06-03,Elective,Semi-Private,Referred
+ADM00440,P0325,D039,Neurology,2025-12-26,2025-12-27,Elective,Semi-Private,Referred
+ADM00441,P0432,D035,Emergency,2025-04-21,2025-04-27,Elective,General Ward,Recovered
+ADM00442,P0296,D040,ENT,2025-04-26,2025-05-10,Elective,Private,Improved
+ADM00443,P0179,D033,Neurology,2025-07-07,2025-07-11,Elective,ICU,Recovered
+ADM00444,P0080,D033,Neurology,2025-02-26,2025-03-08,Emergency,General Ward,Improved
+ADM00445,P0141,D014,Neurology,2025-09-08,2025-09-21,Transfer,General Ward,Improved
+ADM00446,P0474,D038,Pediatrics,2025-05-30,2025-06-11,Emergency,Private,Recovered
+ADM00447,P0031,D010,Cardiology,2025-06-11,2025-06-26,Transfer,Private,Improved
+ADM00448,P0372,D028,Neurology,2025-04-30,2025-05-07,Elective,Semi-Private,Recovered
+ADM00449,P0423,D014,Orthopedics,2025-03-11,2025-03-22,Emergency,ICU,Recovered
+ADM00450,P0063,D036,ENT,2025-12-17,2025-12-23,Elective,Semi-Private,Referred
+ADM00451,P0048,D038,Emergency,2025-04-09,2025-04-14,Elective,General Ward,Recovered
+ADM00452,P0087,D016,Cardiology,2025-06-16,2025-06-26,Emergency,Private,Recovered
+ADM00453,P0304,D021,Dermatology,2025-10-25,2025-11-06,Elective,Semi-Private,Recovered
+ADM00454,P0061,D028,Orthopedics,2025-05-31,2025-06-13,Elective,ICU,Improved
+ADM00455,P0396,D033,Orthopedics,2025-11-22,2025-12-04,Elective,General Ward,Recovered
+ADM00456,P0334,D006,Pediatrics,2025-01-02,2025-01-14,Emergency,Semi-Private,Recovered
+ADM00457,P0440,D015,Pediatrics,2025-06-01,2025-06-13,Emergency,Private,Referred
+ADM00458,P0274,D003,ENT,2025-12-31,2026-01-02,Elective,General Ward,Recovered
+ADM00459,P0411,D035,Orthopedics,2025-03-06,2025-03-11,Elective,General Ward,Recovered
+ADM00460,P0284,D014,Gynecology,2025-11-22,2025-12-01,Elective,Private,Improved
+ADM00461,P0466,D002,Gynecology,2025-03-10,2025-03-19,Transfer,Semi-Private,Recovered
+ADM00462,P0080,D029,ENT,2025-05-01,2025-05-03,Emergency,Semi-Private,Improved
+ADM00463,P0180,D004,Neurology,2025-04-19,2025-04-26,Elective,Private,Recovered
+ADM00464,P0272,D026,General Medicine,2025-11-12,2025-11-22,Elective,General Ward,Referred
+ADM00465,P0077,D012,Dermatology,2025-09-04,2025-09-18,Elective,ICU,Referred
+ADM00466,P0442,D002,Emergency,2025-04-03,2025-04-07,Emergency,Private,Recovered
+ADM00467,P0221,D017,Pediatrics,2025-09-25,2025-10-08,Emergency,Semi-Private,Recovered
+ADM00468,P0393,D035,Emergency,2025-04-13,2025-04-26,Elective,Semi-Private,Expired
+ADM00469,P0282,D010,General Medicine,2025-04-22,2025-04-25,Emergency,ICU,Recovered
+ADM00470,P0028,D022,Oncology,2025-11-17,2025-11-28,Transfer,General Ward,Improved
+ADM00471,P0361,D021,ENT,2025-10-31,2025-11-01,Emergency,General Ward,Improved
+ADM00472,P0077,D015,Neurology,2025-12-10,2025-12-13,Emergency,General Ward,Improved
+ADM00473,P0164,D035,Cardiology,2025-03-03,2025-03-14,Emergency,General Ward,Improved
+ADM00474,P0009,D021,Neurology,2025-10-27,2025-11-05,Elective,Semi-Private,Recovered
+ADM00475,P0175,D021,Orthopedics,2025-05-16,2025-05-30,Elective,ICU,Recovered
+ADM00476,P0462,D021,Neurology,2025-02-24,2025-03-11,Elective,Private,Referred
+ADM00477,P0307,D032,Orthopedics,2025-04-18,2025-04-27,Transfer,General Ward,Improved
+ADM00478,P0076,D005,Emergency,2025-10-30,2025-11-06,Emergency,Semi-Private,Improved
+ADM00479,P0245,D039,Oncology,2025-09-15,2025-09-18,Emergency,Private,Expired
+ADM00480,P0122,D009,Pediatrics,2025-09-10,2025-09-23,Elective,General Ward,Improved
+ADM00481,P0185,D018,Oncology,2025-08-10,2025-08-13,Elective,Private,Recovered
+ADM00482,P0032,D021,Orthopedics,2025-06-16,2025-06-20,Elective,Private,Improved
+ADM00483,P0486,D008,Cardiology,2025-06-09,2025-06-16,Elective,Private,Recovered
+ADM00484,P0451,D034,General Medicine,2025-06-15,2025-06-22,Elective,General Ward,Recovered
+ADM00485,P0250,D010,Emergency,2025-07-24,2025-08-05,Emergency,Semi-Private,Recovered
+ADM00486,P0057,D024,Emergency,2025-09-24,2025-10-06,Transfer,General Ward,Improved
+ADM00487,P0310,D040,Neurology,2025-05-18,2025-06-01,Emergency,General Ward,Referred
+ADM00488,P0372,D024,Pediatrics,2025-12-12,2025-12-14,Elective,Semi-Private,Recovered
+ADM00489,P0144,D032,Neurology,2025-09-05,2025-09-17,Elective,ICU,Recovered
+ADM00490,P0318,D033,Neurology,2025-02-24,2025-03-11,Emergency,Private,Improved
+ADM00491,P0084,D038,Orthopedics,2025-07-28,2025-08-02,Elective,ICU,Improved
+ADM00492,P0480,D034,General Medicine,2025-01-17,2025-01-24,Emergency,Private,Improved
+ADM00493,P0056,D011,Pediatrics,2025-03-09,2025-03-16,Elective,General Ward,Improved
+ADM00494,P0279,D031,Neurology,2025-05-13,2025-05-19,Elective,Semi-Private,Improved
+ADM00495,P0273,D018,Emergency,2025-07-07,2025-07-17,Elective,General Ward,Recovered
+ADM00496,P0464,D023,Neurology,2025-11-04,2025-11-14,Elective,General Ward,Recovered
+ADM00497,P0166,D022,Dermatology,2025-05-18,2025-05-30,Emergency,Semi-Private,Recovered
+ADM00498,P0456,D018,ENT,2025-06-23,2025-07-01,Elective,Private,Referred
+ADM00499,P0467,D040,Emergency,2025-04-07,2025-04-10,Elective,Private,Recovered
+ADM00500,P0158,D039,Dermatology,2025-06-20,2025-07-05,Elective,General Ward,Improved
+ADM00501,P0249,D020,ENT,2025-06-03,2025-06-04,Emergency,General Ward,Recovered
+ADM00502,P0186,D013,Cardiology,2025-07-02,2025-07-05,Emergency,General Ward,Recovered
+ADM00503,P0482,D001,Dermatology,2025-08-30,2025-09-10,Emergency,General Ward,Recovered
+ADM00504,P0078,D004,Orthopedics,2025-10-31,2025-11-02,Elective,General Ward,Recovered
+ADM00505,P0022,D024,Cardiology,2025-10-12,2025-10-14,Emergency,Private,Recovered
+ADM00506,P0108,D036,Gynecology,2025-01-27,2025-02-10,Elective,Private,Improved
+ADM00507,P0273,D036,Pediatrics,2025-12-26,2026-01-09,Elective,Semi-Private,Recovered
+ADM00508,P0252,D002,Emergency,2025-03-01,2025-03-03,Elective,Private,Improved
+ADM00509,P0015,D028,Gynecology,2025-07-21,2025-07-26,Elective,General Ward,Recovered
+ADM00510,P0370,D026,Emergency,2025-09-07,2025-09-20,Emergency,ICU,Recovered
+ADM00511,P0304,D023,Pediatrics,2025-12-28,2025-12-29,Elective,General Ward,Recovered
+ADM00512,P0160,D015,Pediatrics,2025-03-10,2025-03-20,Elective,Private,Expired
+ADM00513,P0205,D036,Emergency,2025-01-21,2025-01-25,Elective,ICU,Recovered
+ADM00514,P0469,D027,Pediatrics,2025-06-01,2025-06-15,Elective,Private,Recovered
+ADM00515,P0113,D006,Dermatology,2025-04-12,2025-04-22,Emergency,General Ward,Referred
+ADM00516,P0168,D035,Oncology,2025-04-05,2025-04-10,Elective,Private,Recovered
+ADM00517,P0353,D039,General Medicine,2025-12-27,2025-12-29,Elective,General Ward,Improved
+ADM00518,P0253,D038,Emergency,2025-08-17,2025-08-22,Elective,General Ward,Recovered
+ADM00519,P0441,D035,Gynecology,2025-05-05,2025-05-15,Emergency,General Ward,Improved
+ADM00520,P0186,D036,Gynecology,2025-09-15,2025-09-30,Emergency,ICU,Recovered
+ADM00521,P0347,D010,Pediatrics,2025-11-18,2025-11-22,Elective,ICU,Referred
+ADM00522,P0227,D030,Emergency,2025-08-24,2025-09-01,Elective,General Ward,Improved
+ADM00523,P0016,D038,Oncology,2025-06-11,2025-06-12,Transfer,Semi-Private,Recovered
+ADM00524,P0156,D029,Oncology,2025-02-11,2025-02-26,Elective,ICU,Recovered
+ADM00525,P0354,D039,General Medicine,2025-10-03,2025-10-15,Elective,Semi-Private,Recovered
+ADM00526,P0111,D004,Dermatology,2025-12-19,2025-12-24,Emergency,General Ward,Improved
+ADM00527,P0001,D005,General Medicine,2025-03-09,2025-03-23,Emergency,Semi-Private,Recovered
+ADM00528,P0041,D004,Orthopedics,2025-06-22,2025-07-06,Elective,Private,Recovered
+ADM00529,P0048,D036,Gynecology,2025-11-27,2025-12-08,Elective,Semi-Private,Improved
+ADM00530,P0415,D016,Oncology,2025-05-05,2025-05-17,Elective,Private,Recovered
+ADM00531,P0420,D025,Pediatrics,2025-06-19,2025-06-29,Elective,Semi-Private,Recovered
+ADM00532,P0108,D014,Oncology,2025-02-16,2025-02-17,Elective,General Ward,Recovered
+ADM00533,P0161,D011,Oncology,2025-09-18,2025-09-28,Transfer,General Ward,Improved
+ADM00534,P0161,D029,ENT,2025-08-05,2025-08-15,Emergency,General Ward,Expired
+ADM00535,P0359,D034,Gynecology,2025-11-01,2025-11-05,Emergency,Semi-Private,Recovered
+ADM00536,P0128,D022,Orthopedics,2025-05-04,2025-05-12,Emergency,General Ward,Improved
+ADM00537,P0210,D014,General Medicine,2025-10-20,2025-10-21,Elective,Private,Recovered
+ADM00538,P0151,D024,Orthopedics,2025-06-11,2025-06-22,Transfer,Semi-Private,Recovered
+ADM00539,P0444,D039,ENT,2025-07-20,2025-08-04,Emergency,Private,Recovered
+ADM00540,P0255,D026,Dermatology,2025-10-02,2025-10-04,Emergency,ICU,Recovered
+ADM00541,P0471,D036,Orthopedics,2025-07-25,2025-07-26,Elective,Private,Recovered
+ADM00542,P0463,D039,Oncology,2025-02-09,2025-02-20,Elective,ICU,Referred
+ADM00543,P0218,D016,Cardiology,2025-09-30,2025-10-07,Transfer,Semi-Private,Referred
+ADM00544,P0030,D038,Emergency,2025-07-07,2025-07-09,Elective,General Ward,Recovered
+ADM00545,P0473,D032,Orthopedics,2025-12-21,2025-12-22,Elective,ICU,Recovered
+ADM00546,P0045,D006,Emergency,2025-04-03,2025-04-18,Emergency,Private,Expired
+ADM00547,P0080,D034,ENT,2025-02-11,2025-02-23,Emergency,Private,Recovered
+ADM00548,P0039,D008,Orthopedics,2025-04-17,2025-04-23,Elective,Private,Improved
+ADM00549,P0240,D030,Orthopedics,2025-11-24,2025-11-30,Elective,Semi-Private,Recovered
+ADM00550,P0045,D027,Neurology,2025-03-06,2025-03-16,Emergency,General Ward,Recovered
+ADM00551,P0078,D007,Oncology,2025-12-31,2026-01-02,Elective,Private,Recovered
+ADM00552,P0337,D027,Pediatrics,2025-11-05,2025-11-20,Emergency,General Ward,Improved
+ADM00553,P0396,D025,Emergency,2025-05-15,2025-05-16,Elective,General Ward,Referred
+ADM00554,P0349,D015,Dermatology,2025-01-24,2025-02-07,Emergency,Semi-Private,Recovered
+ADM00555,P0288,D025,Neurology,2025-01-28,2025-02-07,Elective,Semi-Private,Improved
+ADM00556,P0440,D022,Oncology,2025-03-03,2025-03-06,Emergency,General Ward,Recovered
+ADM00557,P0280,D018,ENT,2025-09-30,2025-10-10,Elective,Private,Recovered
+ADM00558,P0116,D012,Emergency,2025-08-17,2025-08-31,Emergency,Private,Improved
+ADM00559,P0269,D023,General Medicine,2025-01-20,2025-01-25,Elective,Private,Improved
+ADM00560,P0404,D039,ENT,2025-01-03,2025-01-09,Elective,Semi-Private,Recovered
+ADM00561,P0335,D025,Pediatrics,2025-08-06,2025-08-09,Emergency,ICU,Recovered
+ADM00562,P0312,D010,Emergency,2025-11-03,2025-11-12,Emergency,General Ward,Expired
+ADM00563,P0053,D030,ENT,2025-05-16,2025-05-27,Elective,Private,Improved
+ADM00564,P0068,D010,Neurology,2025-01-03,2025-01-08,Elective,General Ward,Improved
+ADM00565,P0182,D034,ENT,2025-07-12,2025-07-25,Emergency,General Ward,Recovered
+ADM00566,P0034,D013,Pediatrics,2025-03-14,2025-03-16,Emergency,Semi-Private,Improved
+ADM00567,P0284,D029,Pediatrics,2025-12-27,2026-01-06,Emergency,Private,Recovered
+ADM00568,P0306,D038,Cardiology,2025-04-28,2025-05-04,Emergency,General Ward,Expired
+ADM00569,P0386,D009,Orthopedics,2025-06-03,2025-06-15,Transfer,General Ward,Recovered
+ADM00570,P0249,D013,General Medicine,2025-07-28,2025-08-05,Elective,Semi-Private,Recovered
+ADM00571,P0111,D037,General Medicine,2025-02-03,2025-02-14,Elective,Semi-Private,Recovered
+ADM00572,P0094,D014,Neurology,2025-05-17,2025-05-23,Transfer,Semi-Private,Improved
+ADM00573,P0410,D037,Pediatrics,2025-11-14,2025-11-18,Elective,General Ward,Improved
+ADM00574,P0179,D009,Cardiology,2025-04-30,2025-05-06,Elective,Semi-Private,Recovered
+ADM00575,P0047,D008,Oncology,2025-04-25,2025-05-03,Emergency,General Ward,Improved
+ADM00576,P0282,D039,Cardiology,2025-01-13,2025-01-21,Elective,General Ward,Improved
+ADM00577,P0340,D040,Dermatology,2025-03-10,2025-03-23,Elective,Semi-Private,Recovered
+ADM00578,P0362,D003,ENT,2025-11-29,2025-12-09,Emergency,Private,Improved
+ADM00579,P0092,D040,Orthopedics,2025-09-14,2025-09-16,Emergency,General Ward,Referred
+ADM00580,P0376,D033,Cardiology,2025-03-30,2025-04-07,Emergency,General Ward,Recovered
+ADM00581,P0212,D032,ENT,2025-02-16,2025-02-22,Emergency,Semi-Private,Recovered
+ADM00582,P0075,D007,Orthopedics,2025-09-17,2025-09-19,Elective,General Ward,Recovered
+ADM00583,P0378,D019,Emergency,2025-08-16,2025-08-17,Elective,General Ward,Recovered
+ADM00584,P0202,D034,Dermatology,2025-06-29,2025-07-05,Elective,Semi-Private,Recovered
+ADM00585,P0445,D014,Dermatology,2025-01-10,2025-01-23,Emergency,General Ward,Improved
+ADM00586,P0407,D019,Pediatrics,2025-10-11,2025-10-18,Elective,General Ward,Improved
+ADM00587,P0421,D026,Dermatology,2025-05-06,2025-05-20,Emergency,Private,Recovered
+ADM00588,P0297,D017,Emergency,2025-05-14,2025-05-28,Elective,Private,Improved
+ADM00589,P0308,D028,Pediatrics,2025-06-04,2025-06-14,Elective,Private,Improved
+ADM00590,P0211,D019,Gynecology,2025-09-05,2025-09-10,Emergency,Semi-Private,Referred
+ADM00591,P0493,D027,Oncology,2025-05-20,2025-06-03,Elective,Private,Recovered
+ADM00592,P0338,D019,Neurology,2025-11-14,2025-11-24,Elective,ICU,Improved
+ADM00593,P0433,D033,ENT,2025-06-25,2025-07-03,Emergency,Private,Referred
+ADM00594,P0411,D007,Oncology,2025-11-19,2025-11-30,Emergency,General Ward,Recovered
+ADM00595,P0134,D029,Oncology,2025-06-23,2025-07-06,Transfer,Semi-Private,Recovered
+ADM00596,P0330,D005,General Medicine,2025-03-15,2025-03-27,Emergency,Semi-Private,Recovered
+ADM00597,P0066,D030,Cardiology,2025-12-17,2025-12-26,Elective,Semi-Private,Improved
+ADM00598,P0280,D008,Dermatology,2025-05-23,2025-05-27,Elective,Semi-Private,Recovered
+ADM00599,P0422,D012,Gynecology,2025-10-19,2025-10-26,Emergency,Private,Referred
+ADM00600,P0028,D013,Cardiology,2025-04-22,2025-04-30,Emergency,Private,Improved
+ADM00601,P0412,D026,Neurology,2025-07-25,2025-08-07,Elective,General Ward,Recovered
+ADM00602,P0117,D018,Cardiology,2025-05-11,2025-05-17,Elective,General Ward,Improved
+ADM00603,P0493,D020,General Medicine,2025-04-20,2025-04-22,Elective,Semi-Private,Recovered
+ADM00604,P0370,D016,Neurology,2025-03-08,2025-03-15,Transfer,General Ward,Recovered
+ADM00605,P0487,D037,Emergency,2025-03-27,2025-04-09,Elective,General Ward,Improved
+ADM00606,P0450,D003,Emergency,2025-10-02,2025-10-11,Emergency,General Ward,Improved
+ADM00607,P0317,D027,Pediatrics,2025-08-15,2025-08-20,Elective,General Ward,Recovered
+ADM00608,P0430,D015,Cardiology,2025-11-21,2025-12-06,Elective,ICU,Improved
+ADM00609,P0325,D034,ENT,2025-01-10,2025-01-12,Transfer,General Ward,Recovered
+ADM00610,P0114,D022,Gynecology,2025-12-21,2025-12-25,Elective,General Ward,Recovered
+ADM00611,P0075,D040,General Medicine,2025-10-15,2025-10-18,Elective,General Ward,Recovered
+ADM00612,P0202,D023,Neurology,2025-04-22,2025-04-26,Elective,Semi-Private,Recovered
+ADM00613,P0427,D004,Gynecology,2025-01-24,2025-02-03,Emergency,General Ward,Referred
+ADM00614,P0059,D023,Cardiology,2025-10-18,2025-10-25,Transfer,Semi-Private,Improved
+ADM00615,P0386,D009,ENT,2025-12-05,2025-12-15,Emergency,General Ward,Recovered
+ADM00616,P0015,D024,Cardiology,2025-11-22,2025-11-30,Emergency,Semi-Private,Recovered
+ADM00617,P0231,D021,Dermatology,2025-06-17,2025-06-18,Elective,Private,Recovered
+ADM00618,P0105,D016,Dermatology,2025-04-19,2025-05-02,Emergency,General Ward,Recovered
+ADM00619,P0165,D025,General Medicine,2025-07-09,2025-07-17,Elective,Semi-Private,Improved
+ADM00620,P0199,D026,Neurology,2025-12-21,2025-12-26,Elective,Semi-Private,Referred
+ADM00621,P0404,D009,Neurology,2025-07-15,2025-07-27,Emergency,Private,Improved
+ADM00622,P0354,D015,Oncology,2025-02-02,2025-02-09,Elective,Semi-Private,Recovered
+ADM00623,P0035,D039,General Medicine,2025-07-24,2025-08-04,Elective,Semi-Private,Recovered
+ADM00624,P0162,D033,General Medicine,2025-11-08,2025-11-19,Elective,Private,Recovered
+ADM00625,P0245,D001,ENT,2025-07-01,2025-07-02,Transfer,Semi-Private,Recovered
+ADM00626,P0470,D005,Dermatology,2025-05-27,2025-05-29,Elective,General Ward,Recovered
+ADM00627,P0287,D009,Neurology,2025-09-25,2025-09-26,Emergency,General Ward,Recovered
+ADM00628,P0383,D006,Cardiology,2025-01-11,2025-01-16,Emergency,Private,Recovered
+ADM00629,P0471,D028,General Medicine,2025-03-11,2025-03-25,Transfer,Private,Improved
+ADM00630,P0019,D026,Pediatrics,2025-09-13,2025-09-27,Elective,ICU,Improved
+ADM00631,P0452,D028,Orthopedics,2025-08-07,2025-08-13,Emergency,ICU,Recovered
+ADM00632,P0280,D040,Neurology,2025-10-24,2025-11-03,Elective,Private,Improved
+ADM00633,P0340,D015,Emergency,2025-12-28,2026-01-06,Elective,Semi-Private,Recovered
+ADM00634,P0423,D006,Neurology,2025-09-16,2025-09-24,Elective,Private,Recovered
+ADM00635,P0348,D027,Pediatrics,2025-01-03,2025-01-10,Elective,Semi-Private,Improved
+ADM00636,P0182,D038,Neurology,2025-03-25,2025-04-06,Elective,Semi-Private,Recovered
+ADM00637,P0423,D004,Pediatrics,2025-06-05,2025-06-10,Elective,General Ward,Referred
+ADM00638,P0401,D011,Orthopedics,2025-05-31,2025-06-14,Elective,General Ward,Recovered
+ADM00639,P0147,D021,Oncology,2025-06-25,2025-07-10,Transfer,Private,Improved
+ADM00640,P0374,D030,ENT,2025-07-14,2025-07-17,Elective,Semi-Private,Improved
+ADM00641,P0176,D018,Orthopedics,2025-04-17,2025-04-26,Elective,General Ward,Improved
+ADM00642,P0163,D035,Gynecology,2025-05-14,2025-05-27,Transfer,General Ward,Improved
+ADM00643,P0416,D003,Oncology,2025-10-03,2025-10-08,Emergency,Private,Improved
+ADM00644,P0175,D012,ENT,2025-12-18,2025-12-21,Emergency,Private,Improved
+ADM00645,P0494,D027,Dermatology,2025-06-04,2025-06-07,Elective,Semi-Private,Recovered
+ADM00646,P0047,D030,Pediatrics,2025-10-04,2025-10-07,Emergency,Semi-Private,Recovered
+ADM00647,P0256,D021,General Medicine,2025-08-24,2025-09-07,Emergency,Semi-Private,Improved
+ADM00648,P0448,D038,Gynecology,2025-08-28,2025-09-03,Emergency,General Ward,Improved
+ADM00649,P0174,D021,Orthopedics,2025-01-13,2025-01-14,Elective,Semi-Private,Referred
+ADM00650,P0103,D038,Neurology,2025-12-08,2025-12-19,Emergency,Private,Recovered
+ADM00651,P0121,D040,Orthopedics,2025-02-04,2025-02-08,Emergency,General Ward,Recovered
+ADM00652,P0419,D015,ENT,2025-02-16,2025-03-01,Transfer,General Ward,Improved
+ADM00653,P0350,D018,Gynecology,2025-08-02,2025-08-10,Elective,General Ward,Improved
+ADM00654,P0145,D029,Cardiology,2025-05-26,2025-05-29,Elective,Semi-Private,Referred
+ADM00655,P0042,D038,ENT,2025-06-08,2025-06-13,Emergency,General Ward,Recovered
+ADM00656,P0367,D021,Oncology,2025-05-05,2025-05-07,Elective,Semi-Private,Recovered
+ADM00657,P0029,D017,Orthopedics,2025-04-20,2025-05-05,Elective,Semi-Private,Recovered
+ADM00658,P0454,D018,Orthopedics,2025-02-06,2025-02-08,Elective,Private,Recovered
+ADM00659,P0380,D037,Gynecology,2025-10-04,2025-10-15,Emergency,Semi-Private,Expired
+ADM00660,P0273,D038,Pediatrics,2025-01-14,2025-01-27,Elective,General Ward,Recovered
+ADM00661,P0465,D012,Gynecology,2025-12-13,2025-12-20,Elective,Semi-Private,Recovered
+ADM00662,P0014,D011,General Medicine,2025-08-20,2025-08-30,Elective,Private,Recovered
+ADM00663,P0408,D020,Orthopedics,2025-11-12,2025-11-15,Elective,General Ward,Recovered
+ADM00664,P0441,D009,Pediatrics,2025-05-04,2025-05-09,Elective,Semi-Private,Improved
+ADM00665,P0306,D001,Pediatrics,2025-10-06,2025-10-09,Elective,ICU,Recovered
+ADM00666,P0313,D003,Gynecology,2025-04-21,2025-04-27,Elective,General Ward,Recovered
+ADM00667,P0485,D021,Dermatology,2025-05-04,2025-05-17,Emergency,Semi-Private,Referred
+ADM00668,P0189,D023,ENT,2025-01-30,2025-02-09,Elective,Private,Recovered
+ADM00669,P0360,D009,Oncology,2025-04-25,2025-04-28,Transfer,Semi-Private,Improved
+ADM00670,P0295,D019,Dermatology,2025-03-31,2025-04-08,Elective,Private,Recovered
+ADM00671,P0183,D019,Orthopedics,2025-07-31,2025-08-02,Emergency,General Ward,Improved
+ADM00672,P0352,D023,Orthopedics,2025-02-07,2025-02-10,Emergency,General Ward,Recovered
+ADM00673,P0036,D027,Orthopedics,2025-03-24,2025-04-01,Elective,Private,Recovered
+ADM00674,P0370,D027,Emergency,2025-01-27,2025-02-04,Elective,Private,Recovered
+ADM00675,P0037,D039,Neurology,2025-08-05,2025-08-06,Elective,ICU,Recovered
+ADM00676,P0496,D036,Cardiology,2025-12-26,2026-01-03,Elective,General Ward,Recovered
+ADM00677,P0014,D012,Emergency,2025-08-03,2025-08-13,Emergency,Semi-Private,Recovered
+ADM00678,P0411,D027,Cardiology,2025-08-09,2025-08-11,Elective,General Ward,Improved
+ADM00679,P0123,D034,Pediatrics,2025-01-15,2025-01-27,Elective,General Ward,Referred
+ADM00680,P0083,D033,Orthopedics,2025-09-16,2025-09-23,Transfer,Semi-Private,Recovered
+ADM00681,P0159,D028,General Medicine,2025-09-23,2025-09-29,Emergency,General Ward,Recovered
+ADM00682,P0494,D031,Oncology,2025-04-30,2025-05-02,Elective,General Ward,Improved
+ADM00683,P0329,D032,Gynecology,2025-05-08,2025-05-13,Elective,General Ward,Improved
+ADM00684,P0102,D020,Oncology,2025-07-30,2025-08-06,Elective,General Ward,Recovered
+ADM00685,P0337,D040,General Medicine,2025-01-11,2025-01-19,Elective,ICU,Recovered
+ADM00686,P0083,D035,Gynecology,2025-06-25,2025-06-28,Emergency,Private,Recovered
+ADM00687,P0044,D031,Pediatrics,2025-05-13,2025-05-14,Emergency,General Ward,Recovered
+ADM00688,P0068,D031,General Medicine,2025-11-21,2025-12-04,Elective,Private,Referred
+ADM00689,P0048,D038,Orthopedics,2025-11-16,2025-11-23,Elective,Semi-Private,Improved
+ADM00690,P0057,D022,General Medicine,2025-01-14,2025-01-27,Emergency,Private,Improved
+ADM00691,P0075,D009,Orthopedics,2025-02-19,2025-02-24,Elective,General Ward,Recovered
+ADM00692,P0022,D009,General Medicine,2025-03-13,2025-03-18,Elective,Semi-Private,Recovered
+ADM00693,P0132,D015,General Medicine,2025-03-10,2025-03-17,Transfer,Private,Referred
+ADM00694,P0465,D013,Dermatology,2025-01-16,2025-01-17,Emergency,General Ward,Recovered
+ADM00695,P0456,D022,Oncology,2025-11-30,2025-12-08,Elective,ICU,Recovered
+ADM00696,P0302,D016,Cardiology,2025-12-23,2026-01-04,Emergency,Private,Recovered
+ADM00697,P0443,D032,Emergency,2025-02-25,2025-03-11,Emergency,ICU,Improved
+ADM00698,P0418,D002,Dermatology,2025-04-15,2025-04-25,Emergency,General Ward,Recovered
+ADM00699,P0267,D026,Cardiology,2025-05-12,2025-05-27,Elective,General Ward,Recovered
+ADM00700,P0287,D014,Dermatology,2025-02-17,2025-02-22,Emergency,General Ward,Improved

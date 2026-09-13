@@ -1,0 +1,801 @@
+prescription_id,patient_id,doctor_id,medicine,prescription_date,dosage,frequency,duration_days
+RX00001,P0125,D026,Atorvastatin,2025-07-21,250 mg,As Needed,28
+RX00002,P0223,D040,Amlodipine,2025-01-12,10 mg,Twice Daily,11
+RX00003,P0235,D002,Metformin,2025-12-07,20 mg,Three Times Daily,22
+RX00004,P0124,D010,Ibuprofen,2025-08-28,20 mg,Once Daily,19
+RX00005,P0470,D013,Atorvastatin,2025-08-13,250 mg,Three Times Daily,29
+RX00006,P0171,D015,Azithromycin,2025-07-01,20 mg,Once Daily,11
+RX00007,P0491,D009,Atorvastatin,2025-10-24,250 mg,Three Times Daily,27
+RX00008,P0486,D027,Ibuprofen,2025-10-31,20 mg,As Needed,10
+RX00009,P0495,D008,Cetirizine,2025-11-03,20 mg,Twice Daily,7
+RX00010,P0450,D006,Paracetamol,2025-06-27,40 mg,As Needed,7
+RX00011,P0181,D036,Atorvastatin,2025-04-28,250 mg,As Needed,28
+RX00012,P0215,D024,Pantoprazole,2025-12-18,20 mg,Three Times Daily,8
+RX00013,P0118,D003,Omeprazole,2025-03-17,10 mg,As Needed,18
+RX00014,P0227,D026,Amoxicillin,2025-02-15,250 mg,Twice Daily,3
+RX00015,P0379,D036,Pantoprazole,2025-08-15,250 mg,Once Daily,11
+RX00016,P0444,D021,Ibuprofen,2025-12-22,250 mg,Once Daily,23
+RX00017,P0037,D013,Metformin,2025-10-21,40 mg,Three Times Daily,9
+RX00018,P0317,D011,Azithromycin,2025-08-28,250 mg,Twice Daily,13
+RX00019,P0096,D008,Ibuprofen,2025-12-14,40 mg,Twice Daily,17
+RX00020,P0120,D014,Amoxicillin,2025-05-21,10 mg,Once Daily,26
+RX00021,P0491,D033,Ibuprofen,2025-07-23,500 mg,Once Daily,7
+RX00022,P0437,D002,Omeprazole,2025-05-30,40 mg,As Needed,21
+RX00023,P0012,D001,Amoxicillin,2025-05-10,20 mg,Three Times Daily,8
+RX00024,P0122,D011,Omeprazole,2025-12-15,250 mg,Once Daily,25
+RX00025,P0035,D006,Azithromycin,2025-11-29,500 mg,Once Daily,16
+RX00026,P0489,D032,Amlodipine,2025-09-26,40 mg,Twice Daily,22
+RX00027,P0251,D015,Amoxicillin,2025-11-09,20 mg,Twice Daily,27
+RX00028,P0067,D012,Paracetamol,2025-05-17,500 mg,Twice Daily,16
+RX00029,P0482,D037,Ibuprofen,2025-04-26,10 mg,Once Daily,13
+RX00030,P0038,D029,Pantoprazole,2025-12-17,40 mg,Three Times Daily,6
+RX00031,P0280,D022,Ibuprofen,2025-06-10,40 mg,As Needed,29
+RX00032,P0230,D014,Azithromycin,2025-06-04,10 mg,Three Times Daily,12
+RX00033,P0337,D019,Azithromycin,2025-06-22,40 mg,Once Daily,4
+RX00034,P0168,D005,Omeprazole,2025-05-10,250 mg,As Needed,27
+RX00035,P0449,D035,Azithromycin,2025-03-20,40 mg,Three Times Daily,6
+RX00036,P0441,D025,Amoxicillin,2025-02-26,250 mg,Once Daily,22
+RX00037,P0328,D038,Pantoprazole,2025-12-17,40 mg,Three Times Daily,12
+RX00038,P0246,D009,Azithromycin,2025-02-26,20 mg,Once Daily,3
+RX00039,P0079,D007,Atorvastatin,2025-12-29,20 mg,Twice Daily,16
+RX00040,P0114,D018,Atorvastatin,2025-12-01,500 mg,Three Times Daily,20
+RX00041,P0301,D002,Omeprazole,2025-05-14,20 mg,Twice Daily,14
+RX00042,P0217,D010,Azithromycin,2025-01-14,10 mg,Twice Daily,21
+RX00043,P0200,D002,Azithromycin,2025-10-10,500 mg,As Needed,25
+RX00044,P0381,D008,Paracetamol,2025-10-21,20 mg,As Needed,14
+RX00045,P0500,D007,Pantoprazole,2025-05-27,250 mg,Three Times Daily,27
+RX00046,P0352,D035,Azithromycin,2025-05-07,40 mg,Once Daily,30
+RX00047,P0242,D023,Paracetamol,2025-09-17,20 mg,As Needed,7
+RX00048,P0013,D008,Omeprazole,2025-11-10,250 mg,As Needed,6
+RX00049,P0366,D021,Ibuprofen,2025-08-06,500 mg,Twice Daily,15
+RX00050,P0207,D033,Paracetamol,2025-08-21,40 mg,Twice Daily,20
+RX00051,P0262,D001,Atorvastatin,2025-06-17,20 mg,Once Daily,14
+RX00052,P0097,D012,Atorvastatin,2025-05-23,500 mg,As Needed,18
+RX00053,P0071,D011,Amoxicillin,2025-09-17,20 mg,As Needed,25
+RX00054,P0481,D030,Paracetamol,2025-08-06,500 mg,Once Daily,8
+RX00055,P0303,D004,Pantoprazole,2025-11-04,20 mg,As Needed,30
+RX00056,P0349,D034,Amlodipine,2025-05-26,250 mg,Three Times Daily,30
+RX00057,P0230,D023,Ibuprofen,2025-04-09,10 mg,Three Times Daily,9
+RX00058,P0357,D032,Cetirizine,2025-07-01,250 mg,Once Daily,26
+RX00059,P0300,D003,Omeprazole,2025-06-18,40 mg,Twice Daily,11
+RX00060,P0032,D028,Azithromycin,2025-08-21,20 mg,Once Daily,12
+RX00061,P0250,D004,Ibuprofen,2025-04-03,10 mg,Three Times Daily,7
+RX00062,P0254,D012,Paracetamol,2025-04-27,10 mg,As Needed,29
+RX00063,P0259,D024,Pantoprazole,2025-01-04,40 mg,As Needed,23
+RX00064,P0182,D033,Omeprazole,2025-03-26,40 mg,Twice Daily,6
+RX00065,P0340,D003,Amoxicillin,2025-06-16,10 mg,Twice Daily,13
+RX00066,P0462,D004,Omeprazole,2025-01-07,40 mg,Three Times Daily,21
+RX00067,P0476,D030,Ibuprofen,2025-08-20,40 mg,Twice Daily,9
+RX00068,P0166,D006,Ibuprofen,2025-09-08,20 mg,Once Daily,15
+RX00069,P0004,D030,Cetirizine,2025-03-26,250 mg,Three Times Daily,15
+RX00070,P0463,D008,Amlodipine,2025-11-15,500 mg,As Needed,23
+RX00071,P0145,D018,Pantoprazole,2025-07-12,10 mg,As Needed,25
+RX00072,P0165,D016,Amoxicillin,2025-05-03,500 mg,As Needed,20
+RX00073,P0344,D006,Metformin,2025-03-30,10 mg,Twice Daily,27
+RX00074,P0486,D024,Omeprazole,2025-04-05,10 mg,Three Times Daily,27
+RX00075,P0362,D028,Amlodipine,2025-10-27,250 mg,Twice Daily,11
+RX00076,P0105,D032,Pantoprazole,2025-12-24,10 mg,Once Daily,15
+RX00077,P0036,D025,Ibuprofen,2025-02-14,10 mg,Three Times Daily,15
+RX00078,P0314,D028,Atorvastatin,2025-09-10,250 mg,Twice Daily,7
+RX00079,P0169,D021,Pantoprazole,2025-02-20,40 mg,As Needed,28
+RX00080,P0008,D008,Omeprazole,2025-03-06,500 mg,As Needed,14
+RX00081,P0451,D036,Pantoprazole,2025-02-23,10 mg,Once Daily,27
+RX00082,P0414,D009,Cetirizine,2025-08-10,250 mg,Once Daily,3
+RX00083,P0086,D040,Cetirizine,2025-03-13,10 mg,Once Daily,20
+RX00084,P0436,D021,Pantoprazole,2025-06-17,250 mg,As Needed,28
+RX00085,P0097,D001,Cetirizine,2025-07-05,500 mg,Twice Daily,23
+RX00086,P0409,D004,Amlodipine,2025-05-23,20 mg,As Needed,23
+RX00087,P0436,D010,Paracetamol,2025-01-19,40 mg,As Needed,24
+RX00088,P0315,D026,Atorvastatin,2025-01-10,20 mg,As Needed,26
+RX00089,P0030,D040,Omeprazole,2025-09-29,250 mg,Twice Daily,30
+RX00090,P0101,D003,Omeprazole,2025-06-20,10 mg,As Needed,19
+RX00091,P0067,D009,Omeprazole,2025-12-30,40 mg,Once Daily,12
+RX00092,P0388,D032,Atorvastatin,2025-01-16,500 mg,Once Daily,30
+RX00093,P0349,D003,Omeprazole,2025-03-21,40 mg,Once Daily,11
+RX00094,P0441,D004,Ibuprofen,2025-10-11,10 mg,Once Daily,22
+RX00095,P0063,D006,Amlodipine,2025-07-09,20 mg,As Needed,10
+RX00096,P0032,D009,Amlodipine,2025-05-28,250 mg,As Needed,30
+RX00097,P0087,D026,Omeprazole,2025-06-12,20 mg,As Needed,17
+RX00098,P0211,D002,Amoxicillin,2025-09-22,40 mg,Once Daily,15
+RX00099,P0463,D002,Cetirizine,2025-12-26,10 mg,Twice Daily,30
+RX00100,P0051,D021,Azithromycin,2025-05-18,250 mg,Three Times Daily,23
+RX00101,P0063,D022,Ibuprofen,2025-10-28,10 mg,Three Times Daily,19
+RX00102,P0080,D003,Pantoprazole,2025-12-31,10 mg,Three Times Daily,11
+RX00103,P0343,D035,Ibuprofen,2025-01-30,40 mg,Twice Daily,26
+RX00104,P0232,D038,Ibuprofen,2025-10-31,20 mg,As Needed,23
+RX00105,P0366,D033,Amlodipine,2025-06-17,10 mg,Three Times Daily,13
+RX00106,P0101,D015,Omeprazole,2025-04-01,10 mg,Three Times Daily,6
+RX00107,P0129,D011,Cetirizine,2025-04-01,10 mg,As Needed,26
+RX00108,P0019,D010,Amoxicillin,2025-07-30,250 mg,Three Times Daily,27
+RX00109,P0357,D036,Atorvastatin,2025-11-26,10 mg,As Needed,9
+RX00110,P0419,D014,Azithromycin,2025-10-27,10 mg,Three Times Daily,22
+RX00111,P0447,D002,Paracetamol,2025-06-23,40 mg,As Needed,25
+RX00112,P0094,D037,Pantoprazole,2025-05-14,10 mg,Once Daily,24
+RX00113,P0081,D029,Ibuprofen,2025-01-24,10 mg,Twice Daily,29
+RX00114,P0103,D035,Amoxicillin,2025-07-20,40 mg,Three Times Daily,30
+RX00115,P0369,D020,Ibuprofen,2025-08-07,250 mg,As Needed,5
+RX00116,P0154,D021,Cetirizine,2025-01-07,20 mg,Once Daily,12
+RX00117,P0269,D034,Ibuprofen,2025-01-06,40 mg,As Needed,5
+RX00118,P0118,D033,Atorvastatin,2025-04-28,250 mg,Three Times Daily,3
+RX00119,P0342,D019,Amoxicillin,2025-06-10,20 mg,Three Times Daily,16
+RX00120,P0494,D008,Omeprazole,2025-03-26,10 mg,Three Times Daily,15
+RX00121,P0279,D031,Omeprazole,2025-09-05,40 mg,Three Times Daily,7
+RX00122,P0492,D011,Pantoprazole,2025-06-15,10 mg,Three Times Daily,10
+RX00123,P0363,D008,Amlodipine,2025-05-25,40 mg,Once Daily,14
+RX00124,P0225,D025,Azithromycin,2025-01-31,20 mg,As Needed,8
+RX00125,P0475,D020,Pantoprazole,2025-08-08,250 mg,As Needed,26
+RX00126,P0419,D038,Pantoprazole,2025-05-13,40 mg,Three Times Daily,25
+RX00127,P0268,D007,Cetirizine,2025-03-05,250 mg,As Needed,4
+RX00128,P0137,D013,Paracetamol,2025-03-17,10 mg,Once Daily,26
+RX00129,P0226,D039,Metformin,2025-05-11,10 mg,Three Times Daily,6
+RX00130,P0334,D010,Paracetamol,2025-11-08,20 mg,Twice Daily,29
+RX00131,P0229,D008,Cetirizine,2025-11-15,20 mg,Once Daily,7
+RX00132,P0323,D020,Amoxicillin,2025-12-27,500 mg,Three Times Daily,13
+RX00133,P0108,D017,Cetirizine,2025-02-07,500 mg,As Needed,15
+RX00134,P0300,D011,Azithromycin,2025-02-23,20 mg,Once Daily,10
+RX00135,P0445,D016,Cetirizine,2025-05-10,10 mg,Three Times Daily,23
+RX00136,P0405,D037,Pantoprazole,2025-08-06,250 mg,As Needed,7
+RX00137,P0007,D032,Paracetamol,2025-01-02,20 mg,As Needed,8
+RX00138,P0128,D026,Amlodipine,2025-09-03,250 mg,Three Times Daily,17
+RX00139,P0353,D037,Amlodipine,2025-05-20,500 mg,Once Daily,25
+RX00140,P0483,D009,Pantoprazole,2025-10-23,250 mg,Three Times Daily,27
+RX00141,P0267,D035,Paracetamol,2025-09-15,20 mg,Three Times Daily,18
+RX00142,P0173,D003,Atorvastatin,2025-04-15,10 mg,Three Times Daily,13
+RX00143,P0416,D031,Paracetamol,2025-12-02,20 mg,Three Times Daily,9
+RX00144,P0214,D007,Paracetamol,2025-07-04,40 mg,Three Times Daily,8
+RX00145,P0247,D002,Pantoprazole,2025-10-30,40 mg,As Needed,14
+RX00146,P0106,D025,Cetirizine,2025-09-01,40 mg,Three Times Daily,28
+RX00147,P0083,D040,Paracetamol,2025-06-13,10 mg,Once Daily,6
+RX00148,P0292,D012,Amoxicillin,2025-05-12,20 mg,Twice Daily,16
+RX00149,P0374,D030,Atorvastatin,2025-07-22,40 mg,Three Times Daily,13
+RX00150,P0421,D030,Cetirizine,2025-07-29,20 mg,Once Daily,28
+RX00151,P0203,D029,Metformin,2025-12-13,500 mg,Twice Daily,14
+RX00152,P0041,D011,Atorvastatin,2025-04-11,40 mg,Once Daily,4
+RX00153,P0205,D023,Omeprazole,2025-09-28,40 mg,As Needed,13
+RX00154,P0348,D017,Atorvastatin,2025-02-18,10 mg,As Needed,15
+RX00155,P0049,D013,Azithromycin,2025-08-27,20 mg,Twice Daily,13
+RX00156,P0143,D033,Pantoprazole,2025-08-03,10 mg,Twice Daily,11
+RX00157,P0141,D001,Atorvastatin,2025-10-18,10 mg,Twice Daily,28
+RX00158,P0053,D040,Amoxicillin,2025-12-16,20 mg,As Needed,29
+RX00159,P0107,D013,Omeprazole,2025-10-07,500 mg,As Needed,23
+RX00160,P0033,D038,Metformin,2025-11-12,20 mg,Once Daily,18
+RX00161,P0200,D003,Metformin,2025-03-18,500 mg,As Needed,7
+RX00162,P0119,D016,Amlodipine,2025-10-31,10 mg,Twice Daily,29
+RX00163,P0288,D007,Amlodipine,2025-05-31,500 mg,Three Times Daily,14
+RX00164,P0229,D003,Ibuprofen,2025-10-24,500 mg,Three Times Daily,5
+RX00165,P0118,D014,Omeprazole,2025-06-06,500 mg,Twice Daily,18
+RX00166,P0176,D016,Amoxicillin,2025-07-17,40 mg,As Needed,21
+RX00167,P0452,D004,Pantoprazole,2025-10-14,40 mg,Twice Daily,19
+RX00168,P0185,D031,Amoxicillin,2025-01-24,10 mg,As Needed,30
+RX00169,P0318,D013,Ibuprofen,2025-01-09,20 mg,Three Times Daily,13
+RX00170,P0499,D027,Amoxicillin,2025-05-12,500 mg,Once Daily,23
+RX00171,P0338,D001,Pantoprazole,2025-03-18,40 mg,As Needed,21
+RX00172,P0215,D025,Cetirizine,2025-08-14,20 mg,Once Daily,29
+RX00173,P0221,D037,Pantoprazole,2025-05-11,500 mg,Three Times Daily,20
+RX00174,P0130,D011,Azithromycin,2025-03-31,20 mg,Once Daily,29
+RX00175,P0333,D009,Atorvastatin,2025-04-27,250 mg,Once Daily,11
+RX00176,P0272,D007,Metformin,2025-04-20,500 mg,Twice Daily,15
+RX00177,P0246,D014,Paracetamol,2025-12-20,20 mg,Once Daily,28
+RX00178,P0123,D030,Atorvastatin,2025-09-28,500 mg,Three Times Daily,8
+RX00179,P0008,D024,Omeprazole,2025-08-15,500 mg,As Needed,5
+RX00180,P0403,D003,Atorvastatin,2025-09-01,250 mg,Once Daily,25
+RX00181,P0416,D039,Amlodipine,2025-11-04,20 mg,As Needed,14
+RX00182,P0067,D027,Amlodipine,2025-02-24,10 mg,Twice Daily,11
+RX00183,P0115,D001,Amoxicillin,2025-02-06,40 mg,Three Times Daily,11
+RX00184,P0369,D038,Metformin,2025-02-24,500 mg,Three Times Daily,17
+RX00185,P0288,D026,Paracetamol,2025-01-12,500 mg,As Needed,3
+RX00186,P0105,D006,Atorvastatin,2025-07-04,500 mg,Three Times Daily,20
+RX00187,P0469,D012,Atorvastatin,2025-08-25,500 mg,Twice Daily,17
+RX00188,P0025,D038,Metformin,2025-10-20,40 mg,As Needed,10
+RX00189,P0053,D035,Omeprazole,2025-07-23,10 mg,Three Times Daily,13
+RX00190,P0247,D010,Amlodipine,2025-07-30,250 mg,Twice Daily,19
+RX00191,P0337,D009,Pantoprazole,2025-08-14,10 mg,Twice Daily,29
+RX00192,P0281,D023,Omeprazole,2025-01-07,40 mg,Once Daily,30
+RX00193,P0033,D030,Azithromycin,2025-08-08,20 mg,Three Times Daily,29
+RX00194,P0287,D022,Amoxicillin,2025-11-07,250 mg,As Needed,16
+RX00195,P0036,D009,Metformin,2025-01-28,250 mg,Once Daily,21
+RX00196,P0343,D019,Ibuprofen,2025-10-20,20 mg,As Needed,29
+RX00197,P0379,D008,Omeprazole,2025-07-31,500 mg,Once Daily,25
+RX00198,P0239,D004,Atorvastatin,2025-07-08,40 mg,Twice Daily,26
+RX00199,P0492,D005,Paracetamol,2025-03-16,20 mg,Once Daily,7
+RX00200,P0217,D019,Azithromycin,2025-08-30,10 mg,Once Daily,4
+RX00201,P0177,D018,Ibuprofen,2025-04-24,10 mg,Once Daily,17
+RX00202,P0044,D029,Amlodipine,2025-06-16,20 mg,Three Times Daily,21
+RX00203,P0304,D019,Azithromycin,2025-04-16,40 mg,Once Daily,27
+RX00204,P0158,D006,Paracetamol,2025-05-31,250 mg,Twice Daily,18
+RX00205,P0269,D005,Metformin,2025-03-25,250 mg,As Needed,15
+RX00206,P0171,D005,Ibuprofen,2025-07-31,500 mg,Three Times Daily,29
+RX00207,P0495,D008,Amlodipine,2025-09-24,40 mg,Twice Daily,28
+RX00208,P0221,D027,Atorvastatin,2025-11-18,10 mg,Three Times Daily,9
+RX00209,P0400,D037,Pantoprazole,2025-09-26,10 mg,As Needed,19
+RX00210,P0230,D038,Paracetamol,2025-06-26,500 mg,As Needed,21
+RX00211,P0091,D037,Amlodipine,2025-09-28,10 mg,As Needed,27
+RX00212,P0410,D018,Atorvastatin,2025-11-08,500 mg,Three Times Daily,9
+RX00213,P0459,D026,Amlodipine,2025-07-01,500 mg,Three Times Daily,14
+RX00214,P0431,D016,Atorvastatin,2025-06-08,20 mg,As Needed,15
+RX00215,P0421,D022,Atorvastatin,2025-07-08,250 mg,As Needed,15
+RX00216,P0131,D023,Azithromycin,2025-07-05,40 mg,Twice Daily,16
+RX00217,P0410,D003,Atorvastatin,2025-11-05,40 mg,As Needed,17
+RX00218,P0226,D003,Cetirizine,2025-09-03,250 mg,Once Daily,4
+RX00219,P0225,D012,Cetirizine,2025-11-13,40 mg,Three Times Daily,8
+RX00220,P0143,D023,Amoxicillin,2025-02-11,10 mg,Twice Daily,11
+RX00221,P0066,D011,Paracetamol,2025-10-12,10 mg,Three Times Daily,17
+RX00222,P0028,D029,Amoxicillin,2025-10-27,40 mg,As Needed,22
+RX00223,P0125,D006,Amlodipine,2025-12-28,20 mg,Once Daily,18
+RX00224,P0212,D016,Azithromycin,2025-10-21,40 mg,As Needed,28
+RX00225,P0422,D034,Cetirizine,2025-06-30,500 mg,Three Times Daily,4
+RX00226,P0428,D037,Metformin,2025-12-31,500 mg,Twice Daily,5
+RX00227,P0437,D011,Omeprazole,2025-07-01,250 mg,Three Times Daily,25
+RX00228,P0080,D011,Omeprazole,2025-12-06,10 mg,Twice Daily,22
+RX00229,P0238,D025,Cetirizine,2025-08-06,20 mg,Once Daily,25
+RX00230,P0132,D019,Amoxicillin,2025-06-12,40 mg,As Needed,23
+RX00231,P0328,D032,Atorvastatin,2025-02-15,500 mg,As Needed,10
+RX00232,P0300,D008,Pantoprazole,2025-04-02,10 mg,Once Daily,10
+RX00233,P0119,D012,Paracetamol,2025-04-15,10 mg,Three Times Daily,23
+RX00234,P0046,D035,Paracetamol,2025-07-26,20 mg,Once Daily,9
+RX00235,P0084,D006,Ibuprofen,2025-11-24,20 mg,As Needed,13
+RX00236,P0282,D021,Atorvastatin,2025-05-19,20 mg,Twice Daily,24
+RX00237,P0352,D026,Metformin,2025-01-29,20 mg,As Needed,15
+RX00238,P0013,D001,Paracetamol,2025-09-08,500 mg,Three Times Daily,10
+RX00239,P0125,D017,Azithromycin,2025-07-10,20 mg,Twice Daily,11
+RX00240,P0325,D035,Metformin,2025-02-16,10 mg,Three Times Daily,18
+RX00241,P0172,D027,Atorvastatin,2025-09-08,10 mg,As Needed,7
+RX00242,P0234,D002,Omeprazole,2025-09-20,40 mg,As Needed,25
+RX00243,P0181,D036,Atorvastatin,2025-03-05,10 mg,Twice Daily,16
+RX00244,P0051,D001,Omeprazole,2025-12-04,10 mg,Three Times Daily,3
+RX00245,P0269,D010,Cetirizine,2025-11-16,500 mg,Twice Daily,29
+RX00246,P0169,D031,Azithromycin,2025-12-14,10 mg,Twice Daily,26
+RX00247,P0395,D037,Amlodipine,2025-09-25,250 mg,Three Times Daily,21
+RX00248,P0421,D005,Pantoprazole,2025-01-12,10 mg,Twice Daily,19
+RX00249,P0316,D013,Omeprazole,2025-10-19,40 mg,Once Daily,24
+RX00250,P0288,D024,Omeprazole,2025-01-29,40 mg,Twice Daily,16
+RX00251,P0429,D027,Omeprazole,2025-05-19,20 mg,As Needed,15
+RX00252,P0490,D001,Pantoprazole,2025-03-26,500 mg,Three Times Daily,10
+RX00253,P0274,D020,Omeprazole,2025-03-15,40 mg,As Needed,29
+RX00254,P0349,D008,Ibuprofen,2025-09-08,250 mg,Once Daily,5
+RX00255,P0207,D003,Amlodipine,2025-08-12,250 mg,Once Daily,3
+RX00256,P0148,D032,Amlodipine,2025-02-16,20 mg,Twice Daily,21
+RX00257,P0300,D025,Paracetamol,2025-03-22,500 mg,As Needed,17
+RX00258,P0420,D025,Paracetamol,2025-05-01,500 mg,Twice Daily,23
+RX00259,P0453,D014,Ibuprofen,2025-02-12,10 mg,Twice Daily,29
+RX00260,P0488,D027,Ibuprofen,2025-05-26,250 mg,As Needed,10
+RX00261,P0037,D032,Omeprazole,2025-03-15,250 mg,Once Daily,11
+RX00262,P0161,D027,Azithromycin,2025-02-22,250 mg,Once Daily,15
+RX00263,P0466,D004,Cetirizine,2025-08-21,250 mg,Once Daily,14
+RX00264,P0383,D039,Ibuprofen,2025-10-22,40 mg,Three Times Daily,11
+RX00265,P0275,D011,Paracetamol,2025-12-29,500 mg,Three Times Daily,22
+RX00266,P0435,D003,Azithromycin,2025-07-19,10 mg,Twice Daily,26
+RX00267,P0288,D025,Pantoprazole,2025-06-11,40 mg,Three Times Daily,13
+RX00268,P0106,D024,Metformin,2025-02-06,500 mg,Three Times Daily,7
+RX00269,P0022,D009,Cetirizine,2025-04-07,20 mg,As Needed,21
+RX00270,P0233,D008,Ibuprofen,2025-02-18,250 mg,Twice Daily,23
+RX00271,P0122,D039,Amlodipine,2025-01-10,10 mg,Twice Daily,20
+RX00272,P0129,D031,Paracetamol,2025-02-09,500 mg,As Needed,13
+RX00273,P0310,D017,Amoxicillin,2025-06-02,20 mg,Once Daily,29
+RX00274,P0217,D031,Paracetamol,2025-04-16,250 mg,As Needed,13
+RX00275,P0148,D004,Ibuprofen,2025-02-10,20 mg,Once Daily,8
+RX00276,P0058,D004,Metformin,2025-06-13,20 mg,Twice Daily,3
+RX00277,P0419,D037,Omeprazole,2025-09-15,40 mg,Twice Daily,24
+RX00278,P0237,D008,Cetirizine,2025-07-30,20 mg,Three Times Daily,23
+RX00279,P0070,D006,Atorvastatin,2025-07-21,40 mg,Three Times Daily,11
+RX00280,P0454,D009,Atorvastatin,2025-07-14,40 mg,As Needed,9
+RX00281,P0189,D008,Atorvastatin,2025-02-22,20 mg,Three Times Daily,8
+RX00282,P0242,D032,Atorvastatin,2025-05-27,500 mg,Twice Daily,29
+RX00283,P0063,D015,Azithromycin,2025-10-09,20 mg,Twice Daily,30
+RX00284,P0485,D018,Pantoprazole,2025-11-06,20 mg,Once Daily,25
+RX00285,P0241,D023,Paracetamol,2025-08-31,500 mg,Three Times Daily,12
+RX00286,P0445,D005,Cetirizine,2025-02-20,250 mg,Once Daily,7
+RX00287,P0185,D027,Metformin,2025-04-24,10 mg,Twice Daily,3
+RX00288,P0259,D033,Pantoprazole,2025-09-30,250 mg,Three Times Daily,17
+RX00289,P0229,D002,Amoxicillin,2025-04-30,20 mg,Once Daily,27
+RX00290,P0223,D038,Amoxicillin,2025-07-08,250 mg,Twice Daily,7
+RX00291,P0099,D028,Cetirizine,2025-02-15,10 mg,Once Daily,22
+RX00292,P0247,D024,Paracetamol,2025-08-31,250 mg,Three Times Daily,8
+RX00293,P0045,D021,Cetirizine,2025-11-07,10 mg,Once Daily,7
+RX00294,P0399,D031,Omeprazole,2025-02-19,250 mg,Once Daily,19
+RX00295,P0273,D011,Omeprazole,2025-11-27,40 mg,Twice Daily,20
+RX00296,P0399,D028,Paracetamol,2025-01-11,20 mg,Three Times Daily,6
+RX00297,P0005,D040,Ibuprofen,2025-02-17,10 mg,As Needed,26
+RX00298,P0470,D004,Paracetamol,2025-02-25,20 mg,As Needed,23
+RX00299,P0430,D016,Metformin,2025-01-08,40 mg,Once Daily,25
+RX00300,P0011,D012,Ibuprofen,2025-01-14,250 mg,Twice Daily,4
+RX00301,P0448,D022,Paracetamol,2025-08-03,20 mg,Three Times Daily,10
+RX00302,P0348,D035,Ibuprofen,2025-09-02,250 mg,Twice Daily,7
+RX00303,P0398,D016,Cetirizine,2025-02-23,250 mg,Three Times Daily,6
+RX00304,P0039,D024,Atorvastatin,2025-09-30,20 mg,Twice Daily,27
+RX00305,P0451,D035,Pantoprazole,2025-05-11,10 mg,As Needed,24
+RX00306,P0439,D028,Atorvastatin,2025-01-09,10 mg,As Needed,16
+RX00307,P0500,D029,Metformin,2025-07-31,20 mg,As Needed,6
+RX00308,P0042,D021,Omeprazole,2025-05-02,10 mg,Twice Daily,10
+RX00309,P0203,D025,Metformin,2025-04-24,500 mg,Twice Daily,5
+RX00310,P0094,D039,Omeprazole,2025-01-20,250 mg,Once Daily,16
+RX00311,P0486,D031,Cetirizine,2025-12-05,20 mg,As Needed,28
+RX00312,P0005,D015,Cetirizine,2025-01-21,40 mg,Once Daily,20
+RX00313,P0052,D035,Ibuprofen,2025-07-27,20 mg,Twice Daily,25
+RX00314,P0150,D038,Azithromycin,2025-02-02,20 mg,Three Times Daily,14
+RX00315,P0205,D022,Omeprazole,2025-05-13,250 mg,As Needed,17
+RX00316,P0300,D005,Cetirizine,2025-07-10,40 mg,As Needed,22
+RX00317,P0499,D013,Azithromycin,2025-01-26,250 mg,As Needed,22
+RX00318,P0371,D032,Amoxicillin,2025-12-30,10 mg,As Needed,28
+RX00319,P0469,D003,Amoxicillin,2025-03-30,20 mg,As Needed,11
+RX00320,P0187,D015,Ibuprofen,2025-04-02,250 mg,Twice Daily,4
+RX00321,P0485,D027,Metformin,2025-02-02,500 mg,As Needed,3
+RX00322,P0153,D027,Atorvastatin,2025-08-26,20 mg,As Needed,17
+RX00323,P0383,D030,Amoxicillin,2025-01-18,10 mg,Once Daily,25
+RX00324,P0116,D006,Ibuprofen,2025-10-01,250 mg,Three Times Daily,17
+RX00325,P0149,D025,Amlodipine,2025-10-16,250 mg,As Needed,30
+RX00326,P0220,D028,Azithromycin,2025-01-27,500 mg,Once Daily,10
+RX00327,P0192,D022,Pantoprazole,2025-11-01,10 mg,Twice Daily,5
+RX00328,P0233,D004,Amlodipine,2025-04-18,500 mg,Once Daily,4
+RX00329,P0324,D015,Pantoprazole,2025-08-14,20 mg,As Needed,6
+RX00330,P0221,D026,Omeprazole,2025-11-20,40 mg,Once Daily,20
+RX00331,P0047,D018,Omeprazole,2025-12-21,250 mg,Once Daily,14
+RX00332,P0127,D009,Pantoprazole,2025-01-19,500 mg,Twice Daily,20
+RX00333,P0291,D004,Cetirizine,2025-08-11,250 mg,Once Daily,23
+RX00334,P0215,D005,Cetirizine,2025-10-08,250 mg,Twice Daily,12
+RX00335,P0007,D006,Atorvastatin,2025-04-14,500 mg,Twice Daily,23
+RX00336,P0184,D012,Metformin,2025-11-28,250 mg,Once Daily,10
+RX00337,P0116,D031,Atorvastatin,2025-11-28,10 mg,As Needed,27
+RX00338,P0052,D009,Ibuprofen,2025-12-28,10 mg,Three Times Daily,20
+RX00339,P0366,D007,Omeprazole,2025-10-16,40 mg,Once Daily,19
+RX00340,P0046,D029,Pantoprazole,2025-02-06,10 mg,Once Daily,21
+RX00341,P0393,D014,Azithromycin,2025-12-14,500 mg,Once Daily,8
+RX00342,P0442,D020,Azithromycin,2025-09-01,10 mg,Three Times Daily,16
+RX00343,P0023,D032,Paracetamol,2025-02-12,40 mg,Three Times Daily,7
+RX00344,P0131,D022,Atorvastatin,2025-05-06,20 mg,Twice Daily,10
+RX00345,P0127,D036,Pantoprazole,2025-01-09,20 mg,Three Times Daily,10
+RX00346,P0445,D018,Cetirizine,2025-01-14,500 mg,Three Times Daily,20
+RX00347,P0265,D040,Ibuprofen,2025-05-11,40 mg,Once Daily,11
+RX00348,P0309,D025,Amlodipine,2025-11-21,10 mg,Twice Daily,16
+RX00349,P0196,D031,Paracetamol,2025-07-03,40 mg,As Needed,16
+RX00350,P0433,D035,Amlodipine,2025-10-09,250 mg,Twice Daily,22
+RX00351,P0473,D026,Omeprazole,2025-02-22,40 mg,Three Times Daily,16
+RX00352,P0454,D004,Ibuprofen,2025-02-10,10 mg,Three Times Daily,19
+RX00353,P0048,D020,Metformin,2025-12-04,500 mg,Once Daily,4
+RX00354,P0379,D034,Amlodipine,2025-12-24,250 mg,As Needed,16
+RX00355,P0082,D012,Ibuprofen,2025-01-21,40 mg,As Needed,29
+RX00356,P0109,D016,Paracetamol,2025-10-22,20 mg,As Needed,24
+RX00357,P0263,D005,Omeprazole,2025-07-27,10 mg,Three Times Daily,23
+RX00358,P0355,D035,Ibuprofen,2025-05-31,500 mg,Three Times Daily,14
+RX00359,P0031,D027,Metformin,2025-03-10,10 mg,Twice Daily,25
+RX00360,P0358,D001,Cetirizine,2025-11-27,40 mg,Three Times Daily,27
+RX00361,P0056,D034,Azithromycin,2025-11-14,500 mg,As Needed,18
+RX00362,P0480,D032,Amoxicillin,2025-10-28,20 mg,As Needed,24
+RX00363,P0355,D039,Cetirizine,2025-01-27,250 mg,As Needed,8
+RX00364,P0189,D033,Cetirizine,2025-04-26,40 mg,Once Daily,20
+RX00365,P0476,D031,Azithromycin,2025-05-22,500 mg,Twice Daily,9
+RX00366,P0492,D013,Cetirizine,2025-02-10,250 mg,Twice Daily,4
+RX00367,P0005,D002,Pantoprazole,2025-04-16,500 mg,Three Times Daily,15
+RX00368,P0286,D030,Omeprazole,2025-03-15,40 mg,Once Daily,25
+RX00369,P0278,D010,Ibuprofen,2025-03-01,500 mg,Twice Daily,10
+RX00370,P0145,D023,Omeprazole,2025-10-25,20 mg,Once Daily,14
+RX00371,P0394,D033,Pantoprazole,2025-05-02,500 mg,Once Daily,3
+RX00372,P0455,D039,Cetirizine,2025-07-22,40 mg,Three Times Daily,11
+RX00373,P0196,D029,Amoxicillin,2025-01-11,500 mg,Once Daily,10
+RX00374,P0426,D030,Paracetamol,2025-05-27,250 mg,Twice Daily,11
+RX00375,P0027,D034,Omeprazole,2025-08-04,250 mg,Three Times Daily,7
+RX00376,P0127,D039,Omeprazole,2025-11-17,10 mg,Twice Daily,15
+RX00377,P0135,D017,Amoxicillin,2025-10-30,10 mg,Once Daily,16
+RX00378,P0023,D022,Metformin,2025-01-14,20 mg,Once Daily,6
+RX00379,P0331,D005,Omeprazole,2025-03-08,250 mg,As Needed,19
+RX00380,P0117,D011,Ibuprofen,2025-06-29,10 mg,Three Times Daily,11
+RX00381,P0392,D022,Amlodipine,2025-12-31,500 mg,Three Times Daily,22
+RX00382,P0008,D032,Ibuprofen,2025-08-30,20 mg,As Needed,17
+RX00383,P0101,D024,Ibuprofen,2025-06-09,40 mg,Twice Daily,22
+RX00384,P0261,D011,Ibuprofen,2025-01-10,10 mg,Twice Daily,6
+RX00385,P0199,D011,Cetirizine,2025-05-04,10 mg,Once Daily,4
+RX00386,P0086,D017,Pantoprazole,2025-09-30,250 mg,Three Times Daily,30
+RX00387,P0228,D032,Omeprazole,2025-08-29,20 mg,Once Daily,29
+RX00388,P0386,D019,Amlodipine,2025-05-23,250 mg,As Needed,15
+RX00389,P0472,D027,Amoxicillin,2025-12-19,250 mg,Once Daily,6
+RX00390,P0179,D032,Paracetamol,2025-06-16,20 mg,Twice Daily,20
+RX00391,P0450,D025,Atorvastatin,2025-02-26,500 mg,Twice Daily,26
+RX00392,P0240,D028,Cetirizine,2025-05-18,10 mg,As Needed,18
+RX00393,P0012,D040,Azithromycin,2025-11-23,250 mg,Twice Daily,25
+RX00394,P0303,D027,Amlodipine,2025-12-19,10 mg,As Needed,29
+RX00395,P0234,D014,Atorvastatin,2025-01-17,20 mg,Three Times Daily,12
+RX00396,P0183,D039,Omeprazole,2025-11-28,500 mg,As Needed,4
+RX00397,P0282,D002,Cetirizine,2025-09-30,40 mg,As Needed,16
+RX00398,P0358,D017,Pantoprazole,2025-11-30,500 mg,As Needed,4
+RX00399,P0376,D001,Pantoprazole,2025-01-03,20 mg,Twice Daily,20
+RX00400,P0429,D032,Amlodipine,2025-08-31,500 mg,Three Times Daily,3
+RX00401,P0190,D019,Amlodipine,2025-04-18,40 mg,Once Daily,15
+RX00402,P0326,D014,Metformin,2025-02-20,250 mg,Three Times Daily,8
+RX00403,P0215,D031,Omeprazole,2025-12-16,500 mg,Twice Daily,24
+RX00404,P0258,D018,Omeprazole,2025-06-23,20 mg,Three Times Daily,19
+RX00405,P0026,D014,Omeprazole,2025-04-26,500 mg,Three Times Daily,29
+RX00406,P0270,D014,Cetirizine,2025-07-02,40 mg,As Needed,19
+RX00407,P0082,D024,Pantoprazole,2025-12-27,20 mg,As Needed,24
+RX00408,P0358,D005,Cetirizine,2025-12-21,500 mg,Twice Daily,13
+RX00409,P0185,D016,Amlodipine,2025-06-03,20 mg,As Needed,8
+RX00410,P0288,D005,Paracetamol,2025-09-04,40 mg,Twice Daily,22
+RX00411,P0062,D013,Metformin,2025-03-17,250 mg,Once Daily,5
+RX00412,P0371,D016,Amlodipine,2025-09-01,40 mg,Three Times Daily,16
+RX00413,P0462,D015,Ibuprofen,2025-03-22,250 mg,Once Daily,27
+RX00414,P0030,D031,Amoxicillin,2025-08-17,10 mg,Once Daily,8
+RX00415,P0397,D005,Atorvastatin,2025-03-13,40 mg,Three Times Daily,19
+RX00416,P0424,D021,Ibuprofen,2025-08-06,250 mg,As Needed,5
+RX00417,P0031,D030,Ibuprofen,2025-08-31,10 mg,Once Daily,19
+RX00418,P0293,D023,Pantoprazole,2025-11-10,10 mg,Three Times Daily,21
+RX00419,P0173,D038,Amlodipine,2025-03-19,10 mg,Once Daily,20
+RX00420,P0102,D029,Ibuprofen,2025-06-07,20 mg,Once Daily,7
+RX00421,P0128,D013,Omeprazole,2025-02-17,40 mg,Three Times Daily,17
+RX00422,P0086,D032,Cetirizine,2025-11-08,40 mg,As Needed,5
+RX00423,P0315,D027,Omeprazole,2025-10-25,40 mg,Twice Daily,25
+RX00424,P0028,D034,Pantoprazole,2025-01-24,40 mg,Three Times Daily,10
+RX00425,P0122,D033,Pantoprazole,2025-04-20,20 mg,Twice Daily,9
+RX00426,P0251,D004,Amlodipine,2025-02-21,40 mg,Three Times Daily,20
+RX00427,P0061,D018,Amlodipine,2025-10-17,250 mg,Three Times Daily,12
+RX00428,P0403,D006,Amoxicillin,2025-09-16,10 mg,Twice Daily,28
+RX00429,P0171,D028,Ibuprofen,2025-11-20,20 mg,Twice Daily,25
+RX00430,P0443,D027,Metformin,2025-05-19,20 mg,As Needed,12
+RX00431,P0272,D026,Omeprazole,2025-11-02,40 mg,Three Times Daily,21
+RX00432,P0325,D020,Ibuprofen,2025-12-04,10 mg,Three Times Daily,25
+RX00433,P0300,D013,Omeprazole,2025-10-02,250 mg,Three Times Daily,3
+RX00434,P0113,D028,Azithromycin,2025-02-13,10 mg,As Needed,4
+RX00435,P0194,D034,Atorvastatin,2025-09-16,500 mg,Twice Daily,30
+RX00436,P0394,D023,Atorvastatin,2025-04-23,10 mg,Three Times Daily,28
+RX00437,P0431,D010,Amlodipine,2025-08-15,250 mg,Twice Daily,3
+RX00438,P0019,D030,Metformin,2025-03-06,250 mg,As Needed,11
+RX00439,P0340,D022,Metformin,2025-06-12,250 mg,Once Daily,17
+RX00440,P0093,D005,Paracetamol,2025-06-13,20 mg,Twice Daily,20
+RX00441,P0217,D009,Pantoprazole,2025-06-15,20 mg,As Needed,20
+RX00442,P0465,D004,Metformin,2025-02-08,500 mg,Once Daily,24
+RX00443,P0179,D001,Omeprazole,2025-06-02,10 mg,Three Times Daily,9
+RX00444,P0499,D034,Omeprazole,2025-11-16,40 mg,Three Times Daily,16
+RX00445,P0397,D026,Atorvastatin,2025-12-26,500 mg,Twice Daily,20
+RX00446,P0191,D018,Ibuprofen,2025-09-26,40 mg,Once Daily,22
+RX00447,P0493,D016,Metformin,2025-11-20,40 mg,As Needed,21
+RX00448,P0400,D023,Paracetamol,2025-11-22,500 mg,Three Times Daily,7
+RX00449,P0437,D036,Ibuprofen,2025-03-16,10 mg,Three Times Daily,11
+RX00450,P0163,D026,Atorvastatin,2025-09-14,40 mg,Once Daily,20
+RX00451,P0100,D002,Omeprazole,2025-07-19,20 mg,As Needed,15
+RX00452,P0187,D005,Amlodipine,2025-04-08,20 mg,Three Times Daily,7
+RX00453,P0295,D029,Azithromycin,2025-04-14,500 mg,Three Times Daily,26
+RX00454,P0067,D004,Metformin,2025-06-13,40 mg,Twice Daily,24
+RX00455,P0073,D035,Omeprazole,2025-04-23,500 mg,As Needed,22
+RX00456,P0232,D022,Ibuprofen,2025-04-13,20 mg,Three Times Daily,17
+RX00457,P0189,D008,Omeprazole,2025-02-06,500 mg,Once Daily,28
+RX00458,P0050,D021,Paracetamol,2025-04-16,40 mg,Three Times Daily,26
+RX00459,P0309,D008,Atorvastatin,2025-07-06,40 mg,As Needed,21
+RX00460,P0302,D005,Cetirizine,2025-12-30,20 mg,Twice Daily,22
+RX00461,P0308,D021,Omeprazole,2025-01-21,250 mg,Three Times Daily,13
+RX00462,P0124,D027,Amlodipine,2025-05-28,250 mg,Once Daily,11
+RX00463,P0157,D038,Metformin,2025-05-09,10 mg,Three Times Daily,23
+RX00464,P0261,D005,Amlodipine,2025-07-06,20 mg,Once Daily,24
+RX00465,P0195,D021,Paracetamol,2025-10-11,10 mg,As Needed,30
+RX00466,P0330,D008,Pantoprazole,2025-07-18,20 mg,Twice Daily,18
+RX00467,P0351,D022,Ibuprofen,2025-08-23,40 mg,As Needed,13
+RX00468,P0331,D018,Azithromycin,2025-04-18,20 mg,Three Times Daily,4
+RX00469,P0256,D004,Metformin,2025-01-09,500 mg,Three Times Daily,27
+RX00470,P0465,D004,Cetirizine,2025-08-14,10 mg,Twice Daily,10
+RX00471,P0424,D037,Atorvastatin,2025-07-28,20 mg,Once Daily,25
+RX00472,P0489,D015,Atorvastatin,2025-09-02,10 mg,As Needed,27
+RX00473,P0200,D038,Paracetamol,2025-10-15,20 mg,Once Daily,23
+RX00474,P0372,D027,Pantoprazole,2025-03-07,250 mg,Three Times Daily,7
+RX00475,P0386,D021,Amoxicillin,2025-12-22,10 mg,Once Daily,13
+RX00476,P0068,D004,Paracetamol,2025-06-02,40 mg,As Needed,13
+RX00477,P0446,D011,Pantoprazole,2025-07-10,40 mg,Once Daily,11
+RX00478,P0080,D019,Atorvastatin,2025-08-06,20 mg,Three Times Daily,13
+RX00479,P0233,D019,Atorvastatin,2025-06-03,40 mg,As Needed,7
+RX00480,P0186,D027,Ibuprofen,2025-10-04,40 mg,Once Daily,11
+RX00481,P0105,D040,Omeprazole,2025-03-23,10 mg,Once Daily,3
+RX00482,P0469,D028,Omeprazole,2025-08-09,20 mg,As Needed,28
+RX00483,P0325,D005,Azithromycin,2025-10-07,10 mg,Three Times Daily,12
+RX00484,P0442,D025,Paracetamol,2025-04-21,20 mg,As Needed,29
+RX00485,P0419,D003,Cetirizine,2025-04-02,40 mg,Three Times Daily,10
+RX00486,P0142,D026,Atorvastatin,2025-01-12,20 mg,Once Daily,21
+RX00487,P0399,D010,Atorvastatin,2025-05-19,20 mg,As Needed,18
+RX00488,P0390,D024,Cetirizine,2025-06-04,500 mg,Three Times Daily,15
+RX00489,P0272,D029,Cetirizine,2025-01-23,20 mg,As Needed,26
+RX00490,P0343,D007,Amoxicillin,2025-08-08,500 mg,Once Daily,7
+RX00491,P0124,D023,Azithromycin,2025-12-14,10 mg,As Needed,20
+RX00492,P0223,D027,Omeprazole,2025-08-25,500 mg,Once Daily,11
+RX00493,P0490,D009,Omeprazole,2025-09-10,10 mg,Once Daily,6
+RX00494,P0174,D003,Paracetamol,2025-07-02,20 mg,Once Daily,16
+RX00495,P0191,D013,Azithromycin,2025-07-17,10 mg,Three Times Daily,9
+RX00496,P0140,D006,Metformin,2025-06-19,40 mg,Three Times Daily,14
+RX00497,P0297,D038,Amlodipine,2025-05-03,20 mg,Twice Daily,26
+RX00498,P0119,D021,Ibuprofen,2025-02-03,500 mg,Three Times Daily,9
+RX00499,P0275,D019,Atorvastatin,2025-11-09,250 mg,Twice Daily,13
+RX00500,P0076,D025,Paracetamol,2025-01-03,20 mg,As Needed,24
+RX00501,P0109,D039,Amoxicillin,2025-01-06,40 mg,Once Daily,17
+RX00502,P0119,D004,Omeprazole,2025-10-31,10 mg,Three Times Daily,30
+RX00503,P0461,D022,Amoxicillin,2025-04-12,500 mg,Once Daily,9
+RX00504,P0369,D005,Ibuprofen,2025-07-11,500 mg,Twice Daily,22
+RX00505,P0258,D001,Omeprazole,2025-01-13,40 mg,Three Times Daily,28
+RX00506,P0020,D017,Amlodipine,2025-02-05,40 mg,Three Times Daily,19
+RX00507,P0119,D009,Amoxicillin,2025-03-11,20 mg,Three Times Daily,7
+RX00508,P0351,D009,Paracetamol,2025-10-16,250 mg,Three Times Daily,10
+RX00509,P0137,D024,Atorvastatin,2025-04-15,250 mg,Once Daily,12
+RX00510,P0277,D010,Paracetamol,2025-07-23,10 mg,Three Times Daily,8
+RX00511,P0255,D020,Ibuprofen,2025-11-09,500 mg,Twice Daily,23
+RX00512,P0264,D017,Azithromycin,2025-02-24,20 mg,Three Times Daily,4
+RX00513,P0167,D013,Amoxicillin,2025-04-17,500 mg,Twice Daily,28
+RX00514,P0165,D029,Pantoprazole,2025-05-21,20 mg,Twice Daily,30
+RX00515,P0029,D036,Azithromycin,2025-08-13,40 mg,Once Daily,7
+RX00516,P0467,D023,Atorvastatin,2025-11-03,10 mg,Three Times Daily,12
+RX00517,P0035,D027,Omeprazole,2025-12-14,40 mg,Twice Daily,30
+RX00518,P0237,D018,Cetirizine,2025-11-05,500 mg,Three Times Daily,5
+RX00519,P0294,D018,Omeprazole,2025-02-05,10 mg,Once Daily,15
+RX00520,P0090,D009,Amoxicillin,2025-05-13,20 mg,Once Daily,18
+RX00521,P0203,D003,Atorvastatin,2025-01-25,20 mg,Three Times Daily,17
+RX00522,P0228,D007,Cetirizine,2025-12-03,10 mg,Twice Daily,4
+RX00523,P0419,D015,Paracetamol,2025-02-06,40 mg,As Needed,5
+RX00524,P0068,D030,Omeprazole,2025-01-19,10 mg,As Needed,22
+RX00525,P0131,D009,Omeprazole,2025-02-04,40 mg,Once Daily,20
+RX00526,P0365,D027,Metformin,2025-12-29,10 mg,Twice Daily,22
+RX00527,P0111,D036,Atorvastatin,2025-11-06,40 mg,As Needed,22
+RX00528,P0012,D018,Omeprazole,2025-01-06,250 mg,Twice Daily,17
+RX00529,P0288,D031,Azithromycin,2025-07-18,10 mg,Three Times Daily,24
+RX00530,P0175,D017,Amoxicillin,2025-02-03,40 mg,Once Daily,30
+RX00531,P0319,D006,Azithromycin,2025-02-25,500 mg,Three Times Daily,7
+RX00532,P0154,D039,Atorvastatin,2025-09-13,500 mg,Three Times Daily,25
+RX00533,P0043,D025,Amlodipine,2025-07-30,10 mg,Three Times Daily,13
+RX00534,P0363,D038,Amoxicillin,2025-04-07,10 mg,Twice Daily,25
+RX00535,P0205,D038,Amlodipine,2025-10-09,20 mg,As Needed,5
+RX00536,P0172,D031,Pantoprazole,2025-08-29,40 mg,Three Times Daily,11
+RX00537,P0294,D029,Amlodipine,2025-06-19,10 mg,Once Daily,9
+RX00538,P0285,D040,Amlodipine,2025-12-13,500 mg,Twice Daily,25
+RX00539,P0311,D009,Ibuprofen,2025-10-21,500 mg,As Needed,4
+RX00540,P0052,D001,Amlodipine,2025-08-15,500 mg,Three Times Daily,17
+RX00541,P0115,D016,Pantoprazole,2025-11-11,40 mg,Once Daily,14
+RX00542,P0019,D038,Omeprazole,2025-05-07,250 mg,Three Times Daily,18
+RX00543,P0035,D023,Cetirizine,2025-10-07,10 mg,As Needed,28
+RX00544,P0048,D008,Amlodipine,2025-01-21,250 mg,As Needed,18
+RX00545,P0233,D012,Pantoprazole,2025-11-12,40 mg,Three Times Daily,18
+RX00546,P0219,D010,Metformin,2025-09-03,10 mg,Three Times Daily,21
+RX00547,P0110,D016,Amlodipine,2025-03-31,20 mg,Twice Daily,5
+RX00548,P0254,D024,Cetirizine,2025-01-06,10 mg,As Needed,30
+RX00549,P0188,D039,Cetirizine,2025-09-23,10 mg,As Needed,24
+RX00550,P0031,D008,Metformin,2025-04-07,10 mg,Three Times Daily,22
+RX00551,P0259,D011,Omeprazole,2025-05-30,10 mg,Once Daily,6
+RX00552,P0163,D026,Ibuprofen,2025-03-21,10 mg,Three Times Daily,3
+RX00553,P0344,D007,Azithromycin,2025-01-17,40 mg,Three Times Daily,24
+RX00554,P0308,D015,Ibuprofen,2025-05-18,10 mg,As Needed,10
+RX00555,P0071,D015,Azithromycin,2025-05-20,40 mg,Twice Daily,26
+RX00556,P0307,D003,Amlodipine,2025-12-05,10 mg,Three Times Daily,17
+RX00557,P0056,D016,Metformin,2025-02-09,10 mg,Once Daily,26
+RX00558,P0099,D015,Atorvastatin,2025-06-17,40 mg,Once Daily,23
+RX00559,P0021,D025,Azithromycin,2025-03-15,10 mg,Three Times Daily,28
+RX00560,P0385,D033,Amoxicillin,2025-03-15,500 mg,Once Daily,24
+RX00561,P0108,D014,Cetirizine,2025-02-19,10 mg,Once Daily,7
+RX00562,P0053,D024,Amlodipine,2025-01-10,20 mg,Three Times Daily,22
+RX00563,P0006,D011,Amlodipine,2025-04-13,40 mg,Once Daily,14
+RX00564,P0231,D003,Cetirizine,2025-12-16,10 mg,Once Daily,22
+RX00565,P0482,D009,Paracetamol,2025-10-26,10 mg,Three Times Daily,22
+RX00566,P0082,D006,Cetirizine,2025-12-05,40 mg,As Needed,6
+RX00567,P0446,D031,Omeprazole,2025-04-14,250 mg,Twice Daily,24
+RX00568,P0217,D016,Atorvastatin,2025-10-17,500 mg,Twice Daily,17
+RX00569,P0335,D011,Cetirizine,2025-10-07,500 mg,As Needed,8
+RX00570,P0047,D017,Ibuprofen,2025-05-22,10 mg,Three Times Daily,7
+RX00571,P0352,D003,Amoxicillin,2025-10-24,40 mg,As Needed,30
+RX00572,P0362,D019,Azithromycin,2025-06-19,20 mg,Twice Daily,13
+RX00573,P0241,D024,Pantoprazole,2025-01-13,10 mg,Twice Daily,16
+RX00574,P0178,D008,Ibuprofen,2025-06-06,500 mg,Twice Daily,13
+RX00575,P0082,D036,Omeprazole,2025-06-23,10 mg,Twice Daily,11
+RX00576,P0287,D040,Omeprazole,2025-06-11,40 mg,Three Times Daily,26
+RX00577,P0192,D002,Cetirizine,2025-05-12,20 mg,Twice Daily,12
+RX00578,P0413,D023,Pantoprazole,2025-01-28,250 mg,Twice Daily,8
+RX00579,P0143,D040,Atorvastatin,2025-03-24,20 mg,Three Times Daily,13
+RX00580,P0314,D030,Azithromycin,2025-12-29,10 mg,As Needed,11
+RX00581,P0279,D025,Metformin,2025-09-26,500 mg,Three Times Daily,7
+RX00582,P0422,D007,Amlodipine,2025-09-08,40 mg,Twice Daily,12
+RX00583,P0041,D028,Amlodipine,2025-04-16,10 mg,Once Daily,22
+RX00584,P0459,D017,Azithromycin,2025-09-18,250 mg,Three Times Daily,16
+RX00585,P0271,D032,Metformin,2025-12-19,40 mg,Three Times Daily,8
+RX00586,P0087,D001,Azithromycin,2025-01-14,40 mg,As Needed,6
+RX00587,P0003,D027,Amoxicillin,2025-03-21,40 mg,Twice Daily,26
+RX00588,P0211,D036,Pantoprazole,2025-06-09,10 mg,Once Daily,25
+RX00589,P0001,D007,Amlodipine,2025-06-27,250 mg,Three Times Daily,23
+RX00590,P0472,D003,Metformin,2025-06-04,10 mg,Three Times Daily,12
+RX00591,P0497,D030,Atorvastatin,2025-02-04,40 mg,Three Times Daily,24
+RX00592,P0075,D001,Cetirizine,2025-09-16,40 mg,Once Daily,13
+RX00593,P0478,D034,Ibuprofen,2025-09-17,500 mg,Three Times Daily,18
+RX00594,P0498,D038,Amlodipine,2025-05-15,20 mg,Three Times Daily,9
+RX00595,P0395,D036,Omeprazole,2025-05-11,10 mg,Once Daily,20
+RX00596,P0444,D033,Paracetamol,2025-03-22,250 mg,Three Times Daily,27
+RX00597,P0231,D016,Azithromycin,2025-02-28,40 mg,Once Daily,9
+RX00598,P0449,D038,Atorvastatin,2025-03-15,10 mg,As Needed,26
+RX00599,P0076,D011,Azithromycin,2025-08-27,20 mg,Once Daily,23
+RX00600,P0260,D008,Paracetamol,2025-05-09,10 mg,As Needed,17
+RX00601,P0025,D001,Amoxicillin,2025-11-11,20 mg,Once Daily,21
+RX00602,P0200,D014,Cetirizine,2025-05-18,10 mg,Twice Daily,20
+RX00603,P0463,D030,Amlodipine,2025-04-13,500 mg,Three Times Daily,17
+RX00604,P0427,D021,Omeprazole,2025-01-09,10 mg,As Needed,20
+RX00605,P0094,D021,Azithromycin,2025-08-20,500 mg,Three Times Daily,5
+RX00606,P0424,D034,Metformin,2025-04-09,20 mg,Three Times Daily,3
+RX00607,P0352,D038,Azithromycin,2025-08-06,40 mg,Once Daily,3
+RX00608,P0108,D026,Metformin,2025-08-25,40 mg,Twice Daily,9
+RX00609,P0355,D014,Cetirizine,2025-08-10,10 mg,Once Daily,12
+RX00610,P0469,D040,Ibuprofen,2025-06-17,250 mg,Three Times Daily,14
+RX00611,P0095,D035,Amlodipine,2025-03-03,10 mg,Once Daily,29
+RX00612,P0356,D018,Ibuprofen,2025-11-14,500 mg,As Needed,10
+RX00613,P0091,D020,Ibuprofen,2025-01-10,500 mg,Twice Daily,24
+RX00614,P0044,D009,Amlodipine,2025-08-22,20 mg,Three Times Daily,25
+RX00615,P0456,D033,Amlodipine,2025-03-28,10 mg,Once Daily,19
+RX00616,P0443,D004,Cetirizine,2025-09-24,20 mg,As Needed,16
+RX00617,P0384,D004,Omeprazole,2025-07-23,250 mg,Twice Daily,19
+RX00618,P0023,D016,Azithromycin,2025-11-14,40 mg,Once Daily,27
+RX00619,P0190,D026,Cetirizine,2025-11-29,40 mg,Once Daily,23
+RX00620,P0023,D006,Paracetamol,2025-12-26,10 mg,Three Times Daily,25
+RX00621,P0234,D037,Pantoprazole,2025-08-29,20 mg,As Needed,8
+RX00622,P0186,D022,Amoxicillin,2025-02-25,20 mg,Twice Daily,22
+RX00623,P0311,D039,Amlodipine,2025-04-20,250 mg,Once Daily,19
+RX00624,P0417,D007,Azithromycin,2025-02-18,20 mg,Twice Daily,22
+RX00625,P0333,D030,Omeprazole,2025-08-31,500 mg,As Needed,28
+RX00626,P0063,D010,Atorvastatin,2025-01-16,500 mg,Three Times Daily,28
+RX00627,P0103,D015,Omeprazole,2025-03-14,500 mg,Three Times Daily,10
+RX00628,P0500,D006,Amoxicillin,2025-07-21,10 mg,Three Times Daily,15
+RX00629,P0316,D024,Paracetamol,2025-04-03,500 mg,Twice Daily,18
+RX00630,P0483,D002,Atorvastatin,2025-05-17,500 mg,Twice Daily,14
+RX00631,P0189,D040,Ibuprofen,2025-02-02,40 mg,Once Daily,29
+RX00632,P0336,D015,Ibuprofen,2025-03-29,10 mg,As Needed,19
+RX00633,P0460,D021,Amlodipine,2025-07-22,500 mg,As Needed,20
+RX00634,P0189,D018,Ibuprofen,2025-02-08,250 mg,As Needed,10
+RX00635,P0351,D005,Metformin,2025-04-24,500 mg,Twice Daily,20
+RX00636,P0069,D025,Azithromycin,2025-11-29,10 mg,Three Times Daily,13
+RX00637,P0114,D036,Metformin,2025-09-04,20 mg,As Needed,15
+RX00638,P0104,D010,Amlodipine,2025-12-09,40 mg,Once Daily,14
+RX00639,P0108,D023,Cetirizine,2025-07-27,40 mg,Twice Daily,17
+RX00640,P0345,D024,Amoxicillin,2025-11-08,10 mg,Three Times Daily,28
+RX00641,P0021,D010,Atorvastatin,2025-10-24,500 mg,As Needed,27
+RX00642,P0387,D006,Atorvastatin,2025-12-26,250 mg,Three Times Daily,5
+RX00643,P0432,D013,Ibuprofen,2025-07-30,500 mg,Once Daily,5
+RX00644,P0266,D021,Azithromycin,2025-12-21,500 mg,As Needed,8
+RX00645,P0343,D032,Pantoprazole,2025-02-28,250 mg,As Needed,5
+RX00646,P0209,D015,Omeprazole,2025-06-05,40 mg,Three Times Daily,11
+RX00647,P0170,D002,Atorvastatin,2025-05-02,500 mg,Twice Daily,13
+RX00648,P0483,D015,Amoxicillin,2025-04-30,20 mg,Three Times Daily,10
+RX00649,P0473,D017,Amoxicillin,2025-10-24,20 mg,Once Daily,6
+RX00650,P0194,D020,Metformin,2025-11-18,10 mg,Three Times Daily,24
+RX00651,P0347,D006,Metformin,2025-03-03,10 mg,Three Times Daily,26
+RX00652,P0430,D015,Amlodipine,2025-06-07,250 mg,As Needed,22
+RX00653,P0393,D017,Paracetamol,2025-02-09,250 mg,Twice Daily,17
+RX00654,P0123,D026,Pantoprazole,2025-08-30,10 mg,Twice Daily,7
+RX00655,P0177,D022,Ibuprofen,2025-02-09,500 mg,Twice Daily,9
+RX00656,P0004,D009,Amoxicillin,2025-12-24,40 mg,Twice Daily,10
+RX00657,P0188,D012,Atorvastatin,2025-07-09,20 mg,Three Times Daily,9
+RX00658,P0346,D022,Omeprazole,2025-08-22,250 mg,As Needed,10
+RX00659,P0352,D023,Omeprazole,2025-01-15,10 mg,As Needed,6
+RX00660,P0029,D037,Metformin,2025-05-04,20 mg,Twice Daily,3
+RX00661,P0086,D014,Metformin,2025-08-16,250 mg,Three Times Daily,24
+RX00662,P0047,D024,Cetirizine,2025-10-07,250 mg,Twice Daily,7
+RX00663,P0077,D008,Pantoprazole,2025-02-17,500 mg,Twice Daily,13
+RX00664,P0343,D026,Amlodipine,2025-07-08,250 mg,As Needed,6
+RX00665,P0191,D032,Ibuprofen,2025-10-31,40 mg,As Needed,4
+RX00666,P0031,D028,Azithromycin,2025-02-16,250 mg,Twice Daily,19
+RX00667,P0307,D032,Amoxicillin,2025-07-03,40 mg,Three Times Daily,27
+RX00668,P0169,D022,Azithromycin,2025-04-15,500 mg,Twice Daily,14
+RX00669,P0036,D009,Cetirizine,2025-09-04,40 mg,As Needed,4
+RX00670,P0245,D003,Ibuprofen,2025-09-21,20 mg,As Needed,11
+RX00671,P0424,D025,Omeprazole,2025-07-25,250 mg,Three Times Daily,8
+RX00672,P0351,D039,Atorvastatin,2025-01-18,10 mg,Twice Daily,8
+RX00673,P0188,D012,Cetirizine,2025-12-30,10 mg,Twice Daily,20
+RX00674,P0015,D029,Amlodipine,2025-09-08,40 mg,Once Daily,24
+RX00675,P0334,D003,Ibuprofen,2025-08-26,500 mg,Twice Daily,5
+RX00676,P0483,D023,Metformin,2025-12-06,40 mg,Three Times Daily,17
+RX00677,P0216,D023,Omeprazole,2025-11-17,40 mg,As Needed,9
+RX00678,P0158,D018,Azithromycin,2025-12-31,40 mg,Once Daily,15
+RX00679,P0414,D011,Ibuprofen,2025-10-29,20 mg,Three Times Daily,12
+RX00680,P0155,D036,Cetirizine,2025-03-07,20 mg,Three Times Daily,6
+RX00681,P0241,D026,Amlodipine,2025-12-02,40 mg,Once Daily,18
+RX00682,P0296,D008,Paracetamol,2025-05-30,500 mg,Twice Daily,11
+RX00683,P0462,D028,Amoxicillin,2025-07-12,250 mg,Once Daily,23
+RX00684,P0045,D018,Ibuprofen,2025-05-27,10 mg,Three Times Daily,30
+RX00685,P0495,D013,Atorvastatin,2025-07-02,20 mg,Twice Daily,12
+RX00686,P0459,D036,Paracetamol,2025-04-16,250 mg,As Needed,21
+RX00687,P0175,D040,Ibuprofen,2025-08-24,20 mg,Once Daily,19
+RX00688,P0492,D012,Paracetamol,2025-05-06,20 mg,Three Times Daily,3
+RX00689,P0346,D022,Cetirizine,2025-06-28,20 mg,Twice Daily,15
+RX00690,P0056,D002,Atorvastatin,2025-01-13,40 mg,Three Times Daily,6
+RX00691,P0054,D040,Pantoprazole,2025-08-19,40 mg,Twice Daily,17
+RX00692,P0341,D028,Paracetamol,2025-01-28,20 mg,Twice Daily,28
+RX00693,P0265,D013,Amoxicillin,2025-11-19,20 mg,Once Daily,12
+RX00694,P0374,D033,Amlodipine,2025-09-18,10 mg,As Needed,22
+RX00695,P0239,D003,Amoxicillin,2025-04-10,250 mg,Twice Daily,11
+RX00696,P0321,D034,Atorvastatin,2025-07-07,250 mg,Three Times Daily,10
+RX00697,P0108,D023,Ibuprofen,2025-12-03,500 mg,Twice Daily,22
+RX00698,P0198,D032,Atorvastatin,2025-10-27,500 mg,As Needed,8
+RX00699,P0385,D020,Azithromycin,2025-04-29,500 mg,Three Times Daily,25
+RX00700,P0214,D028,Pantoprazole,2025-02-15,40 mg,Twice Daily,12
+RX00701,P0499,D008,Amlodipine,2025-03-09,40 mg,Twice Daily,26
+RX00702,P0246,D003,Omeprazole,2025-11-01,10 mg,Once Daily,22
+RX00703,P0397,D030,Omeprazole,2025-06-20,40 mg,As Needed,19
+RX00704,P0038,D025,Cetirizine,2025-12-24,500 mg,Twice Daily,7
+RX00705,P0497,D030,Azithromycin,2025-07-15,20 mg,As Needed,16
+RX00706,P0173,D029,Metformin,2025-11-29,500 mg,Twice Daily,19
+RX00707,P0105,D030,Omeprazole,2025-01-20,10 mg,Three Times Daily,13
+RX00708,P0040,D034,Metformin,2025-04-21,20 mg,As Needed,29
+RX00709,P0479,D025,Amoxicillin,2025-05-26,40 mg,Three Times Daily,6
+RX00710,P0399,D017,Amlodipine,2025-07-11,20 mg,As Needed,25
+RX00711,P0434,D024,Metformin,2025-08-17,10 mg,Three Times Daily,25
+RX00712,P0130,D038,Metformin,2025-01-12,40 mg,Twice Daily,19
+RX00713,P0181,D028,Cetirizine,2025-08-05,250 mg,Three Times Daily,27
+RX00714,P0479,D033,Pantoprazole,2025-03-20,500 mg,Three Times Daily,4
+RX00715,P0410,D036,Pantoprazole,2025-02-05,500 mg,Twice Daily,23
+RX00716,P0194,D007,Ibuprofen,2025-09-21,10 mg,As Needed,24
+RX00717,P0331,D023,Metformin,2025-01-28,10 mg,Three Times Daily,3
+RX00718,P0289,D026,Ibuprofen,2025-03-27,500 mg,Once Daily,30
+RX00719,P0466,D014,Paracetamol,2025-07-07,20 mg,Once Daily,20
+RX00720,P0341,D028,Ibuprofen,2025-11-01,250 mg,Three Times Daily,9
+RX00721,P0059,D024,Paracetamol,2025-09-11,250 mg,Three Times Daily,24
+RX00722,P0351,D007,Amlodipine,2025-03-21,10 mg,Three Times Daily,8
+RX00723,P0026,D036,Pantoprazole,2025-07-05,10 mg,As Needed,8
+RX00724,P0478,D039,Amlodipine,2025-01-05,20 mg,Twice Daily,16
+RX00725,P0103,D015,Ibuprofen,2025-02-15,10 mg,Once Daily,25
+RX00726,P0021,D003,Omeprazole,2025-12-20,250 mg,Once Daily,28
+RX00727,P0433,D002,Metformin,2025-04-12,500 mg,As Needed,14
+RX00728,P0080,D007,Ibuprofen,2025-01-02,250 mg,Three Times Daily,16
+RX00729,P0327,D016,Azithromycin,2025-08-05,20 mg,Three Times Daily,16
+RX00730,P0470,D021,Omeprazole,2025-01-25,500 mg,Twice Daily,14
+RX00731,P0199,D009,Ibuprofen,2025-09-14,500 mg,Twice Daily,11
+RX00732,P0322,D012,Paracetamol,2025-08-11,250 mg,Once Daily,11
+RX00733,P0037,D029,Atorvastatin,2025-11-20,500 mg,Twice Daily,4
+RX00734,P0014,D024,Omeprazole,2025-03-10,500 mg,Once Daily,20
+RX00735,P0456,D033,Atorvastatin,2025-07-16,10 mg,As Needed,7
+RX00736,P0221,D014,Paracetamol,2025-09-29,500 mg,Three Times Daily,28
+RX00737,P0364,D018,Paracetamol,2025-07-01,20 mg,Three Times Daily,25
+RX00738,P0391,D005,Azithromycin,2025-01-18,500 mg,Once Daily,14
+RX00739,P0166,D015,Ibuprofen,2025-04-17,10 mg,Three Times Daily,16
+RX00740,P0173,D007,Amlodipine,2025-01-17,40 mg,As Needed,30
+RX00741,P0150,D025,Pantoprazole,2025-05-05,40 mg,Twice Daily,15
+RX00742,P0172,D014,Ibuprofen,2025-03-23,20 mg,As Needed,5
+RX00743,P0081,D040,Metformin,2025-01-04,20 mg,Three Times Daily,17
+RX00744,P0336,D036,Metformin,2025-04-25,500 mg,As Needed,17
+RX00745,P0225,D035,Azithromycin,2025-12-17,500 mg,Three Times Daily,5
+RX00746,P0359,D024,Atorvastatin,2025-12-17,40 mg,Once Daily,22
+RX00747,P0035,D015,Atorvastatin,2025-05-17,40 mg,Twice Daily,21
+RX00748,P0358,D011,Omeprazole,2025-10-14,250 mg,Twice Daily,17
+RX00749,P0188,D024,Amlodipine,2025-08-16,40 mg,Three Times Daily,21
+RX00750,P0224,D011,Amlodipine,2025-01-16,40 mg,Three Times Daily,10
+RX00751,P0131,D017,Pantoprazole,2025-10-25,20 mg,Twice Daily,25
+RX00752,P0374,D006,Metformin,2025-07-31,250 mg,As Needed,15
+RX00753,P0451,D021,Amlodipine,2025-09-03,250 mg,As Needed,25
+RX00754,P0456,D008,Amoxicillin,2025-10-13,500 mg,As Needed,12
+RX00755,P0494,D015,Ibuprofen,2025-10-09,500 mg,Twice Daily,4
+RX00756,P0351,D032,Amlodipine,2025-06-26,250 mg,Once Daily,13
+RX00757,P0311,D010,Amoxicillin,2025-01-31,250 mg,Three Times Daily,27
+RX00758,P0009,D028,Omeprazole,2025-02-19,500 mg,Three Times Daily,24
+RX00759,P0069,D015,Amoxicillin,2025-05-23,20 mg,Twice Daily,21
+RX00760,P0028,D012,Pantoprazole,2025-02-21,20 mg,Once Daily,11
+RX00761,P0399,D018,Amlodipine,2025-08-21,20 mg,Twice Daily,11
+RX00762,P0369,D037,Ibuprofen,2025-06-15,20 mg,As Needed,8
+RX00763,P0475,D024,Metformin,2025-02-07,500 mg,As Needed,12
+RX00764,P0234,D037,Cetirizine,2025-01-20,10 mg,Three Times Daily,24
+RX00765,P0031,D029,Omeprazole,2025-04-09,40 mg,Three Times Daily,26
+RX00766,P0315,D010,Amoxicillin,2025-08-03,40 mg,Three Times Daily,10
+RX00767,P0232,D014,Pantoprazole,2025-02-13,40 mg,Three Times Daily,17
+RX00768,P0338,D016,Metformin,2025-04-21,40 mg,As Needed,8
+RX00769,P0486,D037,Cetirizine,2025-03-30,500 mg,As Needed,9
+RX00770,P0497,D011,Ibuprofen,2025-11-15,10 mg,Once Daily,22
+RX00771,P0054,D026,Amoxicillin,2025-04-28,500 mg,Three Times Daily,19
+RX00772,P0452,D040,Amlodipine,2025-08-27,10 mg,Twice Daily,6
+RX00773,P0469,D019,Amlodipine,2025-03-13,500 mg,Once Daily,10
+RX00774,P0175,D018,Cetirizine,2025-11-06,250 mg,Once Daily,30
+RX00775,P0298,D030,Atorvastatin,2025-10-31,10 mg,As Needed,15
+RX00776,P0279,D032,Azithromycin,2025-06-12,40 mg,Three Times Daily,26
+RX00777,P0365,D023,Paracetamol,2025-09-08,10 mg,Once Daily,16
+RX00778,P0086,D012,Metformin,2025-12-23,20 mg,Three Times Daily,20
+RX00779,P0065,D013,Azithromycin,2025-07-14,10 mg,As Needed,25
+RX00780,P0089,D021,Amoxicillin,2025-03-01,20 mg,Once Daily,19
+RX00781,P0054,D021,Pantoprazole,2025-04-08,20 mg,Once Daily,20
+RX00782,P0118,D029,Amlodipine,2025-12-22,250 mg,Twice Daily,16
+RX00783,P0361,D029,Omeprazole,2025-12-21,10 mg,As Needed,26
+RX00784,P0476,D027,Amlodipine,2025-03-14,250 mg,Twice Daily,13
+RX00785,P0229,D029,Cetirizine,2025-08-10,40 mg,As Needed,12
+RX00786,P0267,D015,Amoxicillin,2025-04-29,10 mg,Twice Daily,15
+RX00787,P0319,D012,Omeprazole,2025-07-01,500 mg,As Needed,22
+RX00788,P0022,D019,Pantoprazole,2025-08-06,500 mg,As Needed,18
+RX00789,P0438,D012,Pantoprazole,2025-09-13,500 mg,Once Daily,16
+RX00790,P0247,D023,Omeprazole,2025-03-29,20 mg,Twice Daily,5
+RX00791,P0473,D005,Paracetamol,2025-12-27,500 mg,Twice Daily,20
+RX00792,P0373,D026,Amoxicillin,2025-10-02,40 mg,Twice Daily,29
+RX00793,P0469,D010,Ibuprofen,2025-12-02,10 mg,Once Daily,8
+RX00794,P0420,D022,Cetirizine,2025-01-26,10 mg,Three Times Daily,22
+RX00795,P0314,D039,Metformin,2025-05-01,20 mg,As Needed,5
+RX00796,P0020,D023,Pantoprazole,2025-10-16,20 mg,Twice Daily,21
+RX00797,P0400,D011,Amoxicillin,2025-12-28,20 mg,As Needed,28
+RX00798,P0476,D028,Atorvastatin,2025-01-30,40 mg,Once Daily,5
+RX00799,P0184,D031,Amoxicillin,2025-07-21,10 mg,As Needed,14
+RX00800,P0349,D008,Atorvastatin,2025-02-05,250 mg,Once Daily,10

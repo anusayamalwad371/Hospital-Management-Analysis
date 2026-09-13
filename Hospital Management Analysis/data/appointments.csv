@@ -1,0 +1,1201 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_type,status,payment_method
+A00001,P0451,D006,2025-04-12,Routine Checkup,Cancelled,Insurance
+A00002,P0412,D038,2025-08-04,New Visit,Scheduled,Cash
+A00003,P0131,D028,2025-07-07,Routine Checkup,Completed,Insurance
+A00004,P0237,D001,2025-02-26,Routine Checkup,Completed,UPI
+A00005,P0246,D035,2025-02-16,New Visit,Completed,Cash
+A00006,P0226,D040,2025-06-08,Follow-up,Completed,Insurance
+A00007,P0208,D008,2025-06-23,New Visit,Scheduled,UPI
+A00008,P0406,D007,2025-08-30,Follow-up,Cancelled,Card
+A00009,P0096,D011,2025-10-09,Routine Checkup,Scheduled,Cash
+A00010,P0422,D039,2025-08-29,Emergency,Completed,Card
+A00011,P0200,D004,2025-01-05,Routine Checkup,Scheduled,Insurance
+A00012,P0247,D025,2025-03-25,Routine Checkup,Completed,UPI
+A00013,P0072,D012,2025-11-04,Follow-up,Scheduled,Card
+A00014,P0318,D026,2025-12-27,Routine Checkup,Completed,Cash
+A00015,P0185,D038,2025-09-05,Follow-up,Completed,Card
+A00016,P0006,D012,2025-02-23,Routine Checkup,Completed,UPI
+A00017,P0206,D037,2025-06-10,New Visit,Scheduled,UPI
+A00018,P0032,D024,2025-08-14,Routine Checkup,Completed,UPI
+A00019,P0099,D016,2025-01-15,New Visit,Completed,Cash
+A00020,P0394,D013,2025-08-12,Follow-up,Scheduled,Insurance
+A00021,P0387,D025,2025-03-02,Routine Checkup,Completed,UPI
+A00022,P0256,D004,2025-05-02,Follow-up,Completed,UPI
+A00023,P0187,D011,2025-10-04,Emergency,Completed,UPI
+A00024,P0076,D032,2025-02-15,Follow-up,Completed,UPI
+A00025,P0177,D007,2025-10-21,Routine Checkup,Scheduled,Card
+A00026,P0315,D011,2025-03-03,New Visit,No Show,Insurance
+A00027,P0287,D028,2025-03-27,New Visit,Completed,UPI
+A00028,P0349,D023,2025-07-29,New Visit,Scheduled,Insurance
+A00029,P0255,D023,2025-03-19,Follow-up,Completed,Card
+A00030,P0325,D028,2025-07-21,New Visit,Completed,Cash
+A00031,P0190,D026,2025-10-29,Follow-up,Completed,Card
+A00032,P0308,D025,2025-08-11,Follow-up,Completed,UPI
+A00033,P0345,D029,2025-08-10,New Visit,Completed,Card
+A00034,P0127,D019,2025-01-03,Follow-up,Scheduled,Insurance
+A00035,P0425,D033,2025-01-06,Routine Checkup,No Show,UPI
+A00036,P0287,D036,2025-04-03,New Visit,Completed,Insurance
+A00037,P0254,D014,2025-01-08,Follow-up,Completed,Card
+A00038,P0213,D014,2025-08-23,Emergency,No Show,UPI
+A00039,P0250,D035,2025-04-18,Follow-up,Scheduled,Card
+A00040,P0084,D030,2025-06-10,Routine Checkup,Scheduled,UPI
+A00041,P0487,D028,2025-07-28,Follow-up,Completed,Insurance
+A00042,P0383,D017,2025-08-28,Follow-up,No Show,Card
+A00043,P0406,D003,2025-11-27,New Visit,Completed,Cash
+A00044,P0388,D016,2025-11-29,Emergency,Completed,UPI
+A00045,P0013,D030,2025-02-19,Emergency,Completed,Card
+A00046,P0045,D029,2025-01-11,New Visit,Completed,Cash
+A00047,P0127,D015,2025-12-17,Follow-up,Completed,Cash
+A00048,P0426,D025,2025-06-05,Routine Checkup,Completed,UPI
+A00049,P0114,D038,2025-03-11,Follow-up,Completed,UPI
+A00050,P0433,D038,2025-06-18,Follow-up,No Show,UPI
+A00051,P0276,D023,2025-09-29,Routine Checkup,Completed,UPI
+A00052,P0500,D025,2025-03-09,Routine Checkup,Completed,Cash
+A00053,P0205,D007,2025-12-21,Follow-up,Completed,Card
+A00054,P0337,D022,2025-09-09,Routine Checkup,Scheduled,UPI
+A00055,P0438,D017,2025-02-17,Routine Checkup,Completed,UPI
+A00056,P0420,D018,2025-07-03,Follow-up,Completed,UPI
+A00057,P0481,D010,2025-11-16,Follow-up,Completed,Card
+A00058,P0385,D010,2025-07-06,Follow-up,Scheduled,Cash
+A00059,P0399,D007,2025-03-31,Routine Checkup,Scheduled,Cash
+A00060,P0461,D038,2025-11-28,Emergency,Completed,Cash
+A00061,P0273,D027,2025-05-19,New Visit,Completed,Card
+A00062,P0408,D033,2025-12-23,Routine Checkup,Scheduled,Card
+A00063,P0058,D001,2025-03-30,Follow-up,Completed,Card
+A00064,P0328,D034,2025-10-01,New Visit,Completed,Card
+A00065,P0498,D004,2025-01-19,Follow-up,Completed,Card
+A00066,P0219,D017,2025-11-07,Follow-up,Completed,UPI
+A00067,P0109,D004,2025-12-24,Routine Checkup,Completed,Card
+A00068,P0279,D026,2025-06-03,New Visit,Completed,Cash
+A00069,P0174,D004,2025-09-17,Routine Checkup,Cancelled,Card
+A00070,P0328,D001,2025-04-18,Follow-up,Scheduled,Card
+A00071,P0264,D007,2025-10-12,New Visit,Completed,UPI
+A00072,P0315,D030,2025-02-28,Routine Checkup,Scheduled,UPI
+A00073,P0474,D009,2025-05-05,Follow-up,Completed,UPI
+A00074,P0111,D035,2025-12-20,New Visit,Completed,Card
+A00075,P0187,D008,2025-09-30,Follow-up,Completed,Card
+A00076,P0269,D024,2025-04-17,Routine Checkup,Scheduled,Insurance
+A00077,P0423,D019,2025-10-26,Follow-up,No Show,UPI
+A00078,P0229,D036,2025-09-02,New Visit,Cancelled,Card
+A00079,P0497,D027,2025-12-02,New Visit,Scheduled,Card
+A00080,P0156,D032,2025-09-04,New Visit,Cancelled,Insurance
+A00081,P0473,D014,2025-01-08,Routine Checkup,Scheduled,UPI
+A00082,P0189,D018,2025-05-21,Follow-up,Cancelled,UPI
+A00083,P0272,D028,2025-12-28,New Visit,Scheduled,Card
+A00084,P0375,D029,2025-01-08,New Visit,Completed,Card
+A00085,P0002,D016,2025-12-18,Follow-up,Completed,Insurance
+A00086,P0246,D035,2025-04-04,Routine Checkup,Completed,Cash
+A00087,P0210,D031,2025-11-17,Follow-up,Completed,Cash
+A00088,P0401,D004,2025-02-08,Routine Checkup,Completed,Insurance
+A00089,P0286,D037,2025-03-22,Follow-up,Completed,UPI
+A00090,P0359,D017,2025-07-06,New Visit,Cancelled,Card
+A00091,P0013,D039,2025-03-25,Routine Checkup,Completed,UPI
+A00092,P0096,D026,2025-03-29,Follow-up,Completed,Cash
+A00093,P0498,D039,2025-08-30,Routine Checkup,Completed,Card
+A00094,P0221,D004,2025-12-08,Routine Checkup,Scheduled,Card
+A00095,P0238,D030,2025-04-03,New Visit,Completed,UPI
+A00096,P0094,D030,2025-03-27,New Visit,Completed,UPI
+A00097,P0338,D022,2025-02-13,Routine Checkup,Cancelled,Card
+A00098,P0269,D011,2025-05-17,New Visit,Completed,Cash
+A00099,P0171,D002,2025-03-15,New Visit,Completed,Insurance
+A00100,P0469,D012,2025-02-05,New Visit,Completed,UPI
+A00101,P0094,D030,2025-04-11,New Visit,Completed,Card
+A00102,P0149,D036,2025-06-05,Routine Checkup,Scheduled,Insurance
+A00103,P0112,D018,2025-09-12,New Visit,Completed,Card
+A00104,P0055,D026,2025-06-20,Follow-up,Completed,UPI
+A00105,P0337,D007,2025-08-04,Emergency,Completed,Card
+A00106,P0424,D001,2025-06-19,Follow-up,Completed,UPI
+A00107,P0467,D026,2025-09-09,New Visit,No Show,UPI
+A00108,P0116,D023,2025-12-26,Routine Checkup,Completed,Insurance
+A00109,P0143,D026,2025-11-18,New Visit,Completed,Card
+A00110,P0201,D006,2025-02-24,Routine Checkup,Completed,Card
+A00111,P0180,D006,2025-04-01,Routine Checkup,Completed,UPI
+A00112,P0202,D008,2025-10-05,Follow-up,Completed,Cash
+A00113,P0364,D024,2025-04-11,Follow-up,Scheduled,Cash
+A00114,P0479,D022,2025-06-04,Follow-up,No Show,Card
+A00115,P0053,D019,2025-12-15,Follow-up,Scheduled,Card
+A00116,P0471,D037,2025-12-30,Routine Checkup,Scheduled,UPI
+A00117,P0384,D018,2025-05-21,Routine Checkup,Cancelled,Card
+A00118,P0180,D031,2025-06-22,Follow-up,Completed,Cash
+A00119,P0414,D037,2025-01-10,Emergency,No Show,UPI
+A00120,P0417,D030,2025-08-16,Routine Checkup,Scheduled,UPI
+A00121,P0313,D033,2025-09-22,Routine Checkup,No Show,UPI
+A00122,P0308,D010,2025-09-05,Follow-up,Completed,Cash
+A00123,P0137,D037,2025-09-04,Follow-up,Completed,Insurance
+A00124,P0182,D012,2025-06-04,New Visit,Scheduled,UPI
+A00125,P0367,D030,2025-02-03,Routine Checkup,No Show,Insurance
+A00126,P0001,D027,2025-05-09,New Visit,Scheduled,UPI
+A00127,P0044,D039,2025-06-09,Follow-up,Completed,Insurance
+A00128,P0227,D009,2025-03-30,New Visit,Completed,Card
+A00129,P0331,D021,2025-04-03,New Visit,Completed,Insurance
+A00130,P0098,D012,2025-11-23,Follow-up,No Show,Cash
+A00131,P0208,D029,2025-08-29,Routine Checkup,Completed,Card
+A00132,P0265,D033,2025-11-19,New Visit,Completed,Insurance
+A00133,P0288,D015,2025-04-27,Follow-up,Scheduled,Cash
+A00134,P0271,D002,2025-04-04,New Visit,Completed,Cash
+A00135,P0140,D039,2025-06-12,New Visit,Scheduled,UPI
+A00136,P0481,D018,2025-04-09,Follow-up,Completed,Insurance
+A00137,P0237,D003,2025-04-23,Follow-up,Scheduled,UPI
+A00138,P0462,D007,2025-12-25,New Visit,Completed,UPI
+A00139,P0441,D018,2025-04-01,Follow-up,Scheduled,Cash
+A00140,P0392,D038,2025-12-12,New Visit,Scheduled,Cash
+A00141,P0072,D037,2025-07-25,Follow-up,Completed,Card
+A00142,P0155,D033,2025-01-17,Routine Checkup,Completed,Cash
+A00143,P0190,D031,2025-10-01,Routine Checkup,Completed,Card
+A00144,P0268,D011,2025-06-22,Follow-up,Cancelled,Insurance
+A00145,P0321,D004,2025-04-26,Follow-up,Scheduled,UPI
+A00146,P0107,D018,2025-12-15,Routine Checkup,Completed,Card
+A00147,P0232,D004,2025-06-30,New Visit,Completed,Cash
+A00148,P0042,D034,2025-04-01,Routine Checkup,Completed,Card
+A00149,P0190,D029,2025-03-23,Routine Checkup,Scheduled,Cash
+A00150,P0371,D024,2025-11-20,New Visit,Scheduled,Card
+A00151,P0139,D022,2025-04-24,New Visit,Completed,UPI
+A00152,P0103,D002,2025-09-14,Routine Checkup,Completed,UPI
+A00153,P0171,D006,2025-02-27,Follow-up,Completed,Card
+A00154,P0351,D025,2025-06-03,New Visit,Completed,Cash
+A00155,P0273,D021,2025-12-31,New Visit,Completed,Card
+A00156,P0481,D016,2025-04-26,Follow-up,Completed,UPI
+A00157,P0416,D031,2025-12-09,Emergency,Completed,Card
+A00158,P0221,D014,2025-09-23,Routine Checkup,Completed,Cash
+A00159,P0213,D039,2025-11-11,Routine Checkup,Completed,Card
+A00160,P0341,D028,2025-07-22,New Visit,Completed,Cash
+A00161,P0424,D032,2025-02-10,Follow-up,Completed,UPI
+A00162,P0407,D028,2025-04-15,Follow-up,No Show,UPI
+A00163,P0056,D009,2025-07-12,Follow-up,Cancelled,Card
+A00164,P0390,D022,2025-10-05,New Visit,Completed,UPI
+A00165,P0342,D032,2025-12-20,Routine Checkup,Completed,Insurance
+A00166,P0434,D005,2025-08-25,Routine Checkup,No Show,Insurance
+A00167,P0102,D023,2025-08-09,Follow-up,Scheduled,Cash
+A00168,P0421,D005,2025-03-09,Emergency,Completed,Card
+A00169,P0493,D032,2025-07-16,New Visit,Completed,Cash
+A00170,P0192,D010,2025-09-13,Follow-up,Completed,UPI
+A00171,P0499,D039,2025-05-19,Emergency,Completed,Card
+A00172,P0310,D015,2025-11-08,Follow-up,Completed,Card
+A00173,P0200,D007,2025-05-29,Routine Checkup,Completed,Card
+A00174,P0233,D029,2025-04-09,Emergency,Cancelled,UPI
+A00175,P0433,D003,2025-03-17,Follow-up,Completed,UPI
+A00176,P0227,D019,2025-10-09,Routine Checkup,Completed,Cash
+A00177,P0371,D010,2025-04-19,New Visit,Completed,Card
+A00178,P0139,D028,2025-07-07,Follow-up,Completed,UPI
+A00179,P0344,D029,2025-07-18,Follow-up,Completed,Card
+A00180,P0305,D015,2025-10-30,Follow-up,Completed,UPI
+A00181,P0149,D035,2025-11-23,Routine Checkup,Scheduled,UPI
+A00182,P0115,D006,2025-06-03,Follow-up,Completed,UPI
+A00183,P0450,D012,2025-02-09,Routine Checkup,Cancelled,Cash
+A00184,P0063,D038,2025-05-13,Follow-up,Scheduled,UPI
+A00185,P0104,D013,2025-05-12,Follow-up,Completed,Card
+A00186,P0339,D029,2025-10-06,Routine Checkup,Completed,Insurance
+A00187,P0359,D019,2025-12-28,New Visit,Completed,UPI
+A00188,P0156,D003,2025-03-25,New Visit,Scheduled,UPI
+A00189,P0273,D008,2025-08-30,Follow-up,Scheduled,Cash
+A00190,P0006,D008,2025-04-26,New Visit,No Show,Insurance
+A00191,P0147,D020,2025-04-19,New Visit,Completed,Cash
+A00192,P0184,D004,2025-08-09,Emergency,Cancelled,Insurance
+A00193,P0486,D021,2025-02-10,Follow-up,Completed,UPI
+A00194,P0028,D003,2025-05-27,Follow-up,Completed,UPI
+A00195,P0450,D008,2025-04-22,Routine Checkup,Completed,Insurance
+A00196,P0038,D023,2025-04-13,Follow-up,Completed,Cash
+A00197,P0119,D016,2025-02-15,Routine Checkup,No Show,Card
+A00198,P0293,D013,2025-11-20,New Visit,Completed,UPI
+A00199,P0371,D003,2025-09-28,Follow-up,Completed,UPI
+A00200,P0244,D009,2025-07-14,Routine Checkup,Completed,UPI
+A00201,P0068,D014,2025-10-07,Follow-up,Scheduled,Card
+A00202,P0214,D013,2025-10-10,Routine Checkup,No Show,Card
+A00203,P0218,D007,2025-02-09,Follow-up,Completed,Cash
+A00204,P0177,D015,2025-07-08,New Visit,Completed,Insurance
+A00205,P0299,D007,2025-06-13,Follow-up,Completed,Cash
+A00206,P0164,D038,2025-01-24,Follow-up,Scheduled,UPI
+A00207,P0058,D034,2025-01-24,Routine Checkup,Completed,UPI
+A00208,P0269,D022,2025-01-04,New Visit,Completed,Cash
+A00209,P0308,D024,2025-11-19,Routine Checkup,Completed,Cash
+A00210,P0058,D037,2025-10-17,Routine Checkup,Completed,Insurance
+A00211,P0288,D001,2025-06-30,New Visit,Scheduled,UPI
+A00212,P0465,D010,2025-09-05,Follow-up,Completed,Cash
+A00213,P0105,D016,2025-04-26,Routine Checkup,Completed,Cash
+A00214,P0228,D008,2025-10-06,Routine Checkup,Completed,Card
+A00215,P0247,D025,2025-12-31,Follow-up,Completed,Insurance
+A00216,P0188,D012,2025-03-10,Follow-up,Scheduled,UPI
+A00217,P0494,D025,2025-12-17,Follow-up,Completed,Cash
+A00218,P0083,D017,2025-09-11,Emergency,Scheduled,UPI
+A00219,P0186,D026,2025-06-30,New Visit,No Show,Cash
+A00220,P0252,D014,2025-11-14,Routine Checkup,Completed,Cash
+A00221,P0355,D036,2025-06-18,New Visit,Completed,UPI
+A00222,P0238,D023,2025-11-09,New Visit,Completed,UPI
+A00223,P0360,D006,2025-09-06,Follow-up,No Show,UPI
+A00224,P0184,D005,2025-07-07,Follow-up,Completed,UPI
+A00225,P0284,D025,2025-02-23,Follow-up,Completed,Insurance
+A00226,P0385,D018,2025-11-22,Follow-up,Completed,Insurance
+A00227,P0426,D013,2025-12-23,Follow-up,No Show,Card
+A00228,P0210,D014,2025-11-09,New Visit,Completed,UPI
+A00229,P0304,D028,2025-05-18,Follow-up,Completed,UPI
+A00230,P0296,D018,2025-06-17,Routine Checkup,Completed,UPI
+A00231,P0097,D028,2025-04-13,Follow-up,Completed,Card
+A00232,P0447,D027,2025-03-26,Follow-up,Scheduled,UPI
+A00233,P0460,D032,2025-11-13,Follow-up,Completed,Insurance
+A00234,P0456,D009,2025-07-31,Routine Checkup,Scheduled,Insurance
+A00235,P0472,D040,2025-01-03,New Visit,Cancelled,UPI
+A00236,P0208,D032,2025-06-28,Emergency,Completed,Card
+A00237,P0370,D020,2025-12-08,Routine Checkup,Cancelled,Cash
+A00238,P0388,D028,2025-10-30,Emergency,Completed,UPI
+A00239,P0422,D033,2025-11-28,New Visit,Completed,UPI
+A00240,P0492,D004,2025-02-07,Emergency,Cancelled,UPI
+A00241,P0411,D034,2025-08-27,New Visit,Completed,Insurance
+A00242,P0137,D003,2025-06-18,Follow-up,Cancelled,Cash
+A00243,P0367,D026,2025-12-09,Routine Checkup,Completed,UPI
+A00244,P0400,D008,2025-11-10,New Visit,Scheduled,Card
+A00245,P0184,D006,2025-11-02,Routine Checkup,Completed,Card
+A00246,P0076,D016,2025-01-30,New Visit,Completed,UPI
+A00247,P0287,D024,2025-07-09,Routine Checkup,Completed,Insurance
+A00248,P0472,D039,2025-12-23,Follow-up,No Show,Card
+A00249,P0375,D030,2025-01-25,New Visit,No Show,UPI
+A00250,P0142,D013,2025-04-22,New Visit,Completed,Cash
+A00251,P0237,D005,2025-07-25,Routine Checkup,Scheduled,UPI
+A00252,P0025,D025,2025-07-04,New Visit,Completed,Card
+A00253,P0290,D020,2025-02-16,New Visit,Completed,Card
+A00254,P0067,D018,2025-08-16,Follow-up,Scheduled,Card
+A00255,P0250,D018,2025-02-08,Emergency,Scheduled,UPI
+A00256,P0408,D002,2025-01-16,Follow-up,Cancelled,Cash
+A00257,P0118,D010,2025-01-22,New Visit,Scheduled,Cash
+A00258,P0490,D012,2025-08-01,New Visit,Completed,UPI
+A00259,P0073,D013,2025-11-06,New Visit,Scheduled,Card
+A00260,P0282,D011,2025-05-29,New Visit,Completed,Card
+A00261,P0404,D019,2025-08-29,Follow-up,Completed,UPI
+A00262,P0448,D035,2025-09-29,Routine Checkup,Completed,UPI
+A00263,P0360,D039,2025-02-28,New Visit,Completed,UPI
+A00264,P0010,D026,2025-10-14,Follow-up,Completed,UPI
+A00265,P0211,D014,2025-07-21,Follow-up,Completed,UPI
+A00266,P0323,D024,2025-02-01,Routine Checkup,Completed,Cash
+A00267,P0152,D001,2025-06-11,Routine Checkup,Completed,Cash
+A00268,P0005,D022,2025-09-12,Routine Checkup,Completed,Cash
+A00269,P0195,D023,2025-09-11,New Visit,Completed,Cash
+A00270,P0442,D019,2025-01-09,New Visit,Completed,Cash
+A00271,P0283,D018,2025-05-19,Follow-up,No Show,Card
+A00272,P0464,D012,2025-01-10,New Visit,Scheduled,UPI
+A00273,P0113,D028,2025-08-02,Follow-up,No Show,Insurance
+A00274,P0271,D028,2025-09-30,Routine Checkup,Completed,Cash
+A00275,P0163,D033,2025-11-20,Routine Checkup,No Show,UPI
+A00276,P0460,D019,2025-02-17,Routine Checkup,Completed,UPI
+A00277,P0105,D028,2025-04-21,Follow-up,Completed,Cash
+A00278,P0181,D037,2025-06-02,Emergency,Completed,Card
+A00279,P0044,D026,2025-05-03,Follow-up,Scheduled,Cash
+A00280,P0282,D035,2025-12-23,New Visit,Completed,Insurance
+A00281,P0175,D034,2025-04-12,Routine Checkup,Completed,Insurance
+A00282,P0162,D035,2025-08-29,New Visit,Completed,UPI
+A00283,P0471,D040,2025-11-17,Follow-up,Scheduled,UPI
+A00284,P0351,D016,2025-07-10,Follow-up,Cancelled,Card
+A00285,P0434,D038,2025-08-05,Emergency,Completed,UPI
+A00286,P0340,D013,2025-02-20,Routine Checkup,Completed,Card
+A00287,P0140,D023,2025-10-19,Follow-up,Completed,Cash
+A00288,P0471,D022,2025-03-22,Routine Checkup,Cancelled,Cash
+A00289,P0132,D016,2025-03-29,New Visit,Completed,UPI
+A00290,P0087,D028,2025-07-13,Follow-up,Scheduled,UPI
+A00291,P0176,D035,2025-04-14,Routine Checkup,Completed,Insurance
+A00292,P0183,D008,2025-09-28,Emergency,Cancelled,Cash
+A00293,P0368,D022,2025-04-06,Routine Checkup,Completed,Card
+A00294,P0129,D021,2025-07-17,New Visit,Completed,UPI
+A00295,P0246,D026,2025-01-01,Emergency,Completed,UPI
+A00296,P0089,D040,2025-06-16,Emergency,Completed,UPI
+A00297,P0066,D021,2025-05-06,Routine Checkup,Completed,UPI
+A00298,P0158,D025,2025-11-09,New Visit,No Show,Cash
+A00299,P0387,D001,2025-03-22,Routine Checkup,Completed,UPI
+A00300,P0378,D006,2025-09-08,Follow-up,Cancelled,Card
+A00301,P0149,D023,2025-06-18,New Visit,Scheduled,UPI
+A00302,P0473,D023,2025-03-14,Follow-up,Completed,UPI
+A00303,P0340,D023,2025-05-21,Follow-up,No Show,Card
+A00304,P0433,D032,2025-03-11,Follow-up,Cancelled,Card
+A00305,P0116,D030,2025-09-19,Routine Checkup,Completed,UPI
+A00306,P0214,D013,2025-12-06,Follow-up,Scheduled,UPI
+A00307,P0469,D018,2025-11-04,Emergency,Completed,Insurance
+A00308,P0446,D023,2025-09-02,Follow-up,Completed,Card
+A00309,P0481,D015,2025-01-03,New Visit,No Show,UPI
+A00310,P0372,D033,2025-12-03,New Visit,Completed,UPI
+A00311,P0294,D021,2025-03-04,Follow-up,Completed,Card
+A00312,P0253,D039,2025-02-18,Follow-up,Completed,Cash
+A00313,P0143,D023,2025-03-17,New Visit,Scheduled,Insurance
+A00314,P0250,D027,2025-06-24,Follow-up,Scheduled,Cash
+A00315,P0366,D018,2025-04-19,Follow-up,Completed,Card
+A00316,P0436,D024,2025-07-02,New Visit,Cancelled,UPI
+A00317,P0463,D040,2025-07-11,Follow-up,Scheduled,UPI
+A00318,P0302,D007,2025-03-06,New Visit,Completed,Insurance
+A00319,P0025,D020,2025-12-03,Routine Checkup,Completed,UPI
+A00320,P0277,D027,2025-09-28,Routine Checkup,Cancelled,UPI
+A00321,P0472,D006,2025-04-10,Routine Checkup,Scheduled,Cash
+A00322,P0377,D027,2025-02-01,New Visit,Scheduled,Cash
+A00323,P0378,D009,2025-12-18,Routine Checkup,Completed,UPI
+A00324,P0389,D031,2025-05-08,Routine Checkup,Completed,Card
+A00325,P0070,D021,2025-12-05,Routine Checkup,Completed,Cash
+A00326,P0113,D026,2025-02-12,New Visit,Completed,Cash
+A00327,P0363,D040,2025-03-19,Emergency,Completed,UPI
+A00328,P0112,D013,2025-11-10,Routine Checkup,No Show,Card
+A00329,P0364,D023,2025-10-16,Follow-up,Completed,Card
+A00330,P0303,D020,2025-09-27,Emergency,Scheduled,Cash
+A00331,P0471,D037,2025-06-11,Follow-up,Completed,Cash
+A00332,P0452,D028,2025-07-08,Follow-up,Completed,Insurance
+A00333,P0091,D017,2025-09-04,New Visit,Completed,UPI
+A00334,P0018,D028,2025-08-04,Emergency,Completed,Insurance
+A00335,P0149,D002,2025-11-11,New Visit,Completed,Insurance
+A00336,P0476,D025,2025-12-05,Follow-up,Scheduled,Card
+A00337,P0227,D006,2025-06-17,New Visit,Scheduled,Cash
+A00338,P0214,D011,2025-12-05,Follow-up,Completed,Card
+A00339,P0360,D038,2025-07-12,New Visit,Completed,Card
+A00340,P0151,D006,2025-10-10,Emergency,Scheduled,Card
+A00341,P0192,D011,2025-12-02,Routine Checkup,Completed,UPI
+A00342,P0451,D014,2025-01-13,New Visit,Completed,UPI
+A00343,P0040,D002,2025-08-28,New Visit,Completed,Cash
+A00344,P0242,D040,2025-11-16,New Visit,Scheduled,UPI
+A00345,P0138,D003,2025-05-27,Routine Checkup,Completed,Card
+A00346,P0345,D035,2025-07-23,Follow-up,Completed,UPI
+A00347,P0180,D033,2025-03-21,Follow-up,Scheduled,UPI
+A00348,P0497,D024,2025-02-12,New Visit,Completed,UPI
+A00349,P0200,D019,2025-03-30,Emergency,Completed,Card
+A00350,P0203,D018,2025-05-28,Routine Checkup,Completed,Insurance
+A00351,P0061,D024,2025-04-05,Routine Checkup,Scheduled,Cash
+A00352,P0192,D035,2025-05-31,Emergency,Completed,UPI
+A00353,P0005,D001,2025-01-02,New Visit,Scheduled,Cash
+A00354,P0378,D036,2025-01-22,New Visit,Cancelled,Card
+A00355,P0237,D025,2025-11-09,New Visit,Completed,Card
+A00356,P0181,D034,2025-11-24,New Visit,Scheduled,Insurance
+A00357,P0311,D025,2025-01-07,New Visit,Completed,UPI
+A00358,P0037,D016,2025-07-25,New Visit,Completed,Insurance
+A00359,P0056,D034,2025-04-24,Follow-up,Completed,Cash
+A00360,P0443,D029,2025-09-29,Routine Checkup,Completed,Card
+A00361,P0237,D019,2025-03-24,Emergency,Completed,Cash
+A00362,P0358,D023,2025-06-28,Routine Checkup,Completed,Insurance
+A00363,P0349,D019,2025-07-29,Routine Checkup,Completed,UPI
+A00364,P0197,D025,2025-11-24,New Visit,Scheduled,Card
+A00365,P0073,D016,2025-05-04,Routine Checkup,Completed,Card
+A00366,P0059,D009,2025-04-23,New Visit,Scheduled,Cash
+A00367,P0240,D001,2025-01-12,Emergency,Completed,Cash
+A00368,P0002,D019,2025-05-06,Follow-up,Completed,Insurance
+A00369,P0449,D033,2025-02-22,Routine Checkup,Completed,UPI
+A00370,P0360,D034,2025-11-27,New Visit,Completed,Cash
+A00371,P0188,D016,2025-10-10,New Visit,Completed,UPI
+A00372,P0307,D040,2025-05-20,Routine Checkup,No Show,Card
+A00373,P0030,D018,2025-04-07,New Visit,Scheduled,Cash
+A00374,P0267,D034,2025-01-05,Emergency,Scheduled,UPI
+A00375,P0476,D025,2025-02-26,Routine Checkup,Completed,Cash
+A00376,P0108,D006,2025-11-30,Routine Checkup,Scheduled,UPI
+A00377,P0332,D021,2025-03-10,Routine Checkup,Completed,Insurance
+A00378,P0423,D006,2025-04-28,Routine Checkup,Completed,Insurance
+A00379,P0090,D032,2025-02-28,New Visit,Scheduled,Card
+A00380,P0205,D039,2025-02-02,Routine Checkup,Cancelled,Cash
+A00381,P0379,D031,2025-11-14,Emergency,Completed,Insurance
+A00382,P0456,D010,2025-02-19,Emergency,Completed,UPI
+A00383,P0447,D030,2025-01-19,New Visit,Completed,Cash
+A00384,P0448,D018,2025-08-02,Emergency,No Show,Insurance
+A00385,P0445,D024,2025-07-16,Routine Checkup,Completed,Card
+A00386,P0381,D009,2025-02-16,Routine Checkup,Scheduled,Card
+A00387,P0438,D031,2025-06-16,Follow-up,Completed,Card
+A00388,P0220,D015,2025-10-16,New Visit,Completed,UPI
+A00389,P0378,D004,2025-05-21,Follow-up,Completed,UPI
+A00390,P0094,D040,2025-03-25,Routine Checkup,Completed,Card
+A00391,P0457,D009,2025-07-01,Routine Checkup,Completed,UPI
+A00392,P0103,D009,2025-03-20,Follow-up,No Show,UPI
+A00393,P0223,D026,2025-08-03,New Visit,Scheduled,Card
+A00394,P0186,D004,2025-01-14,Follow-up,Scheduled,Card
+A00395,P0469,D017,2025-08-03,Follow-up,Scheduled,UPI
+A00396,P0184,D016,2025-05-08,Routine Checkup,Scheduled,Card
+A00397,P0495,D015,2025-11-06,Emergency,Completed,Card
+A00398,P0162,D035,2025-09-05,Follow-up,Scheduled,Card
+A00399,P0247,D005,2025-01-29,Follow-up,Completed,UPI
+A00400,P0031,D005,2025-10-07,New Visit,Completed,UPI
+A00401,P0052,D020,2025-12-04,Routine Checkup,Completed,UPI
+A00402,P0345,D015,2025-11-15,Follow-up,Completed,Cash
+A00403,P0076,D018,2025-07-21,Follow-up,Completed,UPI
+A00404,P0385,D002,2025-12-27,Follow-up,Scheduled,UPI
+A00405,P0439,D029,2025-02-26,Emergency,Completed,UPI
+A00406,P0278,D013,2025-08-06,Emergency,Completed,Insurance
+A00407,P0040,D004,2025-03-03,Routine Checkup,Completed,Cash
+A00408,P0101,D010,2025-06-06,New Visit,Completed,Card
+A00409,P0111,D031,2025-07-21,Follow-up,Completed,Card
+A00410,P0385,D008,2025-01-17,New Visit,Completed,Cash
+A00411,P0321,D003,2025-11-18,Emergency,Completed,Insurance
+A00412,P0249,D009,2025-01-06,New Visit,Completed,Card
+A00413,P0191,D030,2025-02-27,Follow-up,No Show,UPI
+A00414,P0490,D011,2025-11-21,Routine Checkup,No Show,Card
+A00415,P0182,D035,2025-11-14,Routine Checkup,Completed,UPI
+A00416,P0426,D037,2025-06-18,Follow-up,Completed,Card
+A00417,P0405,D013,2025-03-23,Follow-up,Completed,Cash
+A00418,P0335,D036,2025-08-07,New Visit,No Show,Card
+A00419,P0209,D013,2025-06-26,Emergency,Completed,UPI
+A00420,P0022,D012,2025-07-23,Routine Checkup,Completed,Card
+A00421,P0166,D037,2025-03-12,New Visit,No Show,UPI
+A00422,P0099,D010,2025-09-23,Follow-up,Completed,Card
+A00423,P0493,D009,2025-04-08,Routine Checkup,Completed,Card
+A00424,P0208,D007,2025-12-11,Routine Checkup,Completed,UPI
+A00425,P0008,D002,2025-10-18,New Visit,Scheduled,Card
+A00426,P0190,D023,2025-07-27,Follow-up,Scheduled,UPI
+A00427,P0175,D039,2025-01-02,New Visit,Cancelled,Insurance
+A00428,P0273,D040,2025-05-04,New Visit,Completed,UPI
+A00429,P0017,D039,2025-10-07,Routine Checkup,Completed,Card
+A00430,P0090,D021,2025-03-15,Routine Checkup,Scheduled,Card
+A00431,P0141,D023,2025-06-15,Routine Checkup,Scheduled,UPI
+A00432,P0145,D029,2025-01-22,New Visit,Completed,UPI
+A00433,P0166,D014,2025-06-03,Routine Checkup,Scheduled,UPI
+A00434,P0337,D026,2025-10-22,Follow-up,Completed,Card
+A00435,P0496,D005,2025-08-07,Follow-up,Completed,UPI
+A00436,P0078,D031,2025-06-06,Follow-up,Cancelled,UPI
+A00437,P0429,D025,2025-08-18,New Visit,Completed,Card
+A00438,P0262,D031,2025-01-20,Routine Checkup,Scheduled,UPI
+A00439,P0163,D020,2025-02-10,Follow-up,Completed,Card
+A00440,P0366,D017,2025-05-28,New Visit,Completed,UPI
+A00441,P0014,D002,2025-04-18,New Visit,Scheduled,Cash
+A00442,P0239,D025,2025-03-25,New Visit,Scheduled,Card
+A00443,P0072,D013,2025-11-18,New Visit,Completed,Cash
+A00444,P0445,D039,2025-11-05,Follow-up,Completed,UPI
+A00445,P0143,D028,2025-10-17,Routine Checkup,Completed,Insurance
+A00446,P0310,D006,2025-11-19,New Visit,Completed,UPI
+A00447,P0283,D003,2025-05-14,New Visit,Scheduled,Insurance
+A00448,P0269,D035,2025-07-26,Follow-up,Scheduled,Insurance
+A00449,P0241,D018,2025-10-10,Routine Checkup,Completed,UPI
+A00450,P0415,D011,2025-09-23,Follow-up,Completed,Cash
+A00451,P0245,D020,2025-03-14,Follow-up,Completed,Card
+A00452,P0163,D005,2025-12-18,Follow-up,Scheduled,UPI
+A00453,P0060,D019,2025-02-17,New Visit,Completed,Cash
+A00454,P0006,D022,2025-11-22,New Visit,Completed,Card
+A00455,P0197,D019,2025-08-21,Routine Checkup,Completed,Cash
+A00456,P0470,D016,2025-04-10,Emergency,Completed,Insurance
+A00457,P0058,D024,2025-02-28,Follow-up,Completed,Cash
+A00458,P0305,D004,2025-09-15,Routine Checkup,Completed,Cash
+A00459,P0407,D015,2025-03-06,Emergency,Scheduled,Cash
+A00460,P0217,D025,2025-03-24,New Visit,Scheduled,Insurance
+A00461,P0418,D035,2025-06-03,Follow-up,No Show,Card
+A00462,P0026,D014,2025-09-23,New Visit,Completed,Card
+A00463,P0303,D019,2025-11-05,New Visit,Completed,UPI
+A00464,P0005,D038,2025-03-20,Emergency,Cancelled,UPI
+A00465,P0474,D036,2025-11-11,Routine Checkup,Completed,UPI
+A00466,P0020,D007,2025-05-30,Routine Checkup,Scheduled,UPI
+A00467,P0390,D030,2025-02-17,Emergency,Cancelled,Card
+A00468,P0198,D019,2025-09-05,New Visit,Completed,Card
+A00469,P0059,D025,2025-10-05,New Visit,Scheduled,UPI
+A00470,P0448,D016,2025-12-22,Routine Checkup,Scheduled,Insurance
+A00471,P0242,D040,2025-04-08,Follow-up,Completed,Cash
+A00472,P0146,D008,2025-01-25,Emergency,Completed,Insurance
+A00473,P0388,D018,2025-10-11,Routine Checkup,Completed,Cash
+A00474,P0273,D028,2025-10-28,Routine Checkup,Completed,UPI
+A00475,P0249,D016,2025-03-09,Routine Checkup,Completed,UPI
+A00476,P0014,D019,2025-01-07,New Visit,Completed,UPI
+A00477,P0462,D017,2025-11-01,Routine Checkup,Scheduled,Card
+A00478,P0013,D013,2025-05-17,Routine Checkup,Completed,UPI
+A00479,P0391,D007,2025-06-13,New Visit,Completed,UPI
+A00480,P0384,D027,2025-03-24,Emergency,Cancelled,Card
+A00481,P0044,D010,2025-05-18,Follow-up,Completed,Card
+A00482,P0375,D034,2025-03-14,Routine Checkup,Scheduled,Card
+A00483,P0399,D036,2025-08-25,New Visit,Completed,UPI
+A00484,P0019,D025,2025-02-15,Follow-up,Completed,Card
+A00485,P0063,D006,2025-04-16,New Visit,Completed,Card
+A00486,P0491,D024,2025-10-15,Routine Checkup,No Show,UPI
+A00487,P0239,D018,2025-09-19,New Visit,Completed,UPI
+A00488,P0492,D023,2025-06-25,New Visit,No Show,UPI
+A00489,P0419,D006,2025-06-15,Follow-up,Completed,Cash
+A00490,P0337,D029,2025-05-25,Routine Checkup,Completed,UPI
+A00491,P0419,D025,2025-11-26,New Visit,Completed,Cash
+A00492,P0403,D017,2025-10-10,New Visit,Scheduled,Card
+A00493,P0404,D024,2025-02-23,Routine Checkup,Scheduled,Card
+A00494,P0100,D011,2025-06-27,Follow-up,Completed,Insurance
+A00495,P0163,D026,2025-09-01,Routine Checkup,Completed,Card
+A00496,P0416,D034,2025-12-07,New Visit,Completed,Cash
+A00497,P0122,D028,2025-05-07,Emergency,Completed,Insurance
+A00498,P0432,D003,2025-09-28,New Visit,Completed,Insurance
+A00499,P0044,D011,2025-05-12,New Visit,Scheduled,UPI
+A00500,P0360,D038,2025-04-03,Emergency,Scheduled,Card
+A00501,P0408,D014,2025-03-14,Follow-up,Completed,Insurance
+A00502,P0317,D026,2025-09-05,Routine Checkup,Completed,UPI
+A00503,P0381,D021,2025-12-14,Follow-up,Scheduled,Insurance
+A00504,P0145,D039,2025-09-30,Follow-up,Scheduled,Cash
+A00505,P0327,D030,2025-02-12,Follow-up,Completed,Cash
+A00506,P0363,D008,2025-02-10,Routine Checkup,Completed,UPI
+A00507,P0050,D020,2025-06-19,New Visit,Completed,Card
+A00508,P0065,D032,2025-07-31,New Visit,Completed,Card
+A00509,P0355,D022,2025-06-17,Follow-up,Completed,Insurance
+A00510,P0288,D007,2025-02-08,Follow-up,Completed,UPI
+A00511,P0164,D009,2025-09-02,New Visit,Cancelled,Cash
+A00512,P0141,D001,2025-05-31,Routine Checkup,Completed,Card
+A00513,P0454,D029,2025-04-21,New Visit,Completed,Card
+A00514,P0314,D008,2025-02-16,Routine Checkup,Completed,Cash
+A00515,P0128,D004,2025-03-04,New Visit,Scheduled,UPI
+A00516,P0398,D035,2025-08-13,Emergency,Scheduled,Card
+A00517,P0421,D003,2025-03-10,Routine Checkup,Completed,Card
+A00518,P0368,D040,2025-10-26,New Visit,Completed,UPI
+A00519,P0463,D007,2025-10-17,Routine Checkup,Scheduled,UPI
+A00520,P0239,D027,2025-10-23,Follow-up,Completed,Insurance
+A00521,P0324,D001,2025-07-22,Routine Checkup,Completed,Card
+A00522,P0296,D027,2025-03-02,Emergency,Completed,UPI
+A00523,P0187,D016,2025-11-14,Follow-up,Completed,UPI
+A00524,P0208,D038,2025-11-10,New Visit,Completed,Card
+A00525,P0220,D007,2025-06-10,Follow-up,Scheduled,UPI
+A00526,P0400,D023,2025-11-27,New Visit,Completed,Cash
+A00527,P0190,D011,2025-01-16,New Visit,Completed,UPI
+A00528,P0388,D033,2025-12-04,New Visit,Scheduled,UPI
+A00529,P0429,D036,2025-04-04,Follow-up,Completed,Card
+A00530,P0346,D037,2025-10-31,Routine Checkup,Completed,Cash
+A00531,P0284,D017,2025-05-18,New Visit,Completed,Card
+A00532,P0352,D035,2025-12-04,New Visit,Completed,UPI
+A00533,P0237,D005,2025-02-07,Emergency,Completed,Cash
+A00534,P0194,D032,2025-05-07,New Visit,Completed,Cash
+A00535,P0287,D003,2025-10-02,New Visit,Cancelled,Insurance
+A00536,P0259,D035,2025-06-13,New Visit,Cancelled,Insurance
+A00537,P0246,D014,2025-11-15,Routine Checkup,Cancelled,UPI
+A00538,P0136,D031,2025-03-18,Routine Checkup,Completed,Card
+A00539,P0280,D031,2025-06-23,Follow-up,Completed,Card
+A00540,P0271,D017,2025-12-24,Emergency,Completed,Insurance
+A00541,P0171,D024,2025-11-17,Follow-up,Completed,UPI
+A00542,P0159,D023,2025-04-01,Emergency,Scheduled,Card
+A00543,P0201,D018,2025-08-26,Emergency,Completed,Cash
+A00544,P0487,D014,2025-09-21,Emergency,Completed,UPI
+A00545,P0045,D015,2025-06-28,New Visit,No Show,Insurance
+A00546,P0450,D015,2025-07-28,New Visit,Completed,UPI
+A00547,P0264,D006,2025-03-14,Follow-up,Completed,UPI
+A00548,P0071,D027,2025-04-17,Routine Checkup,Scheduled,Cash
+A00549,P0364,D015,2025-12-11,Follow-up,Scheduled,Card
+A00550,P0371,D036,2025-10-22,Routine Checkup,Cancelled,Card
+A00551,P0103,D008,2025-10-11,Routine Checkup,Completed,UPI
+A00552,P0490,D015,2025-12-19,New Visit,Completed,Insurance
+A00553,P0125,D003,2025-07-01,Emergency,No Show,Cash
+A00554,P0313,D013,2025-02-06,Emergency,Completed,UPI
+A00555,P0464,D034,2025-05-17,Routine Checkup,Completed,Insurance
+A00556,P0483,D024,2025-12-04,Routine Checkup,Scheduled,UPI
+A00557,P0286,D040,2025-02-25,Emergency,Completed,UPI
+A00558,P0458,D032,2025-07-06,New Visit,No Show,UPI
+A00559,P0230,D032,2025-12-07,Routine Checkup,Completed,Card
+A00560,P0146,D030,2025-09-15,New Visit,Completed,Cash
+A00561,P0370,D013,2025-02-27,Routine Checkup,Completed,Insurance
+A00562,P0197,D001,2025-12-29,Routine Checkup,Scheduled,Card
+A00563,P0373,D034,2025-05-03,Follow-up,Completed,Cash
+A00564,P0221,D015,2025-07-07,Emergency,Completed,Card
+A00565,P0423,D014,2025-08-18,Follow-up,Cancelled,UPI
+A00566,P0060,D029,2025-06-17,Follow-up,Cancelled,UPI
+A00567,P0098,D034,2025-04-24,Follow-up,Scheduled,Card
+A00568,P0171,D018,2025-09-09,Routine Checkup,Completed,Insurance
+A00569,P0382,D007,2025-04-17,Routine Checkup,Completed,Cash
+A00570,P0173,D029,2025-02-06,Routine Checkup,Scheduled,UPI
+A00571,P0151,D031,2025-12-01,New Visit,Cancelled,UPI
+A00572,P0453,D025,2025-04-02,Routine Checkup,Completed,UPI
+A00573,P0350,D038,2025-01-18,Routine Checkup,Completed,UPI
+A00574,P0390,D014,2025-12-20,New Visit,Scheduled,Cash
+A00575,P0440,D008,2025-03-04,New Visit,Completed,Card
+A00576,P0122,D027,2025-05-30,New Visit,Cancelled,UPI
+A00577,P0494,D002,2025-05-19,Routine Checkup,Completed,Cash
+A00578,P0108,D017,2025-07-05,Emergency,Completed,Card
+A00579,P0004,D037,2025-07-04,Routine Checkup,Completed,Card
+A00580,P0093,D014,2025-07-24,New Visit,Completed,UPI
+A00581,P0407,D025,2025-09-17,Routine Checkup,Completed,UPI
+A00582,P0006,D030,2025-08-02,New Visit,Completed,Card
+A00583,P0288,D029,2025-09-13,Follow-up,Completed,UPI
+A00584,P0106,D020,2025-05-15,Emergency,No Show,UPI
+A00585,P0146,D021,2025-03-02,New Visit,Scheduled,Card
+A00586,P0271,D022,2025-12-29,Routine Checkup,No Show,Cash
+A00587,P0424,D035,2025-11-06,New Visit,Completed,Cash
+A00588,P0378,D037,2025-03-29,Emergency,Completed,Cash
+A00589,P0096,D016,2025-11-20,Follow-up,Completed,Cash
+A00590,P0457,D017,2025-07-26,Follow-up,Scheduled,Cash
+A00591,P0229,D016,2025-05-09,New Visit,Scheduled,Insurance
+A00592,P0202,D002,2025-11-07,New Visit,Scheduled,UPI
+A00593,P0212,D004,2025-01-03,Routine Checkup,Completed,Cash
+A00594,P0006,D021,2025-08-30,New Visit,Completed,UPI
+A00595,P0112,D039,2025-05-01,Routine Checkup,Completed,Insurance
+A00596,P0376,D034,2025-04-12,Routine Checkup,Completed,UPI
+A00597,P0379,D030,2025-02-07,New Visit,Completed,UPI
+A00598,P0447,D006,2025-12-07,New Visit,Scheduled,Insurance
+A00599,P0323,D017,2025-05-13,Emergency,Completed,UPI
+A00600,P0106,D039,2025-07-21,Routine Checkup,Completed,UPI
+A00601,P0139,D025,2025-12-14,Routine Checkup,Completed,UPI
+A00602,P0299,D005,2025-01-21,Follow-up,Scheduled,UPI
+A00603,P0401,D005,2025-08-30,Routine Checkup,Completed,UPI
+A00604,P0096,D020,2025-04-19,New Visit,Cancelled,Card
+A00605,P0388,D016,2025-10-30,Routine Checkup,Scheduled,UPI
+A00606,P0447,D037,2025-03-25,Routine Checkup,Completed,Card
+A00607,P0452,D040,2025-03-24,New Visit,Cancelled,Cash
+A00608,P0337,D009,2025-10-18,New Visit,Completed,Cash
+A00609,P0297,D005,2025-03-10,New Visit,Completed,UPI
+A00610,P0467,D002,2025-05-09,New Visit,Scheduled,Insurance
+A00611,P0389,D009,2025-07-15,Routine Checkup,No Show,UPI
+A00612,P0416,D036,2025-05-20,Follow-up,Completed,Card
+A00613,P0214,D022,2025-10-10,New Visit,Completed,UPI
+A00614,P0454,D022,2025-11-08,Follow-up,Completed,Cash
+A00615,P0291,D022,2025-08-22,Routine Checkup,Completed,Cash
+A00616,P0022,D034,2025-01-23,Emergency,Completed,UPI
+A00617,P0193,D029,2025-06-02,Follow-up,Completed,Cash
+A00618,P0468,D038,2025-10-04,New Visit,Completed,Cash
+A00619,P0150,D033,2025-03-02,Routine Checkup,Scheduled,Card
+A00620,P0368,D018,2025-11-15,Routine Checkup,Completed,Cash
+A00621,P0247,D007,2025-02-21,New Visit,Completed,Card
+A00622,P0267,D001,2025-12-10,New Visit,Completed,UPI
+A00623,P0461,D033,2025-06-02,New Visit,Scheduled,UPI
+A00624,P0251,D001,2025-08-25,New Visit,Completed,Card
+A00625,P0490,D024,2025-11-07,Follow-up,Completed,UPI
+A00626,P0003,D004,2025-10-29,Routine Checkup,Completed,UPI
+A00627,P0393,D004,2025-02-01,Follow-up,No Show,Card
+A00628,P0316,D018,2025-02-24,Routine Checkup,Completed,Insurance
+A00629,P0076,D027,2025-12-18,Follow-up,Scheduled,Cash
+A00630,P0087,D032,2025-02-05,Routine Checkup,Scheduled,Cash
+A00631,P0270,D033,2025-04-20,Routine Checkup,No Show,Insurance
+A00632,P0225,D028,2025-06-26,New Visit,Completed,UPI
+A00633,P0018,D036,2025-12-28,Follow-up,Completed,Card
+A00634,P0113,D006,2025-11-10,Emergency,Completed,UPI
+A00635,P0251,D016,2025-10-22,New Visit,Scheduled,Cash
+A00636,P0233,D034,2025-12-02,Follow-up,Completed,Card
+A00637,P0329,D023,2025-04-07,Follow-up,Completed,UPI
+A00638,P0279,D024,2025-08-01,Routine Checkup,Cancelled,UPI
+A00639,P0202,D013,2025-11-13,Follow-up,Completed,UPI
+A00640,P0083,D018,2025-05-17,Routine Checkup,Completed,Card
+A00641,P0125,D013,2025-01-06,Follow-up,Completed,Card
+A00642,P0175,D037,2025-04-19,Routine Checkup,Completed,Cash
+A00643,P0069,D039,2025-02-04,Follow-up,Scheduled,UPI
+A00644,P0047,D017,2025-02-08,Routine Checkup,Completed,Card
+A00645,P0372,D015,2025-05-30,Follow-up,Completed,Card
+A00646,P0256,D018,2025-04-28,Emergency,Completed,Card
+A00647,P0215,D023,2025-09-18,Emergency,Cancelled,Cash
+A00648,P0030,D030,2025-03-28,Follow-up,No Show,Card
+A00649,P0281,D034,2025-03-17,New Visit,Completed,Card
+A00650,P0412,D004,2025-11-09,New Visit,Cancelled,Cash
+A00651,P0482,D003,2025-08-02,New Visit,Completed,UPI
+A00652,P0237,D007,2025-10-12,Routine Checkup,Scheduled,UPI
+A00653,P0248,D018,2025-08-27,New Visit,Completed,Card
+A00654,P0368,D007,2025-06-14,New Visit,No Show,UPI
+A00655,P0495,D040,2025-03-28,Routine Checkup,Completed,Card
+A00656,P0025,D006,2025-05-21,Follow-up,Completed,Insurance
+A00657,P0074,D022,2025-06-09,Follow-up,Completed,Card
+A00658,P0206,D001,2025-02-15,New Visit,Scheduled,Insurance
+A00659,P0490,D004,2025-04-22,Routine Checkup,Completed,Insurance
+A00660,P0494,D029,2025-02-14,Routine Checkup,Scheduled,Cash
+A00661,P0314,D021,2025-09-04,Routine Checkup,Completed,Card
+A00662,P0094,D026,2025-04-14,Follow-up,Completed,UPI
+A00663,P0375,D014,2025-03-26,Routine Checkup,Completed,Insurance
+A00664,P0127,D009,2025-05-14,New Visit,Scheduled,UPI
+A00665,P0425,D012,2025-04-18,New Visit,Completed,Insurance
+A00666,P0025,D006,2025-01-18,New Visit,Scheduled,Card
+A00667,P0334,D020,2025-04-04,Follow-up,Scheduled,Card
+A00668,P0355,D024,2025-05-30,Follow-up,Scheduled,Cash
+A00669,P0116,D027,2025-09-03,Follow-up,Completed,Cash
+A00670,P0048,D038,2025-10-16,New Visit,Cancelled,Card
+A00671,P0226,D008,2025-07-28,Follow-up,No Show,Cash
+A00672,P0266,D001,2025-05-06,Routine Checkup,Completed,Card
+A00673,P0099,D024,2025-08-23,Follow-up,Completed,Cash
+A00674,P0459,D007,2025-05-02,Routine Checkup,Completed,Card
+A00675,P0011,D019,2025-05-18,New Visit,Completed,UPI
+A00676,P0085,D022,2025-04-25,Routine Checkup,Completed,Card
+A00677,P0405,D035,2025-06-11,Follow-up,Completed,Card
+A00678,P0214,D030,2025-07-20,New Visit,Completed,UPI
+A00679,P0173,D029,2025-08-22,New Visit,Completed,Cash
+A00680,P0391,D022,2025-01-28,Emergency,Cancelled,Cash
+A00681,P0209,D011,2025-01-11,Routine Checkup,Completed,Card
+A00682,P0448,D020,2025-07-25,Follow-up,Completed,UPI
+A00683,P0382,D029,2025-06-16,New Visit,Completed,Card
+A00684,P0064,D034,2025-09-04,Routine Checkup,Completed,UPI
+A00685,P0258,D001,2025-02-16,Emergency,Cancelled,UPI
+A00686,P0332,D031,2025-09-03,Follow-up,Completed,UPI
+A00687,P0121,D030,2025-05-07,Follow-up,No Show,Cash
+A00688,P0298,D018,2025-05-27,New Visit,Completed,UPI
+A00689,P0466,D017,2025-04-28,Emergency,No Show,Insurance
+A00690,P0054,D038,2025-06-01,Follow-up,Completed,Insurance
+A00691,P0331,D014,2025-03-13,Routine Checkup,Completed,UPI
+A00692,P0272,D023,2025-12-29,Follow-up,Cancelled,Card
+A00693,P0241,D025,2025-05-17,Follow-up,Completed,Card
+A00694,P0243,D015,2025-06-24,Follow-up,Cancelled,UPI
+A00695,P0018,D022,2025-10-16,Routine Checkup,Completed,Cash
+A00696,P0483,D003,2025-01-19,Routine Checkup,Completed,Cash
+A00697,P0187,D019,2025-07-14,Follow-up,Completed,UPI
+A00698,P0346,D034,2025-11-26,Routine Checkup,Completed,Insurance
+A00699,P0144,D035,2025-06-24,Follow-up,Scheduled,Card
+A00700,P0262,D001,2025-12-20,Follow-up,Cancelled,Cash
+A00701,P0441,D021,2025-05-21,New Visit,Completed,Cash
+A00702,P0364,D029,2025-09-03,Follow-up,Completed,Card
+A00703,P0491,D006,2025-04-03,New Visit,Completed,Card
+A00704,P0431,D037,2025-08-27,Routine Checkup,Scheduled,Card
+A00705,P0239,D001,2025-07-24,Follow-up,Completed,Card
+A00706,P0304,D001,2025-02-17,Routine Checkup,Completed,Cash
+A00707,P0298,D027,2025-09-02,Follow-up,Scheduled,Card
+A00708,P0076,D021,2025-11-16,Emergency,Completed,Card
+A00709,P0188,D016,2025-11-13,Follow-up,Completed,UPI
+A00710,P0333,D040,2025-10-22,New Visit,Scheduled,Card
+A00711,P0388,D026,2025-05-08,Follow-up,Completed,UPI
+A00712,P0487,D016,2025-12-10,New Visit,Completed,Cash
+A00713,P0246,D028,2025-10-09,Emergency,Completed,UPI
+A00714,P0130,D001,2025-01-17,Follow-up,Completed,Cash
+A00715,P0474,D036,2025-03-12,Routine Checkup,Completed,UPI
+A00716,P0315,D010,2025-09-26,New Visit,Scheduled,UPI
+A00717,P0411,D017,2025-11-21,New Visit,Completed,UPI
+A00718,P0283,D023,2025-10-09,Follow-up,No Show,UPI
+A00719,P0079,D007,2025-11-01,Routine Checkup,Scheduled,UPI
+A00720,P0072,D007,2025-01-07,Routine Checkup,Completed,Cash
+A00721,P0263,D015,2025-11-10,Follow-up,Completed,Card
+A00722,P0191,D034,2025-11-01,Follow-up,Completed,UPI
+A00723,P0367,D004,2025-04-13,New Visit,Scheduled,UPI
+A00724,P0375,D014,2025-11-05,Routine Checkup,Scheduled,Insurance
+A00725,P0430,D014,2025-07-12,Emergency,Completed,Card
+A00726,P0063,D016,2025-08-29,New Visit,Cancelled,Insurance
+A00727,P0488,D007,2025-03-03,Follow-up,Completed,UPI
+A00728,P0380,D032,2025-01-17,New Visit,Scheduled,Cash
+A00729,P0012,D019,2025-06-20,Routine Checkup,Completed,Card
+A00730,P0141,D002,2025-01-25,New Visit,Completed,UPI
+A00731,P0254,D010,2025-09-08,Emergency,Scheduled,UPI
+A00732,P0043,D017,2025-09-10,New Visit,Completed,Cash
+A00733,P0017,D037,2025-07-26,Routine Checkup,Completed,Card
+A00734,P0063,D012,2025-01-29,Routine Checkup,Completed,Cash
+A00735,P0253,D006,2025-04-27,Emergency,Completed,Insurance
+A00736,P0465,D022,2025-10-09,Emergency,Completed,Insurance
+A00737,P0376,D032,2025-05-24,Routine Checkup,Scheduled,UPI
+A00738,P0292,D020,2025-01-25,New Visit,Completed,Card
+A00739,P0469,D001,2025-11-06,Follow-up,Completed,Card
+A00740,P0008,D006,2025-06-05,New Visit,Cancelled,Card
+A00741,P0325,D019,2025-03-14,Routine Checkup,Completed,UPI
+A00742,P0090,D018,2025-04-30,Follow-up,Completed,Card
+A00743,P0208,D006,2025-11-08,Routine Checkup,No Show,UPI
+A00744,P0292,D033,2025-11-17,Emergency,Scheduled,Insurance
+A00745,P0284,D023,2025-04-03,New Visit,Cancelled,UPI
+A00746,P0118,D023,2025-03-27,New Visit,Cancelled,UPI
+A00747,P0349,D026,2025-12-02,New Visit,Completed,Card
+A00748,P0175,D013,2025-12-30,Follow-up,Scheduled,Card
+A00749,P0076,D007,2025-04-28,New Visit,Completed,Card
+A00750,P0101,D015,2025-08-21,New Visit,No Show,Cash
+A00751,P0414,D027,2025-07-18,Routine Checkup,Completed,UPI
+A00752,P0151,D026,2025-07-25,Routine Checkup,Scheduled,Insurance
+A00753,P0400,D033,2025-12-05,Follow-up,Cancelled,Card
+A00754,P0270,D015,2025-05-27,Follow-up,No Show,Card
+A00755,P0458,D036,2025-09-28,New Visit,Completed,Cash
+A00756,P0071,D027,2025-05-19,Emergency,Completed,UPI
+A00757,P0493,D005,2025-06-30,Routine Checkup,Completed,Card
+A00758,P0180,D002,2025-01-30,New Visit,No Show,Card
+A00759,P0124,D033,2025-02-26,New Visit,Completed,Cash
+A00760,P0381,D016,2025-08-20,Routine Checkup,Scheduled,Insurance
+A00761,P0293,D023,2025-05-26,Emergency,Scheduled,UPI
+A00762,P0285,D038,2025-02-17,New Visit,Completed,Cash
+A00763,P0195,D016,2025-07-13,Emergency,Scheduled,UPI
+A00764,P0399,D014,2025-08-12,Follow-up,Completed,UPI
+A00765,P0228,D029,2025-05-16,Follow-up,Completed,UPI
+A00766,P0431,D026,2025-01-22,Routine Checkup,Completed,Cash
+A00767,P0430,D035,2025-01-06,Routine Checkup,Completed,Cash
+A00768,P0436,D015,2025-07-23,Follow-up,No Show,Card
+A00769,P0275,D003,2025-08-27,Routine Checkup,Completed,Cash
+A00770,P0461,D023,2025-07-04,Follow-up,Cancelled,UPI
+A00771,P0106,D029,2025-12-26,Routine Checkup,Cancelled,UPI
+A00772,P0021,D034,2025-10-19,Follow-up,Cancelled,UPI
+A00773,P0064,D033,2025-12-01,Routine Checkup,Completed,Card
+A00774,P0165,D023,2025-08-08,Routine Checkup,Scheduled,UPI
+A00775,P0027,D007,2025-04-26,New Visit,Completed,Card
+A00776,P0311,D003,2025-11-09,Routine Checkup,Completed,Card
+A00777,P0500,D032,2025-02-18,Routine Checkup,Completed,Cash
+A00778,P0285,D031,2025-06-22,Routine Checkup,Completed,Cash
+A00779,P0148,D018,2025-03-23,New Visit,Scheduled,UPI
+A00780,P0281,D007,2025-11-18,Routine Checkup,Completed,UPI
+A00781,P0326,D001,2025-11-29,Routine Checkup,No Show,Card
+A00782,P0319,D014,2025-02-14,New Visit,Completed,Card
+A00783,P0164,D032,2025-12-01,Routine Checkup,Completed,UPI
+A00784,P0386,D006,2025-01-20,New Visit,Scheduled,Cash
+A00785,P0406,D039,2025-08-09,New Visit,No Show,UPI
+A00786,P0224,D010,2025-05-03,Follow-up,Completed,Card
+A00787,P0272,D007,2025-08-22,Follow-up,Completed,UPI
+A00788,P0146,D026,2025-08-09,Emergency,Completed,UPI
+A00789,P0453,D034,2025-11-19,New Visit,Completed,Cash
+A00790,P0438,D030,2025-12-05,Routine Checkup,No Show,Card
+A00791,P0356,D036,2025-01-03,New Visit,No Show,Insurance
+A00792,P0030,D021,2025-07-01,New Visit,Completed,UPI
+A00793,P0045,D017,2025-07-25,New Visit,Scheduled,UPI
+A00794,P0275,D033,2025-11-16,Follow-up,Completed,Insurance
+A00795,P0471,D010,2025-02-09,Routine Checkup,Completed,UPI
+A00796,P0034,D012,2025-02-28,Emergency,Completed,Card
+A00797,P0141,D016,2025-03-03,Routine Checkup,Completed,Cash
+A00798,P0427,D032,2025-05-12,New Visit,Completed,Card
+A00799,P0318,D015,2025-03-01,Follow-up,Completed,Cash
+A00800,P0374,D027,2025-11-27,Follow-up,Completed,Insurance
+A00801,P0221,D028,2025-05-02,Follow-up,Completed,Card
+A00802,P0356,D017,2025-04-17,New Visit,Scheduled,Card
+A00803,P0022,D002,2025-04-06,Emergency,Completed,Card
+A00804,P0180,D036,2025-12-13,Follow-up,Completed,Card
+A00805,P0436,D007,2025-08-23,Routine Checkup,No Show,UPI
+A00806,P0367,D013,2025-03-03,Follow-up,Scheduled,Insurance
+A00807,P0420,D015,2025-09-13,New Visit,Scheduled,Insurance
+A00808,P0329,D025,2025-02-18,Emergency,Completed,UPI
+A00809,P0231,D023,2025-12-14,New Visit,Completed,Insurance
+A00810,P0499,D022,2025-06-08,Routine Checkup,Completed,Card
+A00811,P0403,D026,2025-05-04,Emergency,Completed,UPI
+A00812,P0038,D033,2025-11-13,New Visit,Scheduled,UPI
+A00813,P0070,D011,2025-07-26,Routine Checkup,Completed,UPI
+A00814,P0116,D010,2025-02-17,Follow-up,Completed,Cash
+A00815,P0239,D025,2025-05-16,New Visit,Completed,UPI
+A00816,P0335,D037,2025-07-20,Emergency,Completed,UPI
+A00817,P0441,D038,2025-09-07,New Visit,No Show,UPI
+A00818,P0148,D024,2025-11-10,Routine Checkup,Completed,UPI
+A00819,P0009,D040,2025-12-23,Routine Checkup,Completed,Insurance
+A00820,P0288,D033,2025-11-14,Routine Checkup,Completed,UPI
+A00821,P0388,D017,2025-10-22,Follow-up,Completed,UPI
+A00822,P0050,D024,2025-11-10,Follow-up,Completed,Cash
+A00823,P0338,D037,2025-07-28,Routine Checkup,Completed,Cash
+A00824,P0005,D002,2025-12-21,New Visit,Completed,Card
+A00825,P0404,D032,2025-07-30,Follow-up,Cancelled,Card
+A00826,P0343,D024,2025-07-11,Follow-up,Scheduled,Card
+A00827,P0126,D009,2025-02-13,New Visit,Scheduled,Cash
+A00828,P0075,D004,2025-01-29,Follow-up,Scheduled,Card
+A00829,P0165,D017,2025-02-28,Routine Checkup,Completed,UPI
+A00830,P0278,D017,2025-03-12,Routine Checkup,Completed,UPI
+A00831,P0442,D030,2025-04-02,New Visit,Completed,Cash
+A00832,P0324,D040,2025-09-22,New Visit,Scheduled,Cash
+A00833,P0477,D011,2025-08-08,New Visit,Scheduled,UPI
+A00834,P0300,D021,2025-08-03,Routine Checkup,Scheduled,Cash
+A00835,P0290,D021,2025-10-04,New Visit,Completed,Insurance
+A00836,P0077,D018,2025-03-05,Routine Checkup,Scheduled,UPI
+A00837,P0298,D029,2025-12-12,New Visit,Completed,Cash
+A00838,P0137,D024,2025-10-19,Emergency,Completed,Cash
+A00839,P0106,D010,2025-09-02,Follow-up,Completed,Card
+A00840,P0095,D017,2025-03-03,Routine Checkup,Completed,Cash
+A00841,P0135,D018,2025-11-28,New Visit,Completed,Insurance
+A00842,P0068,D020,2025-06-19,Emergency,Completed,Insurance
+A00843,P0147,D037,2025-09-26,New Visit,Completed,UPI
+A00844,P0490,D018,2025-09-24,Routine Checkup,Completed,UPI
+A00845,P0478,D017,2025-02-23,Routine Checkup,Scheduled,Cash
+A00846,P0159,D009,2025-01-16,New Visit,Cancelled,Card
+A00847,P0384,D014,2025-01-08,Routine Checkup,Completed,UPI
+A00848,P0163,D029,2025-04-14,Follow-up,Scheduled,UPI
+A00849,P0441,D031,2025-02-28,New Visit,Scheduled,UPI
+A00850,P0341,D004,2025-11-09,Follow-up,Completed,Card
+A00851,P0189,D018,2025-02-09,New Visit,Completed,UPI
+A00852,P0415,D020,2025-08-25,Routine Checkup,Completed,Cash
+A00853,P0339,D009,2025-04-04,Routine Checkup,Completed,Card
+A00854,P0095,D013,2025-08-10,New Visit,Cancelled,Card
+A00855,P0181,D015,2025-07-23,Follow-up,Scheduled,Insurance
+A00856,P0288,D027,2025-05-18,Routine Checkup,Completed,Cash
+A00857,P0322,D015,2025-10-27,Routine Checkup,Scheduled,Card
+A00858,P0187,D028,2025-07-26,Follow-up,Scheduled,Card
+A00859,P0372,D037,2025-12-02,Routine Checkup,Scheduled,Cash
+A00860,P0138,D019,2025-03-22,Follow-up,Completed,Card
+A00861,P0130,D026,2025-08-06,Follow-up,Scheduled,UPI
+A00862,P0194,D026,2025-01-02,Routine Checkup,Completed,Insurance
+A00863,P0316,D025,2025-06-27,Follow-up,Completed,Cash
+A00864,P0472,D026,2025-12-12,Follow-up,Completed,Card
+A00865,P0273,D026,2025-10-06,Follow-up,Completed,UPI
+A00866,P0352,D028,2025-05-26,Routine Checkup,No Show,Insurance
+A00867,P0144,D018,2025-11-14,Routine Checkup,Completed,UPI
+A00868,P0016,D032,2025-08-12,Follow-up,Completed,Insurance
+A00869,P0302,D003,2025-03-03,Follow-up,Completed,Insurance
+A00870,P0423,D002,2025-10-21,Follow-up,Cancelled,UPI
+A00871,P0245,D033,2025-08-27,Follow-up,Completed,Card
+A00872,P0415,D019,2025-07-14,New Visit,Scheduled,Insurance
+A00873,P0107,D017,2025-06-15,Routine Checkup,Completed,UPI
+A00874,P0088,D033,2025-08-10,Follow-up,Completed,UPI
+A00875,P0129,D012,2025-03-02,Follow-up,Completed,UPI
+A00876,P0395,D003,2025-05-09,New Visit,Completed,UPI
+A00877,P0375,D026,2025-06-22,New Visit,Completed,Cash
+A00878,P0341,D035,2025-06-05,Routine Checkup,Completed,UPI
+A00879,P0004,D008,2025-04-20,Follow-up,Scheduled,UPI
+A00880,P0327,D036,2025-09-26,New Visit,Cancelled,UPI
+A00881,P0410,D007,2025-12-22,Follow-up,Completed,Cash
+A00882,P0367,D036,2025-10-05,Follow-up,Completed,Insurance
+A00883,P0306,D016,2025-03-15,New Visit,Scheduled,Card
+A00884,P0396,D024,2025-07-26,Follow-up,Completed,Cash
+A00885,P0095,D001,2025-10-06,Follow-up,Completed,Card
+A00886,P0209,D025,2025-11-22,Follow-up,No Show,Card
+A00887,P0225,D010,2025-12-06,Follow-up,Completed,Insurance
+A00888,P0459,D016,2025-12-23,Follow-up,Completed,Cash
+A00889,P0348,D016,2025-12-06,Routine Checkup,Completed,UPI
+A00890,P0480,D008,2025-07-23,Follow-up,Completed,Insurance
+A00891,P0321,D029,2025-06-10,New Visit,Cancelled,Insurance
+A00892,P0047,D039,2025-01-28,New Visit,Completed,Card
+A00893,P0476,D028,2025-09-14,Follow-up,Completed,Card
+A00894,P0181,D006,2025-06-14,Routine Checkup,Completed,Cash
+A00895,P0106,D016,2025-03-04,New Visit,Completed,UPI
+A00896,P0199,D020,2025-01-22,Routine Checkup,Scheduled,UPI
+A00897,P0386,D016,2025-03-11,New Visit,Scheduled,Cash
+A00898,P0106,D007,2025-04-06,Follow-up,No Show,Card
+A00899,P0280,D014,2025-06-12,Routine Checkup,Completed,Cash
+A00900,P0260,D026,2025-03-20,Follow-up,Completed,UPI
+A00901,P0108,D026,2025-01-05,Follow-up,Completed,Insurance
+A00902,P0019,D014,2025-11-12,New Visit,Completed,Cash
+A00903,P0410,D007,2025-04-30,Routine Checkup,Scheduled,Insurance
+A00904,P0459,D033,2025-10-29,New Visit,Completed,Insurance
+A00905,P0296,D026,2025-06-27,Routine Checkup,Completed,Card
+A00906,P0306,D020,2025-06-25,New Visit,Completed,Cash
+A00907,P0171,D003,2025-08-05,Routine Checkup,Cancelled,UPI
+A00908,P0331,D004,2025-02-25,Follow-up,Completed,UPI
+A00909,P0493,D026,2025-07-06,Routine Checkup,Completed,UPI
+A00910,P0195,D011,2025-08-20,Follow-up,Completed,UPI
+A00911,P0012,D002,2025-09-12,Routine Checkup,Scheduled,Insurance
+A00912,P0195,D014,2025-04-14,New Visit,Completed,Cash
+A00913,P0490,D030,2025-03-18,New Visit,Scheduled,Card
+A00914,P0283,D012,2025-08-18,Follow-up,Scheduled,Cash
+A00915,P0369,D026,2025-09-15,New Visit,Completed,Card
+A00916,P0182,D033,2025-09-21,New Visit,No Show,Insurance
+A00917,P0450,D013,2025-11-27,Routine Checkup,Completed,UPI
+A00918,P0305,D014,2025-07-01,Routine Checkup,Scheduled,Cash
+A00919,P0144,D024,2025-09-13,Follow-up,Completed,Card
+A00920,P0386,D034,2025-02-07,Routine Checkup,Completed,Card
+A00921,P0316,D026,2025-06-25,Follow-up,Completed,Card
+A00922,P0182,D021,2025-01-27,New Visit,Completed,UPI
+A00923,P0030,D028,2025-10-03,Routine Checkup,Scheduled,UPI
+A00924,P0084,D036,2025-05-20,Emergency,Completed,Insurance
+A00925,P0166,D040,2025-10-26,Routine Checkup,Cancelled,Insurance
+A00926,P0284,D002,2025-10-14,New Visit,Completed,UPI
+A00927,P0281,D009,2025-04-01,Emergency,Scheduled,Card
+A00928,P0096,D023,2025-03-02,New Visit,Completed,UPI
+A00929,P0381,D015,2025-12-31,New Visit,Completed,UPI
+A00930,P0266,D013,2025-12-13,New Visit,Completed,Cash
+A00931,P0444,D023,2025-06-12,Routine Checkup,Cancelled,UPI
+A00932,P0298,D017,2025-12-17,Routine Checkup,Completed,UPI
+A00933,P0296,D002,2025-05-23,Routine Checkup,Completed,Cash
+A00934,P0225,D020,2025-09-10,Follow-up,Completed,UPI
+A00935,P0333,D020,2025-09-26,Follow-up,No Show,Card
+A00936,P0361,D003,2025-10-18,New Visit,Completed,Card
+A00937,P0374,D012,2025-07-06,New Visit,Completed,Card
+A00938,P0042,D040,2025-10-31,Follow-up,Completed,Insurance
+A00939,P0303,D002,2025-10-18,Routine Checkup,Scheduled,Cash
+A00940,P0421,D036,2025-03-27,Follow-up,Scheduled,Card
+A00941,P0246,D014,2025-06-15,New Visit,Completed,Card
+A00942,P0208,D016,2025-04-24,New Visit,Completed,UPI
+A00943,P0237,D019,2025-12-22,New Visit,Completed,UPI
+A00944,P0022,D034,2025-07-02,Follow-up,Completed,Cash
+A00945,P0185,D006,2025-07-26,Routine Checkup,Completed,Insurance
+A00946,P0468,D013,2025-09-13,Emergency,Cancelled,UPI
+A00947,P0242,D036,2025-08-23,Routine Checkup,Completed,Insurance
+A00948,P0363,D022,2025-12-21,Follow-up,Scheduled,Card
+A00949,P0283,D018,2025-01-03,Follow-up,Completed,Card
+A00950,P0041,D012,2025-07-27,New Visit,Cancelled,Card
+A00951,P0336,D030,2025-07-16,Routine Checkup,Completed,Card
+A00952,P0162,D040,2025-12-07,Routine Checkup,Completed,UPI
+A00953,P0160,D007,2025-05-05,New Visit,Completed,UPI
+A00954,P0474,D032,2025-05-18,Follow-up,Completed,Card
+A00955,P0089,D019,2025-12-05,Follow-up,Completed,UPI
+A00956,P0322,D006,2025-01-25,Emergency,Cancelled,UPI
+A00957,P0012,D020,2025-03-09,Routine Checkup,Scheduled,Cash
+A00958,P0424,D027,2025-03-02,Follow-up,Completed,Insurance
+A00959,P0073,D037,2025-01-29,Follow-up,Completed,Cash
+A00960,P0076,D007,2025-01-19,New Visit,Completed,Card
+A00961,P0346,D005,2025-06-20,New Visit,Completed,UPI
+A00962,P0201,D011,2025-03-15,New Visit,Completed,UPI
+A00963,P0010,D015,2025-03-02,New Visit,No Show,Card
+A00964,P0352,D003,2025-06-02,Routine Checkup,Scheduled,Cash
+A00965,P0226,D005,2025-10-03,Routine Checkup,Scheduled,Card
+A00966,P0176,D023,2025-02-17,New Visit,Completed,Card
+A00967,P0276,D037,2025-07-30,Routine Checkup,Scheduled,Card
+A00968,P0039,D009,2025-12-09,New Visit,Cancelled,Cash
+A00969,P0060,D015,2025-05-19,Follow-up,Completed,Insurance
+A00970,P0066,D003,2025-04-20,New Visit,Completed,Card
+A00971,P0321,D029,2025-07-02,Follow-up,Scheduled,Insurance
+A00972,P0435,D006,2025-01-28,New Visit,Completed,UPI
+A00973,P0124,D017,2025-07-16,Follow-up,Completed,UPI
+A00974,P0164,D026,2025-07-10,Follow-up,Completed,Insurance
+A00975,P0408,D021,2025-11-11,Routine Checkup,Completed,Insurance
+A00976,P0411,D008,2025-02-20,New Visit,Completed,UPI
+A00977,P0386,D021,2025-05-29,New Visit,Scheduled,UPI
+A00978,P0159,D011,2025-09-25,New Visit,Cancelled,UPI
+A00979,P0057,D038,2025-02-19,Emergency,Cancelled,UPI
+A00980,P0078,D008,2025-09-03,New Visit,Completed,UPI
+A00981,P0194,D024,2025-04-23,Routine Checkup,Completed,UPI
+A00982,P0285,D035,2025-06-19,Follow-up,Completed,Insurance
+A00983,P0015,D014,2025-06-15,Follow-up,Completed,Cash
+A00984,P0012,D014,2025-01-14,Follow-up,Completed,Card
+A00985,P0101,D010,2025-07-22,New Visit,Completed,Cash
+A00986,P0156,D012,2025-10-15,New Visit,Completed,UPI
+A00987,P0340,D038,2025-07-08,Follow-up,Completed,Cash
+A00988,P0125,D034,2025-06-04,Follow-up,Completed,UPI
+A00989,P0359,D010,2025-02-24,New Visit,Completed,Card
+A00990,P0280,D017,2025-07-01,New Visit,Scheduled,Insurance
+A00991,P0405,D017,2025-07-29,Routine Checkup,Completed,UPI
+A00992,P0394,D003,2025-03-16,New Visit,Cancelled,UPI
+A00993,P0110,D031,2025-10-04,Routine Checkup,Completed,UPI
+A00994,P0334,D001,2025-05-13,Routine Checkup,Completed,Insurance
+A00995,P0357,D012,2025-12-09,New Visit,Scheduled,Card
+A00996,P0146,D039,2025-02-28,New Visit,Completed,UPI
+A00997,P0216,D004,2025-12-11,New Visit,Completed,Card
+A00998,P0398,D013,2025-07-01,Emergency,Cancelled,Card
+A00999,P0162,D034,2025-12-05,Emergency,Completed,Cash
+A01000,P0128,D021,2025-11-17,Routine Checkup,Scheduled,UPI
+A01001,P0314,D022,2025-03-05,Routine Checkup,Completed,Insurance
+A01002,P0332,D004,2025-11-23,Emergency,Completed,Card
+A01003,P0150,D018,2025-09-17,New Visit,Completed,UPI
+A01004,P0454,D005,2025-07-12,New Visit,Completed,UPI
+A01005,P0036,D019,2025-05-23,Routine Checkup,Scheduled,UPI
+A01006,P0173,D002,2025-04-14,New Visit,Cancelled,UPI
+A01007,P0420,D012,2025-08-02,New Visit,Completed,Card
+A01008,P0022,D017,2025-08-30,Routine Checkup,Completed,UPI
+A01009,P0206,D010,2025-07-28,Follow-up,Cancelled,Card
+A01010,P0127,D034,2025-04-03,Routine Checkup,Completed,Insurance
+A01011,P0336,D006,2025-05-22,Emergency,Completed,Cash
+A01012,P0445,D008,2025-04-22,New Visit,Completed,UPI
+A01013,P0356,D011,2025-02-28,Routine Checkup,Completed,UPI
+A01014,P0440,D012,2025-02-12,New Visit,Cancelled,Card
+A01015,P0217,D009,2025-07-26,Follow-up,Scheduled,UPI
+A01016,P0096,D002,2025-09-25,Follow-up,Completed,Card
+A01017,P0417,D008,2025-10-23,New Visit,Completed,Insurance
+A01018,P0429,D011,2025-04-28,Follow-up,Completed,UPI
+A01019,P0164,D036,2025-01-20,New Visit,Completed,Insurance
+A01020,P0148,D010,2025-08-10,Follow-up,Completed,Insurance
+A01021,P0018,D021,2025-06-15,Follow-up,Scheduled,Cash
+A01022,P0294,D020,2025-05-11,Routine Checkup,Completed,UPI
+A01023,P0195,D008,2025-06-05,Routine Checkup,Completed,Insurance
+A01024,P0151,D036,2025-07-03,New Visit,Completed,Insurance
+A01025,P0480,D029,2025-03-31,Follow-up,Completed,Cash
+A01026,P0365,D012,2025-04-04,Follow-up,Completed,Cash
+A01027,P0123,D014,2025-01-13,New Visit,Cancelled,Cash
+A01028,P0400,D021,2025-11-18,Routine Checkup,Completed,Insurance
+A01029,P0187,D022,2025-10-20,Routine Checkup,Cancelled,Cash
+A01030,P0453,D021,2025-08-18,New Visit,Completed,UPI
+A01031,P0452,D030,2025-11-18,Follow-up,Completed,Card
+A01032,P0149,D039,2025-10-19,New Visit,Completed,Cash
+A01033,P0104,D020,2025-01-26,Emergency,Completed,Card
+A01034,P0243,D024,2025-03-16,New Visit,Completed,UPI
+A01035,P0462,D023,2025-12-30,Routine Checkup,Completed,Insurance
+A01036,P0231,D007,2025-10-26,Routine Checkup,Cancelled,UPI
+A01037,P0479,D009,2025-05-30,Follow-up,Cancelled,Card
+A01038,P0206,D001,2025-05-28,Follow-up,Completed,Card
+A01039,P0198,D026,2025-01-08,Routine Checkup,Completed,UPI
+A01040,P0396,D038,2025-01-29,Follow-up,Completed,Cash
+A01041,P0400,D038,2025-10-23,New Visit,Completed,UPI
+A01042,P0337,D022,2025-07-28,Follow-up,Completed,UPI
+A01043,P0493,D010,2025-05-08,Routine Checkup,Scheduled,Card
+A01044,P0087,D006,2025-12-06,Emergency,Completed,Card
+A01045,P0142,D017,2025-04-26,Emergency,Completed,UPI
+A01046,P0317,D038,2025-05-24,Routine Checkup,Completed,Card
+A01047,P0199,D024,2025-11-14,Routine Checkup,Completed,Card
+A01048,P0046,D010,2025-08-23,Routine Checkup,Cancelled,Card
+A01049,P0288,D008,2025-01-07,New Visit,Completed,UPI
+A01050,P0015,D021,2025-02-14,Follow-up,Completed,UPI
+A01051,P0044,D006,2025-08-27,Routine Checkup,Cancelled,UPI
+A01052,P0401,D021,2025-06-04,Routine Checkup,Completed,UPI
+A01053,P0169,D039,2025-06-30,Emergency,Cancelled,UPI
+A01054,P0310,D024,2025-08-03,New Visit,Completed,UPI
+A01055,P0495,D033,2025-03-29,Routine Checkup,Completed,Cash
+A01056,P0044,D018,2025-09-13,Routine Checkup,Cancelled,Card
+A01057,P0098,D028,2025-03-14,New Visit,Completed,UPI
+A01058,P0261,D032,2025-06-28,Follow-up,Completed,Cash
+A01059,P0109,D012,2025-07-31,New Visit,Completed,UPI
+A01060,P0283,D027,2025-10-20,Follow-up,Completed,UPI
+A01061,P0372,D010,2025-08-22,New Visit,Completed,Card
+A01062,P0343,D032,2025-08-27,Follow-up,Scheduled,UPI
+A01063,P0104,D026,2025-08-11,Follow-up,Scheduled,UPI
+A01064,P0256,D025,2025-04-29,Emergency,Completed,UPI
+A01065,P0379,D011,2025-11-09,Emergency,Completed,UPI
+A01066,P0206,D023,2025-09-21,Routine Checkup,Completed,Cash
+A01067,P0335,D034,2025-07-26,New Visit,Completed,Insurance
+A01068,P0043,D040,2025-04-05,New Visit,Completed,UPI
+A01069,P0353,D023,2025-08-10,Routine Checkup,Completed,UPI
+A01070,P0245,D029,2025-10-03,New Visit,Scheduled,Cash
+A01071,P0287,D031,2025-08-19,Routine Checkup,Completed,UPI
+A01072,P0355,D007,2025-11-05,Routine Checkup,Completed,Card
+A01073,P0273,D040,2025-04-29,Follow-up,Completed,Card
+A01074,P0476,D033,2025-09-25,Routine Checkup,Scheduled,Card
+A01075,P0083,D021,2025-09-30,New Visit,Cancelled,Cash
+A01076,P0110,D002,2025-03-05,Follow-up,Completed,UPI
+A01077,P0438,D018,2025-10-25,Emergency,Completed,Card
+A01078,P0190,D033,2025-12-16,Follow-up,Scheduled,Insurance
+A01079,P0471,D037,2025-01-11,Routine Checkup,Completed,Cash
+A01080,P0288,D034,2025-04-08,New Visit,Scheduled,UPI
+A01081,P0424,D020,2025-03-12,Follow-up,Completed,UPI
+A01082,P0397,D035,2025-12-30,Follow-up,Completed,Cash
+A01083,P0251,D018,2025-02-27,Emergency,Completed,UPI
+A01084,P0212,D024,2025-10-17,New Visit,Cancelled,Cash
+A01085,P0291,D008,2025-09-08,Follow-up,Completed,Card
+A01086,P0133,D030,2025-10-03,Routine Checkup,Scheduled,UPI
+A01087,P0201,D010,2025-02-19,New Visit,Completed,Cash
+A01088,P0285,D023,2025-12-24,Routine Checkup,Completed,Cash
+A01089,P0326,D011,2025-08-04,Follow-up,Completed,Card
+A01090,P0409,D002,2025-02-21,Routine Checkup,Completed,Cash
+A01091,P0095,D026,2025-09-28,Routine Checkup,Completed,Card
+A01092,P0278,D036,2025-03-25,New Visit,Completed,UPI
+A01093,P0450,D033,2025-10-20,Follow-up,Cancelled,Card
+A01094,P0429,D013,2025-05-06,Routine Checkup,Completed,UPI
+A01095,P0325,D040,2025-10-23,Follow-up,Scheduled,Cash
+A01096,P0219,D025,2025-03-13,Routine Checkup,Completed,UPI
+A01097,P0089,D004,2025-10-23,Follow-up,Scheduled,Cash
+A01098,P0072,D019,2025-08-24,New Visit,Completed,UPI
+A01099,P0247,D018,2025-02-25,Follow-up,Completed,Card
+A01100,P0129,D037,2025-12-26,Routine Checkup,Completed,UPI
+A01101,P0212,D030,2025-04-20,Follow-up,Completed,Cash
+A01102,P0428,D019,2025-07-11,Routine Checkup,Scheduled,UPI
+A01103,P0343,D023,2025-04-03,Routine Checkup,Completed,Card
+A01104,P0096,D016,2025-12-16,Follow-up,Completed,Insurance
+A01105,P0075,D001,2025-02-25,New Visit,Scheduled,Card
+A01106,P0423,D012,2025-03-01,Routine Checkup,Completed,UPI
+A01107,P0495,D024,2025-05-18,Follow-up,Cancelled,Card
+A01108,P0054,D034,2025-02-08,Routine Checkup,Completed,Insurance
+A01109,P0344,D008,2025-01-28,Follow-up,Scheduled,Card
+A01110,P0459,D018,2025-02-18,Follow-up,Completed,UPI
+A01111,P0413,D005,2025-05-05,Routine Checkup,Completed,UPI
+A01112,P0054,D026,2025-01-13,Follow-up,Completed,UPI
+A01113,P0218,D030,2025-02-05,Follow-up,Scheduled,UPI
+A01114,P0016,D013,2025-04-11,Follow-up,Completed,Card
+A01115,P0099,D019,2025-10-09,Follow-up,Completed,UPI
+A01116,P0020,D029,2025-03-27,Follow-up,Completed,Cash
+A01117,P0046,D003,2025-01-04,Routine Checkup,Scheduled,Card
+A01118,P0451,D026,2025-08-11,Follow-up,Scheduled,Card
+A01119,P0193,D040,2025-12-04,Follow-up,Scheduled,UPI
+A01120,P0383,D012,2025-06-15,Emergency,Completed,Card
+A01121,P0058,D002,2025-12-10,New Visit,Completed,UPI
+A01122,P0437,D011,2025-10-05,New Visit,Completed,Insurance
+A01123,P0111,D028,2025-05-10,Routine Checkup,Scheduled,Card
+A01124,P0129,D018,2025-01-31,Routine Checkup,Completed,UPI
+A01125,P0337,D013,2025-01-11,Follow-up,Completed,Card
+A01126,P0194,D037,2025-10-29,Emergency,No Show,Insurance
+A01127,P0413,D022,2025-04-06,New Visit,Completed,UPI
+A01128,P0340,D012,2025-07-09,Emergency,Completed,UPI
+A01129,P0326,D002,2025-07-11,Follow-up,Completed,Card
+A01130,P0008,D037,2025-09-23,Follow-up,Completed,UPI
+A01131,P0029,D007,2025-05-08,Follow-up,No Show,UPI
+A01132,P0112,D026,2025-08-26,New Visit,Completed,Insurance
+A01133,P0435,D026,2025-12-21,New Visit,Completed,Card
+A01134,P0161,D024,2025-04-22,Routine Checkup,Completed,UPI
+A01135,P0131,D012,2025-11-12,Follow-up,Completed,UPI
+A01136,P0188,D016,2025-12-09,Follow-up,Cancelled,UPI
+A01137,P0163,D023,2025-05-25,New Visit,Completed,UPI
+A01138,P0197,D040,2025-03-06,New Visit,Completed,Cash
+A01139,P0475,D009,2025-09-04,Routine Checkup,Completed,Card
+A01140,P0364,D032,2025-08-11,Follow-up,Completed,UPI
+A01141,P0204,D015,2025-11-09,Follow-up,Completed,UPI
+A01142,P0212,D037,2025-04-16,New Visit,Scheduled,UPI
+A01143,P0109,D013,2025-06-30,Routine Checkup,Cancelled,Insurance
+A01144,P0276,D005,2025-07-03,New Visit,No Show,UPI
+A01145,P0073,D011,2025-08-14,New Visit,Completed,Cash
+A01146,P0167,D010,2025-09-22,Follow-up,Completed,Cash
+A01147,P0260,D013,2025-10-05,New Visit,Completed,Card
+A01148,P0243,D015,2025-03-30,New Visit,Completed,Card
+A01149,P0275,D007,2025-06-25,Emergency,Completed,UPI
+A01150,P0102,D040,2025-01-18,Emergency,Completed,UPI
+A01151,P0475,D028,2025-04-16,Routine Checkup,Scheduled,Cash
+A01152,P0173,D032,2025-09-28,Follow-up,Completed,UPI
+A01153,P0171,D035,2025-11-15,New Visit,Completed,UPI
+A01154,P0141,D015,2025-06-16,New Visit,No Show,Cash
+A01155,P0397,D036,2025-01-13,Routine Checkup,Completed,Cash
+A01156,P0188,D021,2025-12-03,Follow-up,Scheduled,Cash
+A01157,P0441,D006,2025-02-01,Routine Checkup,Cancelled,Cash
+A01158,P0086,D001,2025-02-09,New Visit,Scheduled,Card
+A01159,P0476,D004,2025-05-28,Follow-up,Completed,Cash
+A01160,P0052,D011,2025-08-06,New Visit,Cancelled,UPI
+A01161,P0111,D026,2025-08-07,Follow-up,Completed,Cash
+A01162,P0437,D037,2025-03-23,Routine Checkup,Cancelled,Insurance
+A01163,P0365,D023,2025-11-29,Routine Checkup,Completed,Insurance
+A01164,P0342,D029,2025-07-27,Follow-up,Completed,UPI
+A01165,P0043,D021,2025-07-20,Follow-up,Completed,UPI
+A01166,P0211,D027,2025-11-28,Routine Checkup,Completed,UPI
+A01167,P0456,D039,2025-02-07,Emergency,Scheduled,UPI
+A01168,P0500,D040,2025-07-30,New Visit,No Show,Cash
+A01169,P0200,D013,2025-11-23,Follow-up,Cancelled,Card
+A01170,P0298,D023,2025-09-06,New Visit,Completed,UPI
+A01171,P0346,D016,2025-08-15,Follow-up,No Show,Insurance
+A01172,P0240,D030,2025-02-17,Follow-up,Completed,Cash
+A01173,P0115,D004,2025-01-18,Follow-up,Scheduled,Card
+A01174,P0026,D040,2025-10-22,Follow-up,Scheduled,Card
+A01175,P0407,D016,2025-07-15,New Visit,Completed,Cash
+A01176,P0299,D031,2025-07-06,Follow-up,Scheduled,UPI
+A01177,P0077,D025,2025-12-11,Routine Checkup,Completed,Cash
+A01178,P0412,D012,2025-08-12,Emergency,Completed,UPI
+A01179,P0137,D026,2025-11-14,Follow-up,Completed,UPI
+A01180,P0020,D037,2025-12-31,Routine Checkup,Completed,Card
+A01181,P0440,D033,2025-12-03,Routine Checkup,No Show,UPI
+A01182,P0211,D028,2025-08-17,New Visit,Completed,Insurance
+A01183,P0240,D009,2025-03-18,New Visit,Completed,Cash
+A01184,P0039,D012,2025-07-07,Routine Checkup,Completed,Insurance
+A01185,P0435,D005,2025-12-12,Routine Checkup,Cancelled,UPI
+A01186,P0268,D028,2025-09-27,Routine Checkup,Scheduled,Card
+A01187,P0207,D035,2025-04-05,Routine Checkup,Cancelled,UPI
+A01188,P0479,D005,2025-11-06,Emergency,Cancelled,Cash
+A01189,P0439,D034,2025-05-12,Follow-up,Completed,Insurance
+A01190,P0462,D034,2025-02-08,New Visit,Completed,UPI
+A01191,P0267,D013,2025-03-13,New Visit,Completed,Card
+A01192,P0154,D039,2025-10-08,Follow-up,Completed,Card
+A01193,P0042,D014,2025-11-29,Emergency,Cancelled,UPI
+A01194,P0411,D011,2025-06-09,Follow-up,Completed,UPI
+A01195,P0011,D038,2025-07-06,Routine Checkup,No Show,Card
+A01196,P0294,D004,2025-07-10,New Visit,Completed,Cash
+A01197,P0098,D033,2025-04-30,Follow-up,Completed,Card
+A01198,P0427,D007,2025-08-08,New Visit,Completed,Insurance
+A01199,P0275,D008,2025-02-22,Follow-up,Scheduled,Cash
+A01200,P0448,D037,2025-08-10,Routine Checkup,No Show,Cash
