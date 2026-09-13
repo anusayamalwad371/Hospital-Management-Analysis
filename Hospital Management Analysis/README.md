@@ -1,36 +1,40 @@
-# Hospital Management & Patient Records Analysis
+#  Hospital Management Analysis - EDA Project
 
-## Technologies
-Python, Pandas, NumPy, Matplotlib, Excel/CSV.
+📊 Project Overview
+This project analyzes hospital data to uncover insights on:
 
-## Run the project
+- Patient admissions by department
+- Doctor performance & appointment status
+- Billing and revenue trends
+- Lab results and medication usage
 
-### 1. Create virtual environment
-```bash
-python -m venv venv
-```
 
-### 2. Activate on Windows
-```bash
-venv\Scripts\activate
-```
+🛠️ Tech Stack
 
-### 3. Install libraries
-```bash
-pip install -r requirements.txt
-```
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook / Python Scripts
+- Git & GitHub
 
-### 4. Run
-```bash
-python main.py
-```
 
-## Modules
+ 📁 Project Structure
+ 
+Hospital-Management-Analysis/
+├── data/       -Raw datasets (admissions, billing, patients, etc.)
+├── src/        -Python scripts for cleaning & analysis
+├── output/     -Generated charts & visualizations
+└── main.py     -Main execution file
 
-- `data_loader.py` — loads all CSV datasets
-- `data_cleaning.py` — removes duplicates, cleans text and dates, handles missing numeric values
-- `data_transformation.py` — creates analytical columns
-- `analysis.py` — calculates hospital KPIs and summaries
-- `visualization.py` — generates charts
-- `report.py` — creates final Markdown report
-- `config.py` — project paths and dataset configuration
+
+
+📈 Key Visualizations
+Visualizations are available in `/output/charts/' folder:
+- Admissions by Department
+- Monthly Revenue Analysis
+- Appointment Status
+- Lab Results Distribution
+
+# Conclusion
+
+This project analyzes hospital data to optimize patient flow, staff allocation, and revenue. Insights show which departments have high demand and where appointment/billing efficiency can be improved. This forms a base for building a future hospital dashboard.
+
+ 
